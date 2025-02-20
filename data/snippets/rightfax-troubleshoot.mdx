@@ -1,0 +1,40 @@
+---
+heading: 'Rightfax Troubleshooting'
+title: 'Rightfax Troubleshooting'
+date: '2023-07-29'
+lastmod: '2024-12-31'
+draft: false
+icon: 
+summary: 'This article is about troubleshooting some Rightfax problems I have dealt with in the past.'
+tags: ['Rightfax']
+---
+
+Hopefully this might help someone else troubleshoot Rigthfax problems that I have come across but was not able to find the answer
+on the internet and or get the proper help from Rightfax support.
+
+
+### Sync-Module Not Auto Syncing
+I was having a problem with syncing an active directory group and would get this error message every time. The error message would 
+show up in the event viewer and or when you run the debug for the syne module.
+
+```
+Error while 'RF - QUALITY' was processing 'D:\Program Files (x86)\RightFax\CapaSync\Incoming\AdSync_230718180425.xml'.
+RightFax.Api.Common.RFApi32+Exception: The user or object does not exist. (-9903)
+   at RightFax.Server.Sync.RightFaxPlugin.RightFaxTask.ConnectToRightFaxServer(String strServer, RightFaxCredentials cred)
+   at RightFax.Server.Sync.RightFaxPlugin.RightFaxTask.DoDestinationSync(String strFile, String strSchema, Int32& iNumUsersSynced)
+   at RightFax.Server.Sync.CoreProcess.StartDestinationSync(Profile destination, ScheduledItem schedule, String strInFile)
+```
+
+At the end of the day the fix is very easy and made sense, however not even Rightfax support was able to figure this out after doing 
+a remote screen share and taking over the server.
+
+The fix is to make sure that the service account that you use for Rightfax is also a user within Rightfax its self.
+
+### How To Manually Sync the Sync Module
+Open the settings for the AD config you want to sync. Check the box to "Also schedule a sync after control panel is closed".
+
+![Rightfax Sync Module](/static/images/snippets/sync-module.png)
+
+Click ok and then apply. Before you hit ok on the Sync Module Configuration you want to hit cancel after hitting apply. At 
+this point the Sync Module should turn red and say "interactive or stopped". Right click on the Sync Module and select Debug.
+This will run the sync job manually and will give you a log.

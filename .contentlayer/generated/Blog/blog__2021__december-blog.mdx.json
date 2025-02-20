@@ -1,0 +1,87 @@
+{
+  "title": "December Daily Blog",
+  "date": "2021-12-19T00:00:00.000Z",
+  "tags": [
+    "Daily Blog",
+    "December",
+    "Christmas"
+  ],
+  "lastmod": "2021-12-19T00:00:00.000Z",
+  "draft": false,
+  "summary": "My daily blog page for December 2021. I like to blog small thoughts that come access my mind each day, or maybe just talk about what I have been doing this month.",
+  "images": [
+    "/static/images/Christmas_Background.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\n### December 19, 2021\nToday was a bum day. I worked on this site some, mostly played games and tonight I plan on cooking me a turkey rice\nbowel that I do every so often. My turkey rice bowl is ground turkey with soy sauce, and other spices. Chopped carrots\nand cabbage that have been sitting in white vingar for a hour or so. Cook the ground turkey on the stove top with the\ncarrots and cabbage, maybe a little brown surgar thrown in there. Put it over white rice, add some plain non-fat greek yourget\non top and Avacado if I have it.\n\n### December 20, 2021\nFive days until Christmas! Also getting my COVID booster on Wedensday at TCC. \n\n### December 21, 2021\nFour days until Christmas!\n\n### December 22, 2021\nThree days until Christmas! Got my Covid booster shot today. Got it done at TCC North East campus, another round of Pfizer. It was pretty open\nat TCC, no school going on and only few people in a class room getting their booster. Heading to the parents tonight\nto stay until Christmas.\n\n### December 23, 2021\nTwo days until Christmas! Over night the booster shot made me feel achey, chills, and a headache. Kind of out me out of commission half the day\ntoday. Mom made Nutcracker Sweet which is a dessert that she always made in the 90s when I was a kid. Its one of my \nfavorites. We also watched Polar Express tonight as we do every year.  \n\n![Nutcracker Sweet](/static/images/blog2021/nutcrackersweet.jpg)\n\n### December 25, 2021\nChristmas Eve we had dinner with some family friends at our house. Pretty much the same type of food we have for \nThanks Giving. I got a few nice items for my Tesla this year. Some WeatherTech floor matts, black out window shades\nfor when I go car camping. Over all was a good COVID Christmas except the fact it was still 80F outside in Texas.\n\n### Decmber 31, 2021\nJust bringning in the new year with my parents in our family friends back yard. Drinking some beer and just talked\nabout new and old music.\n\n",
+    "code": "var Component=(()=>{var m=Object.create;var l=Object.defineProperty;var w=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var b=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var r in e)l(t,r,{get:e[r],enumerable:!0})},o=(t,e,r,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let n of g(e))!u.call(t,n)&&n!==r&&l(t,n,{get:()=>e[n],enumerable:!(i=w(e,n))||i.enumerable});return t};var y=(t,e,r)=>(r=t!=null?m(p(t)):{},o(e||!t||!t.__esModule?l(r,\"default\",{value:t,enumerable:!0}):r,t)),v=t=>o(l({},\"__esModule\",{value:!0}),t);var h=b((I,s)=>{s.exports=_jsx_runtime});var C={};f(C,{default:()=>c,frontmatter:()=>k});var a=y(h()),k={title:\"December Daily Blog\",date:\"2021-12-19\",lastmod:\"2021-12-19\",tags:[\"Daily Blog\",\"December\",\"Christmas\"],draft:!1,summary:\"My daily blog page for December 2021. I like to blog small thoughts that come access my mind each day, or maybe just talk about what I have been doing this month.\",images:[\"/static/images/Christmas_Background.jpg\"],authors:[\"default\"]};function d(t){let e={a:\"a\",div:\"div\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...t.components},{Image:r}=e;return r||x(\"Image\",!0),(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-19-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-19-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 19, 2021\"]}),(0,a.jsx)(e.p,{children:\"Today was a bum day. I worked on this site some, mostly played games and tonight I plan on cooking me a turkey rice bowel that I do every so often. My turkey rice bowl is ground turkey with soy sauce, and other spices. Chopped carrots and cabbage that have been sitting in white vingar for a hour or so. Cook the ground turkey on the stove top with the carrots and cabbage, maybe a little brown surgar thrown in there. Put it over white rice, add some plain non-fat greek yourget on top and Avacado if I have it.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-20-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-20-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 20, 2021\"]}),(0,a.jsx)(e.p,{children:\"Five days until Christmas! Also getting my COVID booster on Wedensday at TCC.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-21-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-21-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 21, 2021\"]}),(0,a.jsx)(e.p,{children:\"Four days until Christmas!\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-22-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-22-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 22, 2021\"]}),(0,a.jsx)(e.p,{children:\"Three days until Christmas! Got my Covid booster shot today. Got it done at TCC North East campus, another round of Pfizer. It was pretty open at TCC, no school going on and only few people in a class room getting their booster. Heading to the parents tonight to stay until Christmas.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-23-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-23-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 23, 2021\"]}),(0,a.jsx)(e.p,{children:\"Two days until Christmas! Over night the booster shot made me feel achey, chills, and a headache. Kind of out me out of commission half the day today. Mom made Nutcracker Sweet which is a dessert that she always made in the 90s when I was a kid. Its one of my favorites. We also watched Polar Express tonight as we do every year.\"}),(0,a.jsx)(e.div,{children:(0,a.jsx)(r,{alt:\"Nutcracker Sweet\",src:\"/static/images/blog2021/nutcrackersweet.jpg\",width:\"400\",height:\"534\"})}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-25-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-25-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 25, 2021\"]}),(0,a.jsx)(e.p,{children:\"Christmas Eve we had dinner with some family friends at our house. Pretty much the same type of food we have for Thanks Giving. I got a few nice items for my Tesla this year. Some WeatherTech floor matts, black out window shades for when I go car camping. Over all was a good COVID Christmas except the fact it was still 80F outside in Texas.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"decmber-31-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#decmber-31-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Decmber 31, 2021\"]}),(0,a.jsx)(e.p,{children:\"Just bringning in the new year with my parents in our family friends back yard. Drinking some beer and just talked about new and old music.\"})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(d,{...t})}):d(t)}function x(t,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+t+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return v(C);})();\n;return Component;"
+  },
+  "_id": "blog/2021/december-blog.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2021/december-blog.mdx",
+    "sourceFileName": "december-blog.mdx",
+    "sourceFileDir": "blog/2021",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2021/december-blog"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "2 min read",
+    "minutes": 1.775,
+    "time": 106500,
+    "words": 355
+  },
+  "slug": "2021/december-blog",
+  "path": "blog/2021/december-blog",
+  "filePath": "blog/2021/december-blog.mdx",
+  "toc": [
+    {
+      "value": "December 19, 2021",
+      "url": "#december-19-2021",
+      "depth": 3
+    },
+    {
+      "value": "December 20, 2021",
+      "url": "#december-20-2021",
+      "depth": 3
+    },
+    {
+      "value": "December 21, 2021",
+      "url": "#december-21-2021",
+      "depth": 3
+    },
+    {
+      "value": "December 22, 2021",
+      "url": "#december-22-2021",
+      "depth": 3
+    },
+    {
+      "value": "December 23, 2021",
+      "url": "#december-23-2021",
+      "depth": 3
+    },
+    {
+      "value": "December 25, 2021",
+      "url": "#december-25-2021",
+      "depth": 3
+    },
+    {
+      "value": "Decmber 31, 2021",
+      "url": "#decmber-31-2021",
+      "depth": 3
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "December Daily Blog",
+    "datePublished": "2021-12-19T00:00:00.000Z",
+    "dateModified": "2021-12-19T00:00:00.000Z",
+    "description": "My daily blog page for December 2021. I like to blog small thoughts that come access my mind each day, or maybe just talk about what I have been doing this month.",
+    "image": "/static/images/Christmas_Background.jpg",
+    "url": "https://www.rustyyow.com/blog/2021/december-blog"
+  }
+}

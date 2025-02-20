@@ -1,0 +1,46 @@
+{
+  "heading": "Read file names",
+  "title": "Read all file names in a directory",
+  "icon": "Bash",
+  "date": "2021-08-28T00:00:00.000Z",
+  "tags": [
+    "bash",
+    "shell",
+    "script"
+  ],
+  "draft": false,
+  "summary": "A quick utility to read all file names in a directory using Node.js.",
+  "body": {
+    "raw": "\nRequired: `node.js` installation.\n\nQuickly get all files' names inside a folder\n\n```bash\nconsole.log(fs.readdirSync('./folder-path'))\n```\n\nExample:\n\n```bash showLineNumbers\n# Make sure node.js installed\nnode -v\nv22.9.0\n\n# Now it's good to go\nnode\n> console.log(fs.readdirSync('./folder'))\n[\n  '.DS_Store',\n  'authors',\n  'blog',\n  'headerNavLinks.js',\n  'logo.svg',\n  'projectsData.js',\n  'SITE_METADATA.js',\n  'snippets'\n]\n```\n",
+    "code": "var Component=(()=>{var g=Object.create;var l=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var o=Object.getOwnPropertyNames;var y=Object.getPrototypeOf,A=Object.prototype.hasOwnProperty;var D=(s,i)=>()=>(i||s((i={exports:{}}).exports,i),i.exports),B=(s,i)=>{for(var a in i)l(s,a,{get:i[a],enumerable:!0})},d=(s,i,a,h)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let n of o(i))!A.call(s,n)&&n!==a&&l(s,n,{get:()=>i[n],enumerable:!(h=p(i,n))||h.enumerable});return s};var F=(s,i,a)=>(a=s!=null?g(y(s)):{},d(i||!s||!s.__esModule?l(a,\"default\",{value:s,enumerable:!0}):a,s)),m=s=>d(l({},\"__esModule\",{value:!0}),s);var r=D((C,t)=>{t.exports=_jsx_runtime});var f={};B(f,{default:()=>c,frontmatter:()=>u});var e=F(r()),u={heading:\"Read file names\",title:\"Read all file names in a directory\",date:\"2021-08-28\",icon:\"Bash\",draft:!1,summary:\"A quick utility to read all file names in a directory using Node.js.\",tags:[\"bash\",\"shell\",\"script\"]};function k(s){let i={code:\"code\",figure:\"figure\",p:\"p\",pre:\"pre\",span:\"span\",...s.components};return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(i.p,{children:[\"Required: \",(0,e.jsx)(i.code,{children:\"node.js\"}),\" installation.\"]}),(0,e.jsx)(i.p,{children:\"Quickly get all files' names inside a folder\"}),(0,e.jsx)(i.figure,{\"data-rehype-pretty-code-figure\":\"\",children:(0,e.jsx)(i.pre,{\"data-language\":\"bash\",\"data-theme\":\"github-dark-dimmed solarized-light\",style:{\"--shiki-dark\":\"#adbac7\",\"--shiki-light\":\"#657B83\",\"--shiki-dark-bg\":\"#22272e\",\"--shiki-light-bg\":\"#FDF6E3\"},tabIndex:\"0\",children:(0,e.jsx)(i.code,{\"data-language\":\"bash\",\"data-theme\":\"github-dark-dimmed solarized-light\",style:{display:\"grid\"},children:(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"console.log(fs.readdirSync(\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"'./folder-path'\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\"))\"})]})})})}),(0,e.jsx)(i.p,{children:\"Example:\"}),(0,e.jsx)(i.figure,{\"data-rehype-pretty-code-figure\":\"\",children:(0,e.jsx)(i.pre,{\"data-language\":\"bash\",\"data-theme\":\"github-dark-dimmed solarized-light\",style:{\"--shiki-dark\":\"#adbac7\",\"--shiki-light\":\"#657B83\",\"--shiki-dark-bg\":\"#22272e\",\"--shiki-light-bg\":\"#FDF6E3\"},tabIndex:\"0\",children:(0,e.jsxs)(i.code,{\"data-language\":\"bash\",\"data-theme\":\"github-dark-dimmed solarized-light\",style:{display:\"grid\"},\"data-line-numbers\":\"\",\"data-line-numbers-max-digits\":\"2\",children:[(0,e.jsx)(i.span,{\"data-line\":\"\",children:(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#768390\",\"--shiki-dark-font-style\":\"inherit\",\"--shiki-light\":\"#93A1A1\",\"--shiki-light-font-style\":\"italic\"},children:\"# Make sure node.js installed\"})}),`\n`,(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"node\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#6CB6FF\",\"--shiki-light\":\"#CB4B16\"},children:\" -v\"})]}),`\n`,(0,e.jsx)(i.span,{\"data-line\":\"\",children:(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"v22.9.0\"})}),`\n`,(0,e.jsx)(i.span,{\"data-line\":\"\",children:\" \"}),`\n`,(0,e.jsx)(i.span,{\"data-line\":\"\",children:(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#768390\",\"--shiki-dark-font-style\":\"inherit\",\"--shiki-light\":\"#93A1A1\",\"--shiki-light-font-style\":\"italic\"},children:\"# Now it's good to go\"})}),`\n`,(0,e.jsx)(i.span,{\"data-line\":\"\",children:(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"node\"})}),`\n`,(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#F47067\",\"--shiki-light\":\"#859900\"},children:\">\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\" console.log(\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"fs.readdirSync(\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"'./folder'\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\"))\"})]}),`\n`,(0,e.jsx)(i.span,{\"data-line\":\"\",children:(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\"[\"})}),`\n`,(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\"  '.DS_Store'\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\",\"})]}),`\n`,(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\"  'authors'\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\",\"})]}),`\n`,(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\"  'blog'\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\",\"})]}),`\n`,(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\"  'headerNavLinks.js'\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\",\"})]}),`\n`,(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\"  'logo.svg'\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\",\"})]}),`\n`,(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\"  'projectsData.js'\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\",\"})]}),`\n`,(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\"  'SITE_METADATA.js'\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\",\"})]}),`\n`,(0,e.jsx)(i.span,{\"data-line\":\"\",children:(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\"  'snippets'\"})}),`\n`,(0,e.jsx)(i.span,{\"data-line\":\"\",children:(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#ADBAC7\",\"--shiki-light\":\"#657B83\"},children:\"]\"})})]})})})]})}function c(s={}){let{wrapper:i}=s.components||{};return i?(0,e.jsx)(i,{...s,children:(0,e.jsx)(k,{...s})}):k(s)}return m(f);})();\n;return Component;"
+  },
+  "_id": "snippets/read-all-file-names-inside-a-folder.mdx",
+  "_raw": {
+    "sourceFilePath": "snippets/read-all-file-names-inside-a-folder.mdx",
+    "sourceFileName": "read-all-file-names-inside-a-folder.mdx",
+    "sourceFileDir": "snippets",
+    "contentType": "mdx",
+    "flattenedPath": "snippets/read-all-file-names-inside-a-folder"
+  },
+  "type": "Snippet",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.225,
+    "time": 13500,
+    "words": 45
+  },
+  "slug": "read-all-file-names-inside-a-folder",
+  "path": "snippets/read-all-file-names-inside-a-folder",
+  "filePath": "snippets/read-all-file-names-inside-a-folder.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "CodeSnippet",
+    "headline": "Read all file names in a directory",
+    "datePublished": "2021-08-28T00:00:00.000Z",
+    "dateModified": "2021-08-28T00:00:00.000Z",
+    "description": "A quick utility to read all file names in a directory using Node.js.",
+    "image": "/static/images/twitter-card.jpeg",
+    "url": "https://www.rustyyow.com/snippets/read-all-file-names-inside-a-folder"
+  }
+}

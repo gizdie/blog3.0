@@ -1,0 +1,51 @@
+{
+  "title": "Moonfall Movie Review",
+  "date": "2022-08-11T00:00:00.000Z",
+  "tags": [
+    "Movie",
+    "Review",
+    "Daily Blog"
+  ],
+  "lastmod": "2022-08-11T00:00:00.000Z",
+  "draft": true,
+  "summary": "My thoughts on the movie Moonfall. Spolier its meh.",
+  "images": [
+    "/static/images/blog2023/moonfall.png"
+  ],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\nI have alot of time on my hands and so I watch random movies like Moonfall. Especially if its Sci-fi or fantsay I will watch\nit no matter the reviews. I noticed it has the Game of Thrones guy John Bradley which I kind of liked his character in GOT.\nI would say John did a good job of his role in Moonfall as well. The rest of the movie to me is just one of those \"2012\" type\nmovies where everything is falling apart and shit is flying every where, including helicopters that can fly through a giant wave\nof water with zero problems...\n\nSo that would all make sense seeing how the director is Roland Emmerich which also did 2012, The Day After Tomorrow, etc.\n\n![Test](/static/images/blog2023/test_2of5.png)",
+    "code": "var Component=(()=>{var d=Object.create;var n=Object.defineProperty;var f=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var w=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var p=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),y=(t,e)=>{for(var i in e)n(t,i,{get:e[i],enumerable:!0})},r=(t,e,i,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let a of g(e))!u.call(t,a)&&a!==i&&n(t,a,{get:()=>e[a],enumerable:!(s=f(e,a))||s.enumerable});return t};var v=(t,e,i)=>(i=t!=null?d(w(t)):{},r(e||!t||!t.__esModule?n(i,\"default\",{value:t,enumerable:!0}):i,t)),M=t=>r(n({},\"__esModule\",{value:!0}),t);var h=p((I,l)=>{l.exports=_jsx_runtime});var _={};y(_,{default:()=>c,frontmatter:()=>x});var o=v(h()),x={title:\"Moonfall Movie Review\",date:\"2022-08-11\",lastmod:\"2022-08-11\",tags:[\"Movie\",\"Review\",\"Daily Blog\"],draft:!0,summary:\"My thoughts on the movie Moonfall. Spolier its meh.\",images:[\"/static/images/blog2023/moonfall.png\"],authors:[\"default\"]};function m(t){let e={img:\"img\",p:\"p\",...t.components};return(0,o.jsxs)(o.Fragment,{children:[(0,o.jsx)(e.p,{children:'I have alot of time on my hands and so I watch random movies like Moonfall. Especially if its Sci-fi or fantsay I will watch it no matter the reviews. I noticed it has the Game of Thrones guy John Bradley which I kind of liked his character in GOT. I would say John did a good job of his role in Moonfall as well. The rest of the movie to me is just one of those \"2012\" type movies where everything is falling apart and shit is flying every where, including helicopters that can fly through a giant wave of water with zero problems...'}),(0,o.jsx)(e.p,{children:\"So that would all make sense seeing how the director is Roland Emmerich which also did 2012, The Day After Tomorrow, etc.\"}),(0,o.jsx)(e.p,{children:(0,o.jsx)(e.img,{alt:\"Test\",src:\"/static/images/blog2023/test_2of5.png\"})})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,o.jsx)(e,{...t,children:(0,o.jsx)(m,{...t})}):m(t)}return M(_);})();\n;return Component;"
+  },
+  "_id": "blog/reviews/moonfall.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/reviews/moonfall.mdx",
+    "sourceFileName": "moonfall.mdx",
+    "sourceFileDir": "blog/reviews",
+    "contentType": "mdx",
+    "flattenedPath": "blog/reviews/moonfall"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.64,
+    "time": 38400,
+    "words": 128
+  },
+  "slug": "reviews/moonfall",
+  "path": "blog/reviews/moonfall",
+  "filePath": "blog/reviews/moonfall.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Moonfall Movie Review",
+    "datePublished": "2022-08-11T00:00:00.000Z",
+    "dateModified": "2022-08-11T00:00:00.000Z",
+    "description": "My thoughts on the movie Moonfall. Spolier its meh.",
+    "image": "/static/images/blog2023/moonfall.png",
+    "url": "https://www.rustyyow.com/blog/reviews/moonfall"
+  }
+}

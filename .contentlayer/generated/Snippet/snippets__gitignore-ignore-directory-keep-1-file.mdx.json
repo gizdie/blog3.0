@@ -1,0 +1,45 @@
+{
+  "heading": ".gitignore tips",
+  "title": "Ignore all files in a directory except a specific file",
+  "icon": "Git",
+  "date": "2021-08-27T00:00:00.000Z",
+  "tags": [
+    "git",
+    "gitignore"
+  ],
+  "draft": false,
+  "summary": "How to ignore all files in a directory except for a specific one.",
+  "body": {
+    "raw": "\nKeep 1 file and ignore others in a directory\n\n`.gitignore`\n\n```bash:.gitignore {5} showLineNumbers\n# Ignore all file in a directory\ndirectory/*\n\n# Keep only this file\n!directory/file-to-keep.ext\n```\n",
+    "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var p=Object.getOwnPropertyDescriptor;var k=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var m=(e,i)=>()=>(i||e((i={exports:{}}).exports,i),i.exports),u=(e,i)=>{for(var n in i)r(e,n,{get:i[n],enumerable:!0})},d=(e,i,n,l)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let a of k(i))!y.call(e,a)&&a!==n&&r(e,a,{get:()=>i[a],enumerable:!(l=p(i,a))||l.enumerable});return e};var x=(e,i,n)=>(n=e!=null?g(f(e)):{},d(i||!e||!e.__esModule?r(n,\"default\",{value:e,enumerable:!0}):n,e)),b=e=>d(r({},\"__esModule\",{value:!0}),e);var o=m((w,s)=>{s.exports=_jsx_runtime});var F={};u(F,{default:()=>c,frontmatter:()=>_});var t=x(o()),_={heading:\".gitignore tips\",title:\"Ignore all files in a directory except a specific file\",date:\"2021-08-27\",icon:\"Git\",draft:!1,summary:\"How to ignore all files in a directory except for a specific one.\",tags:[\"git\",\"gitignore\"]};function h(e){let i={code:\"code\",figure:\"figure\",p:\"p\",pre:\"pre\",span:\"span\",...e.components},{CodeTitle:n}=i;return n||D(\"CodeTitle\",!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(i.p,{children:\"Keep 1 file and ignore others in a directory\"}),(0,t.jsx)(i.p,{children:(0,t.jsx)(i.code,{children:\".gitignore\"})}),(0,t.jsx)(n,{lang:\"bash\",title:\".gitignore\"}),(0,t.jsx)(i.figure,{\"data-rehype-pretty-code-figure\":\"\",children:(0,t.jsx)(i.pre,{\"data-language\":\"bash\",\"data-theme\":\"github-dark-dimmed solarized-light\",style:{\"--shiki-dark\":\"#adbac7\",\"--shiki-light\":\"#657B83\",\"--shiki-dark-bg\":\"#22272e\",\"--shiki-light-bg\":\"#FDF6E3\"},tabIndex:\"0\",children:(0,t.jsxs)(i.code,{\"data-language\":\"bash\",\"data-line-numbers\":\"\",\"data-line-numbers-max-digits\":\"1\",\"data-theme\":\"github-dark-dimmed solarized-light\",style:{display:\"grid\"},children:[(0,t.jsx)(i.span,{\"data-line\":\"\",children:(0,t.jsx)(i.span,{style:{\"--shiki-dark\":\"#768390\",\"--shiki-dark-font-style\":\"inherit\",\"--shiki-light\":\"#93A1A1\",\"--shiki-light-font-style\":\"italic\"},children:\"# Ignore all file in a directory\"})}),`\n`,(0,t.jsx)(i.span,{\"data-line\":\"\",children:(0,t.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"directory/*\"})}),`\n`,(0,t.jsx)(i.span,{\"data-line\":\"\",children:\" \"}),`\n`,(0,t.jsx)(i.span,{\"data-line\":\"\",children:(0,t.jsx)(i.span,{style:{\"--shiki-dark\":\"#768390\",\"--shiki-dark-font-style\":\"inherit\",\"--shiki-light\":\"#93A1A1\",\"--shiki-light-font-style\":\"italic\"},children:\"# Keep only this file\"})}),`\n`,(0,t.jsxs)(i.span,{\"data-line\":\"\",\"data-highlighted-line\":\"\",children:[(0,t.jsx)(i.span,{style:{\"--shiki-dark\":\"#F47067\",\"--shiki-light\":\"#859900\"},children:\"!\"}),(0,t.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"directory/file-to-keep.ext\"})]})]})})})]})}function c(e={}){let{wrapper:i}=e.components||{};return i?(0,t.jsx)(i,{...e,children:(0,t.jsx)(h,{...e})}):h(e)}function D(e,i){throw new Error(\"Expected \"+(i?\"component\":\"object\")+\" `\"+e+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return b(F);})();\n;return Component;"
+  },
+  "_id": "snippets/gitignore-ignore-directory-keep-1-file.mdx",
+  "_raw": {
+    "sourceFilePath": "snippets/gitignore-ignore-directory-keep-1-file.mdx",
+    "sourceFileName": "gitignore-ignore-directory-keep-1-file.mdx",
+    "sourceFileDir": "snippets",
+    "contentType": "mdx",
+    "flattenedPath": "snippets/gitignore-ignore-directory-keep-1-file"
+  },
+  "type": "Snippet",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.14,
+    "time": 8400,
+    "words": 28
+  },
+  "slug": "gitignore-ignore-directory-keep-1-file",
+  "path": "snippets/gitignore-ignore-directory-keep-1-file",
+  "filePath": "snippets/gitignore-ignore-directory-keep-1-file.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "CodeSnippet",
+    "headline": "Ignore all files in a directory except a specific file",
+    "datePublished": "2021-08-27T00:00:00.000Z",
+    "dateModified": "2021-08-27T00:00:00.000Z",
+    "description": "How to ignore all files in a directory except for a specific one.",
+    "image": "/static/images/twitter-card.jpeg",
+    "url": "https://www.rustyyow.com/snippets/gitignore-ignore-directory-keep-1-file"
+  }
+}

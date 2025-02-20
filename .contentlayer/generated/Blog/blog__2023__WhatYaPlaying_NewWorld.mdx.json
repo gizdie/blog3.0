@@ -1,0 +1,81 @@
+{
+  "title": "What Ya Playing - New World",
+  "date": "2023-08-18T00:00:00.000Z",
+  "tags": [
+    "daily-blog",
+    "gaming"
+  ],
+  "lastmod": "2023-08-18T00:00:00.000Z",
+  "draft": false,
+  "summary": "What games have I been playing for 2023! What i'm looking forward to, what I think about current games, and just general ranting.",
+  "images": [
+    "/static/images/blog2023/newworld.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\n### What I Have Been Playing\nRecently my video game playing has been a bit all over the place. \nI struggle to find something I really enjoy and I miss playing a good shooting FPS. \nMy game ADD has really set in. I'm holding my breath for Starfield which comes out \nnext month, which im hoping will be the next Skyrim and keep me busy for a good while.\n\nSo below is a list of what I have been playing and or what I have been dablling in.\n\n### New World\nI really really enjoy New World, the combat system, aniamations, art, spells, skills, \neverything. However the major problem for me is end game New World doesnt seem to have \nanything to make you feel you are... progressing. They add new content once in a while\n but where is the progression? Most of the time progression of armor and weapons is just roll of a loot dice for a .005% chance to get something useful. \n\nI miss the days of WoW (but I cant go back to that game, too old) type gameplay where there \nis a BIS item a dugeon but you might need to do the dugeon 20 times to get that one peice. \nNone of that really exists in New World and if it does the item you want is not BIS at all.\n\n### Diablo 4\nI played the shit out of Diablo 1 and Diablo 2 in the 1990s and I played Diablo 3 when it came \nout but I don't think 3 has as much charm as the old ones. Diablo 4 is pretty fun, I just havnt \ngotten into the mood fully for it. I need to finish the story part so I can progress to the next \n\"level\" of difficulty to get the \"real\" drops. I suspect I will keep playing Diablo 4 on and off. \nAlso I want to add i'm ok with the slowness of Diablo 4 unlike Diablo 3 where shit was just \nflying all over the screen at lighting speed.\n\n\n### Palia Beta\nI got into the game beta of Palia which is what I would describe as a Stardew valley meets Farmville.\n Its a \"mmo\" but ehhhh not really just a few people you see in town here and there.\n\n### Starfield\nAll I can say about Starfield is that I'm excited for this game and can't wait for it. \nI just hope it does not disapoint!\n\n### Magic The Gathering\nMy childhood friends got me into playing Magic the Gathering back when we were in 7th grade. So naturally those same\nfriends are trying to get me into playing again. This time Magic the Gathering commander decks. I'm not a huge fan of \nthe commander game type as it's more complicated than I remember and liked the more randomness of making a 40 card deck\nthat you need to prefect. Either way we are giving it a go here and there.\n\n",
+    "code": "var Component=(()=>{var g=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var w=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var u=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),y=(t,e)=>{for(var n in e)i(t,n,{get:e[n],enumerable:!0})},h=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let l of w(e))!f.call(t,l)&&l!==n&&i(t,l,{get:()=>e[l],enumerable:!(o=m(e,l))||o.enumerable});return t};var b=(t,e,n)=>(n=t!=null?g(p(t)):{},h(e||!t||!t.__esModule?i(n,\"default\",{value:t,enumerable:!0}):n,t)),v=t=>h(i({},\"__esModule\",{value:!0}),t);var s=u((N,r)=>{r.exports=_jsx_runtime});var x={};y(x,{default:()=>c,frontmatter:()=>I});var a=b(s()),I={title:\"What Ya Playing - New World\",date:\"2023-08-18\",lastmod:\"2023-08-18\",tags:[\"daily-blog\",\"gaming\"],draft:!1,summary:\"What games have I been playing for 2023! What i'm looking forward to, what I think about current games, and just general ranting.\",images:[\"/static/images/blog2023/newworld.jpg\"],authors:[\"default\"]};function d(t){let e={a:\"a\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...t.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"what-i-have-been-playing\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#what-i-have-been-playing\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"What I Have Been Playing\"]}),(0,a.jsx)(e.p,{children:\"Recently my video game playing has been a bit all over the place. I struggle to find something I really enjoy and I miss playing a good shooting FPS. My game ADD has really set in. I'm holding my breath for Starfield which comes out next month, which im hoping will be the next Skyrim and keep me busy for a good while.\"}),(0,a.jsx)(e.p,{children:\"So below is a list of what I have been playing and or what I have been dablling in.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"new-world\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#new-world\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"New World\"]}),(0,a.jsx)(e.p,{children:\"I really really enjoy New World, the combat system, aniamations, art, spells, skills, everything. However the major problem for me is end game New World doesnt seem to have anything to make you feel you are... progressing. They add new content once in a while but where is the progression? Most of the time progression of armor and weapons is just roll of a loot dice for a .005% chance to get something useful.\"}),(0,a.jsx)(e.p,{children:\"I miss the days of WoW (but I cant go back to that game, too old) type gameplay where there is a BIS item a dugeon but you might need to do the dugeon 20 times to get that one peice. None of that really exists in New World and if it does the item you want is not BIS at all.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"diablo-4\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#diablo-4\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Diablo 4\"]}),(0,a.jsx)(e.p,{children:`I played the shit out of Diablo 1 and Diablo 2 in the 1990s and I played Diablo 3 when it came out but I don't think 3 has as much charm as the old ones. Diablo 4 is pretty fun, I just havnt gotten into the mood fully for it. I need to finish the story part so I can progress to the next \"level\" of difficulty to get the \"real\" drops. I suspect I will keep playing Diablo 4 on and off. Also I want to add i'm ok with the slowness of Diablo 4 unlike Diablo 3 where shit was just flying all over the screen at lighting speed.`}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"palia-beta\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#palia-beta\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Palia Beta\"]}),(0,a.jsx)(e.p,{children:'I got into the game beta of Palia which is what I would describe as a Stardew valley meets Farmville. Its a \"mmo\" but ehhhh not really just a few people you see in town here and there.'}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"starfield\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#starfield\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Starfield\"]}),(0,a.jsx)(e.p,{children:\"All I can say about Starfield is that I'm excited for this game and can't wait for it. I just hope it does not disapoint!\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"magic-the-gathering\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#magic-the-gathering\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Magic The Gathering\"]}),(0,a.jsx)(e.p,{children:\"My childhood friends got me into playing Magic the Gathering back when we were in 7th grade. So naturally those same friends are trying to get me into playing again. This time Magic the Gathering commander decks. I'm not a huge fan of the commander game type as it's more complicated than I remember and liked the more randomness of making a 40 card deck that you need to prefect. Either way we are giving it a go here and there.\"})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(d,{...t})}):d(t)}return v(x);})();\n;return Component;"
+  },
+  "_id": "blog/2023/WhatYaPlaying_NewWorld.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2023/WhatYaPlaying_NewWorld.mdx",
+    "sourceFileName": "WhatYaPlaying_NewWorld.mdx",
+    "sourceFileDir": "blog/2023",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2023/WhatYaPlaying_NewWorld"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "3 min read",
+    "minutes": 2.475,
+    "time": 148500,
+    "words": 495
+  },
+  "slug": "2023/WhatYaPlaying_NewWorld",
+  "path": "blog/2023/WhatYaPlaying_NewWorld",
+  "filePath": "blog/2023/WhatYaPlaying_NewWorld.mdx",
+  "toc": [
+    {
+      "value": "What I Have Been Playing",
+      "url": "#what-i-have-been-playing",
+      "depth": 3
+    },
+    {
+      "value": "New World",
+      "url": "#new-world",
+      "depth": 3
+    },
+    {
+      "value": "Diablo 4",
+      "url": "#diablo-4",
+      "depth": 3
+    },
+    {
+      "value": "Palia Beta",
+      "url": "#palia-beta",
+      "depth": 3
+    },
+    {
+      "value": "Starfield",
+      "url": "#starfield",
+      "depth": 3
+    },
+    {
+      "value": "Magic The Gathering",
+      "url": "#magic-the-gathering",
+      "depth": 3
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "What Ya Playing - New World",
+    "datePublished": "2023-08-18T00:00:00.000Z",
+    "dateModified": "2023-08-18T00:00:00.000Z",
+    "description": "What games have I been playing for 2023! What i'm looking forward to, what I think about current games, and just general ranting.",
+    "image": "/static/images/blog2023/newworld.jpg",
+    "url": "https://www.rustyyow.com/blog/2023/WhatYaPlaying_NewWorld"
+  }
+}

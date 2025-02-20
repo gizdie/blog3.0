@@ -1,0 +1,788 @@
+[
+  {
+    "title": "Bob Ross on iPad",
+    "date": "2020-10-07T00:00:00.000Z",
+    "tags": [
+      "daily-blog"
+    ],
+    "lastmod": "2020-10-07T00:00:00.000Z",
+    "draft": false,
+    "summary": "My attempt of \"painting\" a Bob Ross painting on a iPad.",
+    "images": [
+      "/static/images/blog2023/bobross_ipad.jpg"
+    ],
+    "authors": [
+      "default"
+    ],
+    "body": {
+      "raw": "\nI decided to give a go at painting a Bob Ross scene on my iPad Pro. I'm using the application\nProcreate on ipadOS and followed a [tutorial](https://youtu.be/XwByi3_RM5I) I found on youtube.\nTrying to do oil type painting on the iPad is not the most easy process but Procreate can do a pretty\ngood job at imitating it. I don't know of a way to mix paint colors like Bob Ross does to make a different\ncolor. It's my first painting every so not too bad I think. The trees look a little... off.\n\n\n### Time Laspe Video\nI did a time laspe video of me doing the paiting on my iPad. \n\nhttps://www.youtube.com/embed/7WEvp1guSyo\n\n",
+      "code": "var Component=(()=>{var h=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var y=(e,t)=>()=>(t||e((t={exports:{}}).exports,t),t.exports),b=(e,t)=>{for(var o in t)i(e,o,{get:t[o],enumerable:!0})},d=(e,t,o,s)=>{if(t&&typeof t==\"object\"||typeof t==\"function\")for(let n of g(t))!f.call(e,n)&&n!==o&&i(e,n,{get:()=>t[n],enumerable:!(s=m(t,n))||s.enumerable});return e};var w=(e,t,o)=>(o=e!=null?h(u(e)):{},d(t||!e||!e.__esModule?i(o,\"default\",{value:e,enumerable:!0}):o,e)),x=e=>d(i({},\"__esModule\",{value:!0}),e);var l=y((P,r)=>{r.exports=_jsx_runtime});var I={};b(I,{default:()=>c,frontmatter:()=>v});var a=w(l()),v={title:\"Bob Ross on iPad\",date:\"2020-10-07\",lastmod:\"2020-10-07\",tags:[\"daily-blog\"],draft:!1,summary:'My attempt of \"painting\" a Bob Ross painting on a iPad.',images:[\"/static/images/blog2023/bobross_ipad.jpg\"],authors:[\"default\"]};function p(e){let t={a:\"a\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...e.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(t.p,{children:[\"I decided to give a go at painting a Bob Ross scene on my iPad Pro. I'm using the application Procreate on ipadOS and followed a \",(0,a.jsx)(t.a,{href:\"https://youtu.be/XwByi3_RM5I\",children:\"tutorial\"}),\" I found on youtube. Trying to do oil type painting on the iPad is not the most easy process but Procreate can do a pretty good job at imitating it. I don't know of a way to mix paint colors like Bob Ross does to make a different color. It's my first painting every so not too bad I think. The trees look a little... off.\"]}),(0,a.jsxs)(t.h3,{className:\"content-header\",id:\"time-laspe-video\",children:[(0,a.jsx)(t.a,{href:\"#time-laspe-video\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(t.span,{className:\"content-header-link\",children:(0,a.jsxs)(t.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(t.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(t.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Time Laspe Video\"]}),(0,a.jsx)(t.p,{children:\"I did a time laspe video of me doing the paiting on my iPad.\"}),(0,a.jsx)(t.p,{children:(0,a.jsx)(t.a,{href:\"https://www.youtube.com/embed/7WEvp1guSyo\",children:\"https://www.youtube.com/embed/7WEvp1guSyo\"})})]})}function c(e={}){let{wrapper:t}=e.components||{};return t?(0,a.jsx)(t,{...e,children:(0,a.jsx)(p,{...e})}):p(e)}return x(I);})();\n;return Component;"
+    },
+    "_id": "blog/2020/bob_ross_ipad.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/2020/bob_ross_ipad.mdx",
+      "sourceFileName": "bob_ross_ipad.mdx",
+      "sourceFileDir": "blog/2020",
+      "contentType": "mdx",
+      "flattenedPath": "blog/2020/bob_ross_ipad"
+    },
+    "type": "Blog",
+    "readingTime": {
+      "text": "1 min read",
+      "minutes": 0.56,
+      "time": 33600,
+      "words": 112
+    },
+    "slug": "2020/bob_ross_ipad",
+    "path": "blog/2020/bob_ross_ipad",
+    "filePath": "blog/2020/bob_ross_ipad.mdx",
+    "toc": [
+      {
+        "value": "Time Laspe Video",
+        "url": "#time-laspe-video",
+        "depth": 3
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "Bob Ross on iPad",
+      "datePublished": "2020-10-07T00:00:00.000Z",
+      "dateModified": "2020-10-07T00:00:00.000Z",
+      "description": "My attempt of \"painting\" a Bob Ross painting on a iPad.",
+      "image": "/static/images/blog2023/bobross_ipad.jpg",
+      "url": "https://www.rustyyow.com/blog/2020/bob_ross_ipad"
+    }
+  },
+  {
+    "title": "Whats Playing 2020",
+    "date": "2020-06-05T00:00:00.000Z",
+    "tags": [
+      "daily-blog",
+      "gaming"
+    ],
+    "lastmod": "2020-06-05T00:00:00.000Z",
+    "draft": false,
+    "summary": "Lets talk about what video games I have been playing recently and my quick little review of them.",
+    "images": [
+      "/static/images/blog2020/whatyaplaying2020.jpeg"
+    ],
+    "authors": [
+      "default"
+    ],
+    "body": {
+      "raw": "\nHey peeps. I wanted to talk about games i'm currently playing and what I kind of rate them on how much fun i'm having with them. I'm playing games across a few different platforms. Mostly PC games and Nintendo Switch games but I also am part of a Dungeons and Dragons group that plays every other Sunday.\nAnimal Crossing: New Horizons \nLet's start with Animal Crossing. I have been playing New Horizons since launch day and I do love these type of \"sim\" games. Love playing this game just for a short period everyday to progress my \"life\" and make some bells! I may not be the most creative person playing Animal Crossing but my little town is getting there. I'm playing the turnip stock market with some friends so making sure I sell on the right day and right island.\n\n### Deep Rock Galactic\nI bought this game maybe a year ago and I started playing it again with a friend. \nThis game is awesome. Has my favorite type of system of collecting and unlocking \nnew things with some action packed alien bug killing. I think it keeps me going \nbecause altho you are doing the same thing over and over for the most part... \nthe levels are randomly generated so doesn't really seem the same. Because you \nunlock near gear and weapons it also keeps me going because I can use something \ndifferent and it will provide a different game play feeling. Not to mention 4 \ndifferent classes to play. I'm mostly play either the engineer or the scout.\n\n### Astroneer\nI started playing Astroneer again. Theres is a new update with dedicated server \noption so I am going to attempt to get that working so I don't have to be on for \nmy friends to play as well. Astroneer is another relaxing, easy going game to just\nchill with. Explore the world, find materials, build a base. I might report back on \nthis once I get the server going.\n\t \n### Minecraft Dungeons\n\nI bought Minecraft Dungeons on Switch with the plan on maybe playing it on PC when \nthey figure out the cross platform playing/saves. I enjoy the game so fa, however I \ndon't think it goes very far in game depth. It was only $20... It's a fun Diablo style \ngame that makes things way more simple which I enjoy. I don't have to worry about being\n a complete bad ass to get any where in the game. Minecraft Dungeons I can just hop on \n here and there and play without feeling completely left out.\n\n### Ever Quest 2\n\nA friend and gave EQ2 (free) a try. I never played Ever Quest at all so I thought I would \ngive it a try. I used to play Asheron's Call back in the 90s which I also just got a \ndedicated server working for AC on a virtual machine a few weeks ago. I figured if I ever \nreally want to play old AC again I can just load up that VM and play. Regardless EQ2 didn't \nlast more than a few days of playing for now, it doesn't keep our interest because it's such \nan old game.\n\n### Command & Conquer Remastered\n\nC&C Remastered comes out this Friday! I'm going to dive into that with a friend and bring \nback what started a lot of PC gaming for me. I may have steered away from strategy games \nover the years but I wouldn't mind playing C&C in HD again. I will report back on how awesome \nit turns out to be.\n\n### Missed And Completed Games\n\nI have a problem. It's not a drinking problem... but a gaming problem. I buy too many games\n and never finish them. I get bored, or a new game comes out that I can't resist and want to \n play it so then it takes over. Either way, here are some games I want to finish or get back \n to playing.\n\n- Zelda Breath of the Wild (On Going)\n- Dying Light (Completed)\n- Elder Scrolls Online (On Going)\n- Skyrim (On Going) - Started playing this again on Switch\n- Divinity 2 (On Going) - Buddy of mine and me started this coop game. Need to finish.\n\n",
+      "code": "var Component=(()=>{var g=Object.create;var l=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var y=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var n in e)l(t,n,{get:e[n],enumerable:!0})},o=(t,e,n,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of p(e))!w.call(t,i)&&i!==n&&l(t,i,{get:()=>e[i],enumerable:!(r=m(e,i))||r.enumerable});return t};var v=(t,e,n)=>(n=t!=null?g(u(t)):{},o(e||!t||!t.__esModule?l(n,\"default\",{value:t,enumerable:!0}):n,t)),I=t=>o(l({},\"__esModule\",{value:!0}),t);var h=y((C,s)=>{s.exports=_jsx_runtime});var k={};f(k,{default:()=>c,frontmatter:()=>b});var a=v(h()),b={title:\"Whats Playing 2020\",date:\"2020-06-05\",lastmod:\"2020-06-05\",tags:[\"daily-blog\",\"gaming\"],draft:!1,summary:\"Lets talk about what video games I have been playing recently and my quick little review of them.\",images:[\"/static/images/blog2020/whatyaplaying2020.jpeg\"],authors:[\"default\"]};function d(t){let e={a:\"a\",h3:\"h3\",li:\"li\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",ul:\"ul\",...t.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsx)(e.p,{children:`Hey peeps. I wanted to talk about games i'm currently playing and what I kind of rate them on how much fun i'm having with them. I'm playing games across a few different platforms. Mostly PC games and Nintendo Switch games but I also am part of a Dungeons and Dragons group that plays every other Sunday. Animal Crossing: New Horizons Let's start with Animal Crossing. I have been playing New Horizons since launch day and I do love these type of \"sim\" games. Love playing this game just for a short period everyday to progress my \"life\" and make some bells! I may not be the most creative person playing Animal Crossing but my little town is getting there. I'm playing the turnip stock market with some friends so making sure I sell on the right day and right island.`}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"deep-rock-galactic\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#deep-rock-galactic\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Deep Rock Galactic\"]}),(0,a.jsx)(e.p,{children:\"I bought this game maybe a year ago and I started playing it again with a friend. This game is awesome. Has my favorite type of system of collecting and unlocking new things with some action packed alien bug killing. I think it keeps me going because altho you are doing the same thing over and over for the most part... the levels are randomly generated so doesn't really seem the same. Because you unlock near gear and weapons it also keeps me going because I can use something different and it will provide a different game play feeling. Not to mention 4 different classes to play. I'm mostly play either the engineer or the scout.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"astroneer\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#astroneer\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Astroneer\"]}),(0,a.jsx)(e.p,{children:\"I started playing Astroneer again. Theres is a new update with dedicated server option so I am going to attempt to get that working so I don't have to be on for my friends to play as well. Astroneer is another relaxing, easy going game to just chill with. Explore the world, find materials, build a base. I might report back on this once I get the server going.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"minecraft-dungeons\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#minecraft-dungeons\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Minecraft Dungeons\"]}),(0,a.jsx)(e.p,{children:\"I bought Minecraft Dungeons on Switch with the plan on maybe playing it on PC when they figure out the cross platform playing/saves. I enjoy the game so fa, however I don't think it goes very far in game depth. It was only $20... It's a fun Diablo style game that makes things way more simple which I enjoy. I don't have to worry about being a complete bad ass to get any where in the game. Minecraft Dungeons I can just hop on here and there and play without feeling completely left out.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"ever-quest-2\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#ever-quest-2\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Ever Quest 2\"]}),(0,a.jsx)(e.p,{children:\"A friend and gave EQ2 (free) a try. I never played Ever Quest at all so I thought I would give it a try. I used to play Asheron's Call back in the 90s which I also just got a dedicated server working for AC on a virtual machine a few weeks ago. I figured if I ever really want to play old AC again I can just load up that VM and play. Regardless EQ2 didn't last more than a few days of playing for now, it doesn't keep our interest because it's such an old game.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"command--conquer-remastered\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#command--conquer-remastered\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Command & Conquer Remastered\"]}),(0,a.jsx)(e.p,{children:\"C&C Remastered comes out this Friday! I'm going to dive into that with a friend and bring back what started a lot of PC gaming for me. I may have steered away from strategy games over the years but I wouldn't mind playing C&C in HD again. I will report back on how awesome it turns out to be.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"missed-and-completed-games\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#missed-and-completed-games\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Missed And Completed Games\"]}),(0,a.jsx)(e.p,{children:\"I have a problem. It's not a drinking problem... but a gaming problem. I buy too many games and never finish them. I get bored, or a new game comes out that I can't resist and want to play it so then it takes over. Either way, here are some games I want to finish or get back to playing.\"}),(0,a.jsxs)(e.ul,{children:[(0,a.jsx)(e.li,{children:\"Zelda Breath of the Wild (On Going)\"}),(0,a.jsx)(e.li,{children:\"Dying Light (Completed)\"}),(0,a.jsx)(e.li,{children:\"Elder Scrolls Online (On Going)\"}),(0,a.jsx)(e.li,{children:\"Skyrim (On Going) - Started playing this again on Switch\"}),(0,a.jsx)(e.li,{children:\"Divinity 2 (On Going) - Buddy of mine and me started this coop game. Need to finish.\"})]})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(d,{...t})}):d(t)}return I(k);})();\n;return Component;"
+    },
+    "_id": "blog/2020/whats_playing.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/2020/whats_playing.mdx",
+      "sourceFileName": "whats_playing.mdx",
+      "sourceFileDir": "blog/2020",
+      "contentType": "mdx",
+      "flattenedPath": "blog/2020/whats_playing"
+    },
+    "type": "Blog",
+    "readingTime": {
+      "text": "4 min read",
+      "minutes": 3.535,
+      "time": 212100,
+      "words": 707
+    },
+    "slug": "2020/whats_playing",
+    "path": "blog/2020/whats_playing",
+    "filePath": "blog/2020/whats_playing.mdx",
+    "toc": [
+      {
+        "value": "Deep Rock Galactic",
+        "url": "#deep-rock-galactic",
+        "depth": 3
+      },
+      {
+        "value": "Astroneer",
+        "url": "#astroneer",
+        "depth": 3
+      },
+      {
+        "value": "Minecraft Dungeons",
+        "url": "#minecraft-dungeons",
+        "depth": 3
+      },
+      {
+        "value": "Ever Quest 2",
+        "url": "#ever-quest-2",
+        "depth": 3
+      },
+      {
+        "value": "Command & Conquer Remastered",
+        "url": "#command--conquer-remastered",
+        "depth": 3
+      },
+      {
+        "value": "Missed And Completed Games",
+        "url": "#missed-and-completed-games",
+        "depth": 3
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "Whats Playing 2020",
+      "datePublished": "2020-06-05T00:00:00.000Z",
+      "dateModified": "2020-06-05T00:00:00.000Z",
+      "description": "Lets talk about what video games I have been playing recently and my quick little review of them.",
+      "image": "/static/images/blog2020/whatyaplaying2020.jpeg",
+      "url": "https://www.rustyyow.com/blog/2020/whats_playing"
+    }
+  },
+  {
+    "title": "December Daily Blog",
+    "date": "2021-12-19T00:00:00.000Z",
+    "tags": [
+      "Daily Blog",
+      "December",
+      "Christmas"
+    ],
+    "lastmod": "2021-12-19T00:00:00.000Z",
+    "draft": false,
+    "summary": "My daily blog page for December 2021. I like to blog small thoughts that come access my mind each day, or maybe just talk about what I have been doing this month.",
+    "images": [
+      "/static/images/Christmas_Background.jpg"
+    ],
+    "authors": [
+      "default"
+    ],
+    "body": {
+      "raw": "\n### December 19, 2021\nToday was a bum day. I worked on this site some, mostly played games and tonight I plan on cooking me a turkey rice\nbowel that I do every so often. My turkey rice bowl is ground turkey with soy sauce, and other spices. Chopped carrots\nand cabbage that have been sitting in white vingar for a hour or so. Cook the ground turkey on the stove top with the\ncarrots and cabbage, maybe a little brown surgar thrown in there. Put it over white rice, add some plain non-fat greek yourget\non top and Avacado if I have it.\n\n### December 20, 2021\nFive days until Christmas! Also getting my COVID booster on Wedensday at TCC. \n\n### December 21, 2021\nFour days until Christmas!\n\n### December 22, 2021\nThree days until Christmas! Got my Covid booster shot today. Got it done at TCC North East campus, another round of Pfizer. It was pretty open\nat TCC, no school going on and only few people in a class room getting their booster. Heading to the parents tonight\nto stay until Christmas.\n\n### December 23, 2021\nTwo days until Christmas! Over night the booster shot made me feel achey, chills, and a headache. Kind of out me out of commission half the day\ntoday. Mom made Nutcracker Sweet which is a dessert that she always made in the 90s when I was a kid. Its one of my \nfavorites. We also watched Polar Express tonight as we do every year.  \n\n![Nutcracker Sweet](/static/images/blog2021/nutcrackersweet.jpg)\n\n### December 25, 2021\nChristmas Eve we had dinner with some family friends at our house. Pretty much the same type of food we have for \nThanks Giving. I got a few nice items for my Tesla this year. Some WeatherTech floor matts, black out window shades\nfor when I go car camping. Over all was a good COVID Christmas except the fact it was still 80F outside in Texas.\n\n### Decmber 31, 2021\nJust bringning in the new year with my parents in our family friends back yard. Drinking some beer and just talked\nabout new and old music.\n\n",
+      "code": "var Component=(()=>{var m=Object.create;var l=Object.defineProperty;var w=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var b=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var r in e)l(t,r,{get:e[r],enumerable:!0})},o=(t,e,r,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let n of g(e))!u.call(t,n)&&n!==r&&l(t,n,{get:()=>e[n],enumerable:!(i=w(e,n))||i.enumerable});return t};var y=(t,e,r)=>(r=t!=null?m(p(t)):{},o(e||!t||!t.__esModule?l(r,\"default\",{value:t,enumerable:!0}):r,t)),v=t=>o(l({},\"__esModule\",{value:!0}),t);var h=b((I,s)=>{s.exports=_jsx_runtime});var C={};f(C,{default:()=>c,frontmatter:()=>k});var a=y(h()),k={title:\"December Daily Blog\",date:\"2021-12-19\",lastmod:\"2021-12-19\",tags:[\"Daily Blog\",\"December\",\"Christmas\"],draft:!1,summary:\"My daily blog page for December 2021. I like to blog small thoughts that come access my mind each day, or maybe just talk about what I have been doing this month.\",images:[\"/static/images/Christmas_Background.jpg\"],authors:[\"default\"]};function d(t){let e={a:\"a\",div:\"div\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...t.components},{Image:r}=e;return r||x(\"Image\",!0),(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-19-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-19-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 19, 2021\"]}),(0,a.jsx)(e.p,{children:\"Today was a bum day. I worked on this site some, mostly played games and tonight I plan on cooking me a turkey rice bowel that I do every so often. My turkey rice bowl is ground turkey with soy sauce, and other spices. Chopped carrots and cabbage that have been sitting in white vingar for a hour or so. Cook the ground turkey on the stove top with the carrots and cabbage, maybe a little brown surgar thrown in there. Put it over white rice, add some plain non-fat greek yourget on top and Avacado if I have it.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-20-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-20-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 20, 2021\"]}),(0,a.jsx)(e.p,{children:\"Five days until Christmas! Also getting my COVID booster on Wedensday at TCC.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-21-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-21-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 21, 2021\"]}),(0,a.jsx)(e.p,{children:\"Four days until Christmas!\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-22-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-22-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 22, 2021\"]}),(0,a.jsx)(e.p,{children:\"Three days until Christmas! Got my Covid booster shot today. Got it done at TCC North East campus, another round of Pfizer. It was pretty open at TCC, no school going on and only few people in a class room getting their booster. Heading to the parents tonight to stay until Christmas.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-23-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-23-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 23, 2021\"]}),(0,a.jsx)(e.p,{children:\"Two days until Christmas! Over night the booster shot made me feel achey, chills, and a headache. Kind of out me out of commission half the day today. Mom made Nutcracker Sweet which is a dessert that she always made in the 90s when I was a kid. Its one of my favorites. We also watched Polar Express tonight as we do every year.\"}),(0,a.jsx)(e.div,{children:(0,a.jsx)(r,{alt:\"Nutcracker Sweet\",src:\"/static/images/blog2021/nutcrackersweet.jpg\",width:\"400\",height:\"534\"})}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"december-25-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#december-25-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"December 25, 2021\"]}),(0,a.jsx)(e.p,{children:\"Christmas Eve we had dinner with some family friends at our house. Pretty much the same type of food we have for Thanks Giving. I got a few nice items for my Tesla this year. Some WeatherTech floor matts, black out window shades for when I go car camping. Over all was a good COVID Christmas except the fact it was still 80F outside in Texas.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"decmber-31-2021\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#decmber-31-2021\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Decmber 31, 2021\"]}),(0,a.jsx)(e.p,{children:\"Just bringning in the new year with my parents in our family friends back yard. Drinking some beer and just talked about new and old music.\"})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(d,{...t})}):d(t)}function x(t,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+t+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return v(C);})();\n;return Component;"
+    },
+    "_id": "blog/2021/december-blog.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/2021/december-blog.mdx",
+      "sourceFileName": "december-blog.mdx",
+      "sourceFileDir": "blog/2021",
+      "contentType": "mdx",
+      "flattenedPath": "blog/2021/december-blog"
+    },
+    "type": "Blog",
+    "readingTime": {
+      "text": "2 min read",
+      "minutes": 1.775,
+      "time": 106500,
+      "words": 355
+    },
+    "slug": "2021/december-blog",
+    "path": "blog/2021/december-blog",
+    "filePath": "blog/2021/december-blog.mdx",
+    "toc": [
+      {
+        "value": "December 19, 2021",
+        "url": "#december-19-2021",
+        "depth": 3
+      },
+      {
+        "value": "December 20, 2021",
+        "url": "#december-20-2021",
+        "depth": 3
+      },
+      {
+        "value": "December 21, 2021",
+        "url": "#december-21-2021",
+        "depth": 3
+      },
+      {
+        "value": "December 22, 2021",
+        "url": "#december-22-2021",
+        "depth": 3
+      },
+      {
+        "value": "December 23, 2021",
+        "url": "#december-23-2021",
+        "depth": 3
+      },
+      {
+        "value": "December 25, 2021",
+        "url": "#december-25-2021",
+        "depth": 3
+      },
+      {
+        "value": "Decmber 31, 2021",
+        "url": "#decmber-31-2021",
+        "depth": 3
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "December Daily Blog",
+      "datePublished": "2021-12-19T00:00:00.000Z",
+      "dateModified": "2021-12-19T00:00:00.000Z",
+      "description": "My daily blog page for December 2021. I like to blog small thoughts that come access my mind each day, or maybe just talk about what I have been doing this month.",
+      "image": "/static/images/Christmas_Background.jpg",
+      "url": "https://www.rustyyow.com/blog/2021/december-blog"
+    }
+  },
+  {
+    "title": "Every Day Carry",
+    "date": "2021-01-04T00:00:00.000Z",
+    "tags": [
+      "daily-blog"
+    ],
+    "lastmod": "2021-01-04T00:00:00.000Z",
+    "draft": false,
+    "summary": "Items that you carry with you no matter where you go are important, at least they are to me. These are a few of the itmes I carry every day with me.",
+    "images": [
+      "/static/images/blog2021/edc.jpg"
+    ],
+    "authors": [
+      "default"
+    ],
+    "body": {
+      "raw": "\nNo matter if I goto the grocery store (pretending there is no COVID 10 and that I actually\ndo go to the grocery store right now) or just going to work. I don't mention the mask \nthat in the cover picture, but as of right now I always have an extra one shoved in my pocket.\n\n\n### Bellroy Wallet\nI will start with the most important item, which is my wallet. I use a Bell Roy Hide and Seek \nWallet. The leather feels good and it is the right size for me to hold all my cards. Its even RFID \nprotected if you worry about that sort of thing. [Company Link](https://bellroy.com/products/hide-and-seek-wallet?color=caramel&gclid=Cj0KCQiAlsv_BRDtARIsAHMGVSa_ihCd6MQMhMekb3SHbMJwSrm_ypDWhgi2xmWSvm0pHFGAM0rVFUYaAlf5EALw_wcB&material=leather_rfid&size=hi#slide-0)\n\n![Bellroy Wallet](/static/images/blog2021/bellroywallet.jpeg)\n\n### Spyderco Knife\nNext up is my pocket knife. This little dude is a Spyderco Delica 4 2.8\" blade. \nJust my normal pocket knife that cuts boxes for me or what ever I need it for out \nin the woods. I can't find the exact model I have but the link should be very close \nto the same. [Company Link](https://www.spyderco.com/catalog/details/C11FK390/1885)\n\n![Spyderco Knife](/static/images/blog2021/spydercoknife.jpeg)\n\n### Apple Watch\nThis one is a given. Its my Apple Watch Series 5. Track my running, hiking, every \nday what ever. I use it for calls, timers, meeting notices. It also seems to hold \nup on a 3 day hiking trip in the woods so long as I bring a battery pack to charge \nit at night. [Company Link](http://www.apple.com)\n\n![Spyderco Knife](/static/images/blog2021/applewatch.jpeg)\n\n### Fisher Bullet Pen\nThe Fisher Bullet Space Pen is a decent small pen to keep in your pocket when you \nneed to write something down. Never know when you will be in space! Any of the bullet \npens are nice, take your pick of design. [Company Link](https://www.spacepen.com/bullet.aspx)\n\n![Spyderco Knife](/static/images/blog2021/spacepen.jpeg)\n\n### Blank Forces\nThis pen I don't always carry in my pocket but I normally have it in my backpack. \nIts very expensive which is why it doesn't always go all places with me. Super awesome \ncustom pen how ever. Sleek and I like the size and smoothness it feels in my hand. \n[Company Link](https://www.blankforces.com/)\n\n![Spyderco Knife](/static/images/blog2021/blankforces.jpeg)\n\n### iPhone\nLast but not least is my iPhone 11 Pro. It's my phone of choice, use it for pictures \nand 4k video. I have the 128gb size which is plenty for what I use it for. The case is a \nPitaka MagEz case. I use these cases for all my apple products. They have a good grip and \nstick to my magnetic car holder well. [Company Link](https://www.apple.com)\n\n![Spyderco Knife](/static/images/blog2021/iphone.jpeg)",
+      "code": "var Component=(()=>{var p=Object.create;var n=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var w=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(t,a)=>()=>(a||t((a={exports:{}}).exports,a),a.exports),u=(t,a)=>{for(var l in a)n(t,l,{get:a[l],enumerable:!0})},o=(t,a,l,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let i of w(a))!y.call(t,i)&&i!==l&&n(t,i,{get:()=>a[i],enumerable:!(r=m(a,i))||r.enumerable});return t};var k=(t,a,l)=>(l=t!=null?p(g(t)):{},o(a||!t||!t.__esModule?n(l,\"default\",{value:t,enumerable:!0}):l,t)),v=t=>o(n({},\"__esModule\",{value:!0}),t);var s=f((N,h)=>{h.exports=_jsx_runtime});var I={};u(I,{default:()=>d,frontmatter:()=>b});var e=k(s()),b={title:\"Every Day Carry\",date:\"2021-01-04\",lastmod:\"2021-01-04\",tags:[\"daily-blog\"],draft:!1,summary:\"Items that you carry with you no matter where you go are important, at least they are to me. These are a few of the itmes I carry every day with me.\",images:[\"/static/images/blog2021/edc.jpg\"],authors:[\"default\"]};function c(t){let a={a:\"a\",div:\"div\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...t.components},{Image:l}=a;return l||x(\"Image\",!0),(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(a.p,{children:\"No matter if I goto the grocery store (pretending there is no COVID 10 and that I actually do go to the grocery store right now) or just going to work. I don't mention the mask that in the cover picture, but as of right now I always have an extra one shoved in my pocket.\"}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"bellroy-wallet\",children:[(0,e.jsx)(a.a,{href:\"#bellroy-wallet\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Bellroy Wallet\"]}),(0,e.jsxs)(a.p,{children:[\"I will start with the most important item, which is my wallet. I use a Bell Roy Hide and Seek Wallet. The leather feels good and it is the right size for me to hold all my cards. Its even RFID protected if you worry about that sort of thing. \",(0,e.jsx)(a.a,{href:\"https://bellroy.com/products/hide-and-seek-wallet?color=caramel&gclid=Cj0KCQiAlsv_BRDtARIsAHMGVSa_ihCd6MQMhMekb3SHbMJwSrm_ypDWhgi2xmWSvm0pHFGAM0rVFUYaAlf5EALw_wcB&material=leather_rfid&size=hi#slide-0\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Bellroy Wallet\",src:\"/static/images/blog2021/bellroywallet.jpeg\",width:\"1024\",height:\"768\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"spyderco-knife\",children:[(0,e.jsx)(a.a,{href:\"#spyderco-knife\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Spyderco Knife\"]}),(0,e.jsxs)(a.p,{children:[`Next up is my pocket knife. This little dude is a Spyderco Delica 4 2.8\" blade. Just my normal pocket knife that cuts boxes for me or what ever I need it for out in the woods. I can't find the exact model I have but the link should be very close to the same. `,(0,e.jsx)(a.a,{href:\"https://www.spyderco.com/catalog/details/C11FK390/1885\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Spyderco Knife\",src:\"/static/images/blog2021/spydercoknife.jpeg\",width:\"1024\",height:\"768\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"apple-watch\",children:[(0,e.jsx)(a.a,{href:\"#apple-watch\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Apple Watch\"]}),(0,e.jsxs)(a.p,{children:[\"This one is a given. Its my Apple Watch Series 5. Track my running, hiking, every day what ever. I use it for calls, timers, meeting notices. It also seems to hold up on a 3 day hiking trip in the woods so long as I bring a battery pack to charge it at night. \",(0,e.jsx)(a.a,{href:\"http://www.apple.com\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Spyderco Knife\",src:\"/static/images/blog2021/applewatch.jpeg\",width:\"1024\",height:\"768\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"fisher-bullet-pen\",children:[(0,e.jsx)(a.a,{href:\"#fisher-bullet-pen\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Fisher Bullet Pen\"]}),(0,e.jsxs)(a.p,{children:[\"The Fisher Bullet Space Pen is a decent small pen to keep in your pocket when you need to write something down. Never know when you will be in space! Any of the bullet pens are nice, take your pick of design. \",(0,e.jsx)(a.a,{href:\"https://www.spacepen.com/bullet.aspx\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Spyderco Knife\",src:\"/static/images/blog2021/spacepen.jpeg\",width:\"1024\",height:\"768\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"blank-forces\",children:[(0,e.jsx)(a.a,{href:\"#blank-forces\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Blank Forces\"]}),(0,e.jsxs)(a.p,{children:[\"This pen I don't always carry in my pocket but I normally have it in my backpack. Its very expensive which is why it doesn't always go all places with me. Super awesome custom pen how ever. Sleek and I like the size and smoothness it feels in my hand. \",(0,e.jsx)(a.a,{href:\"https://www.blankforces.com/\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Spyderco Knife\",src:\"/static/images/blog2021/blankforces.jpeg\",width:\"1024\",height:\"768\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"iphone\",children:[(0,e.jsx)(a.a,{href:\"#iphone\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"iPhone\"]}),(0,e.jsxs)(a.p,{children:[\"Last but not least is my iPhone 11 Pro. It's my phone of choice, use it for pictures and 4k video. I have the 128gb size which is plenty for what I use it for. The case is a Pitaka MagEz case. I use these cases for all my apple products. They have a good grip and stick to my magnetic car holder well. \",(0,e.jsx)(a.a,{href:\"https://www.apple.com\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Spyderco Knife\",src:\"/static/images/blog2021/iphone.jpeg\",width:\"1024\",height:\"768\"})})]})}function d(t={}){let{wrapper:a}=t.components||{};return a?(0,e.jsx)(a,{...t,children:(0,e.jsx)(c,{...t})}):c(t)}function x(t,a){throw new Error(\"Expected \"+(a?\"component\":\"object\")+\" `\"+t+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return v(I);})();\n;return Component;"
+    },
+    "_id": "blog/2021/edc.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/2021/edc.mdx",
+      "sourceFileName": "edc.mdx",
+      "sourceFileDir": "blog/2021",
+      "contentType": "mdx",
+      "flattenedPath": "blog/2021/edc"
+    },
+    "type": "Blog",
+    "readingTime": {
+      "text": "3 min read",
+      "minutes": 2.07,
+      "time": 124200,
+      "words": 414
+    },
+    "slug": "2021/edc",
+    "path": "blog/2021/edc",
+    "filePath": "blog/2021/edc.mdx",
+    "toc": [
+      {
+        "value": "Bellroy Wallet",
+        "url": "#bellroy-wallet",
+        "depth": 3
+      },
+      {
+        "value": "Spyderco Knife",
+        "url": "#spyderco-knife",
+        "depth": 3
+      },
+      {
+        "value": "Apple Watch",
+        "url": "#apple-watch",
+        "depth": 3
+      },
+      {
+        "value": "Fisher Bullet Pen",
+        "url": "#fisher-bullet-pen",
+        "depth": 3
+      },
+      {
+        "value": "Blank Forces",
+        "url": "#blank-forces",
+        "depth": 3
+      },
+      {
+        "value": "iPhone",
+        "url": "#iphone",
+        "depth": 3
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "Every Day Carry",
+      "datePublished": "2021-01-04T00:00:00.000Z",
+      "dateModified": "2021-01-04T00:00:00.000Z",
+      "description": "Items that you carry with you no matter where you go are important, at least they are to me. These are a few of the itmes I carry every day with me.",
+      "image": "/static/images/blog2021/edc.jpg",
+      "url": "https://www.rustyyow.com/blog/2021/edc"
+    }
+  },
+  {
+    "title": "My Tesla Model Y",
+    "date": "2021-05-11T00:00:00.000Z",
+    "tags": [
+      "Tesla",
+      "Projects"
+    ],
+    "lastmod": "2021-05-11T00:00:00.000Z",
+    "draft": false,
+    "summary": "Details about my Tesla purchase. See what accessories I bought for my car and what modifcations I have made.",
+    "images": [
+      "/static/images/blog2021/tesla_purchase.png"
+    ],
+    "authors": [
+      "default"
+    ],
+    "body": {
+      "raw": "\nSo I placed an order for a Model Y Long Range. The order was placed 5-5-2021 with an estimated delivery of 6-8 weeks. Real bummer\n its going to take so long but lets have fingers crossed that it is sooner rather than later. I read an article around the same time\n  I made my purchase, that they have sold out of cars for Q2, which puts my estimated delivery the end of Q2...\n\nI have been watching videos, reading reddit, forums, all kinds of things to prepare and learn about my new Tesla. I also have a \nplan in place to install an NEMA 14-50 plug in my garage. I have a co-worker with a electrical background so he knows his stuff and is going to help me install it.\n\n### 5-9-2021\n\nI have placed an order for the NEMA 14-15 plug adaptor as it does not come with the car. No news on the car just yet. I wanted to \nlearn about the best about the best practices for charging and discharging the battery in electric vehicles. \n[This site](https://batteryuniversity.com/learn/article/how_to_prolong_lithium_based_batteries) has some \nuseful info about studies on EVs and also some tweets that Elon Musk posted a while back confirms what Tesla recommends.\n\nIt’s recommended that you charge up to 90% and discharge to 10% to maintain the least amount of capacity loss in a battery over time. \nThe chart below shows the least capacity loss would be 75%-65% but that’s not using the battery really, so in green it \nshows 85% - 25% which is closer to that 90/10. The take away for me here is that I should not charge to 100% all the time and discharge \nall the way back down to almost 0%. I should keep it close to 90% and close to 20% . This is how I plan on maintaining my Tesla so I will\nreport back one day how its working out for me.\n\n![Cycle Chart](/static/images/blog2021/tesla_cycle_chart.jpg)\n\n### 5-12-2021\n\nI made a trip to lowes and got items that I will need for a 50 amp plug in my garage. I'm going to measure out the length of the wire I \nwill need before buying, since that will be the most expensive item. My next steps is to have my buddy come over and help me scope out \nwhere i'm putting the plug and how far we will need to go from the breaker box.\n\nI'm using [this guide](https://www.tesla.com/sites/default/files/pdfs/installation-guides/nema-14-50-installation-guide.pdf) by Tesla for installing my own NEMA 14-50 outlet. I don't want to pay for their $500.00 Tesla plug when the NEMA 14-50 \nwill charge almost the same.\n\n![Lowes Items](/static/images/blog2021/lowes_items.jpg)\n\n### 5-20-2021\n\nMy delivery date has changed to June 5 - June 25th. This is good news however I’m worried about reports of Teslas sitting in the factory parking lot \nin California waiting for a part, or some sort of firmware update. Still no VIN number yet on my account page, even when I try the source code look \nup. I read that if you view the source code of your account page and search for 5YJ (all VIN numbers have this) you can find your VIN before they \nofficially give it to you. Sooner I get my VIN the more I can complete my purchase with insurance and all that.\n\n![Wall Work](/static/images/blog2021/wall_wire.jpg)\n\n### 6-7-2021\n\nI now have a VIN number for my Tesla!!! My delivery date is now June 13th-19th so should get it sometime next week! I also got my NEMA 14-50 plug installed\nthanks for my co-worker for helping with that.\n\n![Wall Plug](/static/images/blog2021/1450_plug.jpg)\n\nI bought some accessories already for my Model Y. I got some performance foot pedals; they seem easy to put on and so I thought why not.\n\n![Pedals](/static/images/blog2021/modely_pedals.jpg)\n\nI also bought these lifting jack pads that will help align a jack to lift the car should I ever need to change a tire.\n\n![Left Pads](/static/images/blog2021/car_liftpads.jpg)\n\nThere are a few more accessory items I want to get but going to wait so I can get a feel for the car first. Next on the list is center console organizers,\na front window sunscreen thing, maybe a Space X sticker for the back window?\n\nHere are the Amazon links for the pads and pedals:\n\n* [Tesla Model Y Performance Pedals](https://www.amazon.com/gp/product/B07DFZMTN8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)\n* [Lift Jack Pads](https://www.amazon.com/gp/product/B07QR19NM9/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)\n\n### 9-11-2021\n\nI decided to Plasti Dip the wheel covers for my Model Y. I don't like the chrome color of the wheels/covers so a solid black\nPlasti Dip should make them pretty sharp. I only used one and half cans of Plasti Dip, i'm not real sure if there needs to be \nmore coatings or not. The picture below is with 1 and half coats on each wheel cover. I think this looks good and beats spending\n$800 on either new black wheels or having the wheels powder coated.\n\n![Plasti Dip Covers](/static/images/blog2021/tesla_cover_dip.jpg)\n\n**2-22-2022**\n\nJust updating my experience with my Tesla model Y. No problems with my car and I have put some more miles on the car with\na few long trips. Since Tesla added \"charge stats\" within the Tesla app on my phone I was going to share with you my \nmonthly costs for charging.\n\n![Charge Stats](/static/images/blog2021/chargestats.jpeg)\n\nAlso I noticed in the Telsa Model Y manual that it it recommend to keep your car in all the time. So going forward i'm \ngoing to keep my car plugged in while at home and keep it at a limit of 80% charging.\n\n![Keep Plugged In](/static/images/blog2021/pluggedin.png)\n\n### 5-20-2023\n\nI made a trip to Austin and found out that Bucee's in Temple Texas now has a ton of Tesla Super Chargers! It might be the \nmost Teslas I have seen in one place.\n\n![Bucee's Chargers](/static/images/blog2023/templetx_bucees.jpg)",
+      "code": "var Component=(()=>{var g=Object.create;var o=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var w=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var f=(t,a)=>()=>(a||t((a={exports:{}}).exports,a),a.exports),y=(t,a)=>{for(var i in a)o(t,i,{get:a[i],enumerable:!0})},s=(t,a,i,n)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let l of p(a))!u.call(t,l)&&l!==i&&o(t,l,{get:()=>a[l],enumerable:!(n=m(a,l))||n.enumerable});return t};var b=(t,a,i)=>(i=t!=null?g(w(t)):{},s(a||!t||!t.__esModule?o(i,\"default\",{value:t,enumerable:!0}):i,t)),v=t=>s(o({},\"__esModule\",{value:!0}),t);var h=f((M,r)=>{r.exports=_jsx_runtime});var x={};y(x,{default:()=>c,frontmatter:()=>I});var e=b(h()),I={title:\"My Tesla Model Y\",date:\"2021-05-11\",lastmod:\"2021-05-11\",tags:[\"Tesla\",\"Projects\"],draft:!1,summary:\"Details about my Tesla purchase. See what accessories I bought for my car and what modifcations I have made.\",images:[\"/static/images/blog2021/tesla_purchase.png\"],authors:[\"default\"]};function d(t){let a={a:\"a\",div:\"div\",h3:\"h3\",li:\"li\",p:\"p\",path:\"path\",span:\"span\",strong:\"strong\",svg:\"svg\",ul:\"ul\",...t.components},{Image:i}=a;return i||k(\"Image\",!0),(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(a.p,{children:\"So I placed an order for a Model Y Long Range. The order was placed 5-5-2021 with an estimated delivery of 6-8 weeks. Real bummer its going to take so long but lets have fingers crossed that it is sooner rather than later. I read an article around the same time I made my purchase, that they have sold out of cars for Q2, which puts my estimated delivery the end of Q2...\"}),(0,e.jsx)(a.p,{children:\"I have been watching videos, reading reddit, forums, all kinds of things to prepare and learn about my new Tesla. I also have a plan in place to install an NEMA 14-50 plug in my garage. I have a co-worker with a electrical background so he knows his stuff and is going to help me install it.\"}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"5-9-2021\",children:[(0,e.jsx)(a.a,{href:\"#5-9-2021\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"5-9-2021\"]}),(0,e.jsxs)(a.p,{children:[\"I have placed an order for the NEMA 14-15 plug adaptor as it does not come with the car. No news on the car just yet. I wanted to learn about the best about the best practices for charging and discharging the battery in electric vehicles. \",(0,e.jsx)(a.a,{href:\"https://batteryuniversity.com/learn/article/how_to_prolong_lithium_based_batteries\",children:\"This site\"}),\" has some useful info about studies on EVs and also some tweets that Elon Musk posted a while back confirms what Tesla recommends.\"]}),(0,e.jsx)(a.p,{children:\"It\\u2019s recommended that you charge up to 90% and discharge to 10% to maintain the least amount of capacity loss in a battery over time. The chart below shows the least capacity loss would be 75%-65% but that\\u2019s not using the battery really, so in green it shows 85% - 25% which is closer to that 90/10. The take away for me here is that I should not charge to 100% all the time and discharge all the way back down to almost 0%. I should keep it close to 90% and close to 20% . This is how I plan on maintaining my Tesla so I will report back one day how its working out for me.\"}),(0,e.jsx)(a.div,{children:(0,e.jsx)(i,{alt:\"Cycle Chart\",src:\"/static/images/blog2021/tesla_cycle_chart.jpg\",width:\"570\",height:\"456\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"5-12-2021\",children:[(0,e.jsx)(a.a,{href:\"#5-12-2021\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"5-12-2021\"]}),(0,e.jsx)(a.p,{children:\"I made a trip to lowes and got items that I will need for a 50 amp plug in my garage. I'm going to measure out the length of the wire I will need before buying, since that will be the most expensive item. My next steps is to have my buddy come over and help me scope out where i'm putting the plug and how far we will need to go from the breaker box.\"}),(0,e.jsxs)(a.p,{children:[\"I'm using \",(0,e.jsx)(a.a,{href:\"https://www.tesla.com/sites/default/files/pdfs/installation-guides/nema-14-50-installation-guide.pdf\",children:\"this guide\"}),\" by Tesla for installing my own NEMA 14-50 outlet. I don't want to pay for their $500.00 Tesla plug when the NEMA 14-50 will charge almost the same.\"]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(i,{alt:\"Lowes Items\",src:\"/static/images/blog2021/lowes_items.jpg\",width:\"4032\",height:\"3024\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"5-20-2021\",children:[(0,e.jsx)(a.a,{href:\"#5-20-2021\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"5-20-2021\"]}),(0,e.jsx)(a.p,{children:\"My delivery date has changed to June 5 - June 25th. This is good news however I\\u2019m worried about reports of Teslas sitting in the factory parking lot in California waiting for a part, or some sort of firmware update. Still no VIN number yet on my account page, even when I try the source code look up. I read that if you view the source code of your account page and search for 5YJ (all VIN numbers have this) you can find your VIN before they officially give it to you. Sooner I get my VIN the more I can complete my purchase with insurance and all that.\"}),(0,e.jsx)(a.div,{children:(0,e.jsx)(i,{alt:\"Wall Work\",src:\"/static/images/blog2021/wall_wire.jpg\",width:\"4032\",height:\"3024\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"6-7-2021\",children:[(0,e.jsx)(a.a,{href:\"#6-7-2021\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"6-7-2021\"]}),(0,e.jsx)(a.p,{children:\"I now have a VIN number for my Tesla!!! My delivery date is now June 13th-19th so should get it sometime next week! I also got my NEMA 14-50 plug installed thanks for my co-worker for helping with that.\"}),(0,e.jsx)(a.div,{children:(0,e.jsx)(i,{alt:\"Wall Plug\",src:\"/static/images/blog2021/1450_plug.jpg\",width:\"4032\",height:\"3024\"})}),(0,e.jsx)(a.p,{children:\"I bought some accessories already for my Model Y. I got some performance foot pedals; they seem easy to put on and so I thought why not.\"}),(0,e.jsx)(a.div,{children:(0,e.jsx)(i,{alt:\"Pedals\",src:\"/static/images/blog2021/modely_pedals.jpg\",width:\"461\",height:\"323\"})}),(0,e.jsx)(a.p,{children:\"I also bought these lifting jack pads that will help align a jack to lift the car should I ever need to change a tire.\"}),(0,e.jsx)(a.div,{children:(0,e.jsx)(i,{alt:\"Left Pads\",src:\"/static/images/blog2021/car_liftpads.jpg\",width:\"1500\",height:\"1125\"})}),(0,e.jsx)(a.p,{children:\"There are a few more accessory items I want to get but going to wait so I can get a feel for the car first. Next on the list is center console organizers, a front window sunscreen thing, maybe a Space X sticker for the back window?\"}),(0,e.jsx)(a.p,{children:\"Here are the Amazon links for the pads and pedals:\"}),(0,e.jsxs)(a.ul,{children:[(0,e.jsx)(a.li,{children:(0,e.jsx)(a.a,{href:\"https://www.amazon.com/gp/product/B07DFZMTN8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1\",children:\"Tesla Model Y Performance Pedals\"})}),(0,e.jsx)(a.li,{children:(0,e.jsx)(a.a,{href:\"https://www.amazon.com/gp/product/B07QR19NM9/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1\",children:\"Lift Jack Pads\"})})]}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"9-11-2021\",children:[(0,e.jsx)(a.a,{href:\"#9-11-2021\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"9-11-2021\"]}),(0,e.jsx)(a.p,{children:\"I decided to Plasti Dip the wheel covers for my Model Y. I don't like the chrome color of the wheels/covers so a solid black Plasti Dip should make them pretty sharp. I only used one and half cans of Plasti Dip, i'm not real sure if there needs to be more coatings or not. The picture below is with 1 and half coats on each wheel cover. I think this looks good and beats spending $800 on either new black wheels or having the wheels powder coated.\"}),(0,e.jsx)(a.div,{children:(0,e.jsx)(i,{alt:\"Plasti Dip Covers\",src:\"/static/images/blog2021/tesla_cover_dip.jpg\",width:\"4032\",height:\"3024\"})}),(0,e.jsx)(a.p,{children:(0,e.jsx)(a.strong,{children:\"2-22-2022\"})}),(0,e.jsx)(a.p,{children:'Just updating my experience with my Tesla model Y. No problems with my car and I have put some more miles on the car with a few long trips. Since Tesla added \"charge stats\" within the Tesla app on my phone I was going to share with you my monthly costs for charging.'}),(0,e.jsx)(a.div,{children:(0,e.jsx)(i,{alt:\"Charge Stats\",src:\"/static/images/blog2021/chargestats.jpeg\",width:\"1170\",height:\"2532\"})}),(0,e.jsx)(a.p,{children:\"Also I noticed in the Telsa Model Y manual that it it recommend to keep your car in all the time. So going forward i'm going to keep my car plugged in while at home and keep it at a limit of 80% charging.\"}),(0,e.jsx)(a.div,{children:(0,e.jsx)(i,{alt:\"Keep Plugged In\",src:\"/static/images/blog2021/pluggedin.png\",width:\"1778\",height:\"300\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"5-20-2023\",children:[(0,e.jsx)(a.a,{href:\"#5-20-2023\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"5-20-2023\"]}),(0,e.jsx)(a.p,{children:\"I made a trip to Austin and found out that Bucee's in Temple Texas now has a ton of Tesla Super Chargers! It might be the most Teslas I have seen in one place.\"}),(0,e.jsx)(a.div,{children:(0,e.jsx)(i,{alt:\"Bucee's Chargers\",src:\"/static/images/blog2023/templetx_bucees.jpg\",width:\"13440\",height:\"3864\"})})]})}function c(t={}){let{wrapper:a}=t.components||{};return a?(0,e.jsx)(a,{...t,children:(0,e.jsx)(d,{...t})}):d(t)}function k(t,a){throw new Error(\"Expected \"+(a?\"component\":\"object\")+\" `\"+t+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return v(x);})();\n;return Component;"
+    },
+    "_id": "blog/2021/tesla-purchase.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/2021/tesla-purchase.mdx",
+      "sourceFileName": "tesla-purchase.mdx",
+      "sourceFileDir": "blog/2021",
+      "contentType": "mdx",
+      "flattenedPath": "blog/2021/tesla-purchase"
+    },
+    "type": "Blog",
+    "readingTime": {
+      "text": "5 min read",
+      "minutes": 4.735,
+      "time": 284100,
+      "words": 947
+    },
+    "slug": "2021/tesla-purchase",
+    "path": "blog/2021/tesla-purchase",
+    "filePath": "blog/2021/tesla-purchase.mdx",
+    "toc": [
+      {
+        "value": "5-9-2021",
+        "url": "#5-9-2021",
+        "depth": 3
+      },
+      {
+        "value": "5-12-2021",
+        "url": "#5-12-2021",
+        "depth": 3
+      },
+      {
+        "value": "5-20-2021",
+        "url": "#5-20-2021",
+        "depth": 3
+      },
+      {
+        "value": "6-7-2021",
+        "url": "#6-7-2021",
+        "depth": 3
+      },
+      {
+        "value": "9-11-2021",
+        "url": "#9-11-2021",
+        "depth": 3
+      },
+      {
+        "value": "5-20-2023",
+        "url": "#5-20-2023",
+        "depth": 3
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "My Tesla Model Y",
+      "datePublished": "2021-05-11T00:00:00.000Z",
+      "dateModified": "2021-05-11T00:00:00.000Z",
+      "description": "Details about my Tesla purchase. See what accessories I bought for my car and what modifcations I have made.",
+      "image": "/static/images/blog2021/tesla_purchase.png",
+      "url": "https://www.rustyyow.com/blog/2021/tesla-purchase"
+    }
+  },
+  {
+    "title": "Thanksgiving Meal",
+    "date": "2021-11-25T00:00:00.000Z",
+    "tags": [
+      "Holiday",
+      "Thanksgiving",
+      "Daily Blog",
+      "Recipes"
+    ],
+    "lastmod": "2021-11-25T00:00:00.000Z",
+    "draft": false,
+    "summary": "What is on the menu at the Yow Thanksgiving dinner. Just sharing what we will be making with some of the recipes.",
+    "images": [
+      "/static/images/blog2021/thanks21_meal.jpg"
+    ],
+    "authors": [
+      "default"
+    ],
+    "body": {
+      "raw": "\n## The Setup\nI have a small family so this year the Thanksgiving feast is just for three people. The location will be my parents house\nin Texas with about 58F weather. I'm not much of a cook my self so most items will be done by my mother but I have a few\nrecipes in mind that i'm going to attempt. \n\nMom is making something with a little bourbon in it so I brought my Tx Bourbon bottle. By the end of this theres a good \nchance I will be making a old fashioned and sitting outside with the firepit burning.\n\n## The Turkey\nCooking the turkey is a simple process for us, we don't go crazy. We just mostly cook it to the directions it comes with.\nRub some olive oil on the outside of the turkey, cut up some oinion and celery to throw in the bag with the turkey. We don't\nstuff the turkey with anything. The stuffing comes later.\n\n## Pecan Pie\n![Pecan Pie](/static/images/blog2021/thanks21_pecanpie.jpg)\nWe always have a pecan pie at some point during Thanksgiving or Christmas... Maybe both. It's just a southern \"thang\" and \nreally its kind of one of my favotire deserts. \n\n- 1 3/4 cup sugar\n- 1/4 cup dark karo syrup \n- 1/4 cup butter\n- 2 teaspooons corn startch\n- 1 tablespoon of cold water\n\n\nCombine all those ingredients into a pot and melt together on stove.\n\n- 3 eggs\n\nBeat the eggs into a bowel until they are frothy. Can use a mixer to do this. Then pour the sugar/syrup mixure into \nthe egg mixture then add 1/4 teaspoon salt, 1 teaspoon of vannila extra.\n\nAdd 1 1/4 cup of pecans into the mixture. Mix it all up. Pour into a 9-inch pie pan (with your own crust). Bake for 350F\nfor 45-50 mintues or until filling is set.\n\n\n## Pumpkin Pie\n![Pumpkin Pie](/static/images/blog2021/thanks21_pumpkinpie.jpg)\nPumpkin pie is also something my dad always wants. So every year that is also made for both Thanksgiving and Christmas.\n\n- 1 15oz can of pumpkin \n- 1 120z can carnation milk\n- 1/2 teaspoon salt\n- 3/4 cup granulated sugar\n- 1 teaspoon cinnamon\n- 1 teaspoon ground ginger\n- 1 teaspoon ground gloves\n- 2 large eggs\n- 1 large deep dish pie sell \n\nMix dry stuff together. Beat the eggs in a bowel. Stir in the pumpkin and dry ingredient mixture. Slowy pour in the milk.\nAfter all mixed pour into the pie shell and bake at 425F for 15 mintues. Reduce heat to 350F for 30-40 mintues or until \na knife in the middle comes out clean.\n\n## Irish Soda Bread\nI just wanted to make some of this soda bread that I was reading from the \"[Unofficial Harry Potter Cookbook](https://www.amazon.com/Unofficial-Harry-Potter-Cookbook-Knickerbocker/dp/1440503257)\". Its pretty\nsimple and might be pretty simple tasting as well. Id recommnd buying the book if you enjoy Harry Potter and trying to \nmake all the foods they have in the books/movies.\n\n- 4 cups flour\n- 1 1/2 teaspoon baking soda\n- 1 1/2 teaspoon cream of tartar\n- 1 teaspoon salt\n- 3 tablespoons granulated sugar\n- 1/2 stick of butter (4 tablespoons)\n- 1 large egg\n- 1 1/2 cups butter milk\n\nPretty much you mix it all together in a big bowl, knead the dough on a surface with some extra flour. Throw it in a \n9-inch round baking dish as a ball shape. Make a 1/2 inch deep X with a knife on the top.\n\nBake for 15 minutes at 425F, then turn down oven to 350F for 40 more mintues. Make sure bottom is brown to be done.\n\n## Deviled eggs\n![Deviled Eggs](/static/images/blog2021/thanks21_deviledeggs.jpg)\nI make deviled eggs every year. Easy on the side snack with the meal. \n\n- 6 eggs\n- 1/4 cup mayonnaise\n- 1 teaspoon white vinegar\n- 1 teaspoon yellow mustard\n- 1/8 teaspoon salt\n- Ground Black Pepper\n- Paprika for garnish\n\nBoil the eggs to make hard boiled eggs how ever you please to do that. Shell the eggs once cooled, cut eggs in half lengthwise\n and place the yolks into a bowl. Mash the yolk into a fine crumble. Add mayonnaise, vinegar, mustard, salt, and pepper. Mix well.\n\nEvenly disperse teaspoon size of the yolk mixture into the egg whites. Sprinkle with paprika and serve.\n\n## Massaged Kale Salad\n![Kale Salad](/static/images/blog2021/thanks21_kalesalad.jpg)\nThis is my way of adding some healthy greens to the Thanksgiving meal. It's better than nothing and I was trying to \nimitate Chick-fi-la's kale salad.\n\n- 1 bunch of curly kale\n- 1 lemon, juiced\n- 2 cloes garlic, minced\n- 3 tablespoons olive oil\n- 1/2 cup parmesan cheese, shaved\n- salt and pepper to taste\n\nIn small skillet, heat the olive oil and add minced garlic. Saute the garlic over medium heat for about 30 seconds. Set \nthe infused oil aside.\n\nPrepare the kale by removing the stems and cutting it into thin ribbons.\n\nPlace the kale ribbons in a large bowl and toss in the cooled olive oil, lemon juice, salt, and pepper.\n\nMassage the kale for two minutes with your hands, or until the leaves start to wilt. Top it off with fresh shaved \nparmesan cheese. Serve.\n\n## Honey Galzed Carrots\nSome carrots on the side is never a bad idea. Of course they are unhealthy with honey but its just once a year right?\n\n- 2 pounds carrots, peeled (or baby carrots)\n- 1/4 cup Honey\n- 3 garic cloves, minced\n- 2 tablespoons melted butter\n- 1 tablespoon olive oil\n- 1 teaspoon cinnamon\n- 1/2 teaspoon ground ginger\n- 1/2 teaspoon salt\n- 1/4 teaspoon pepper\n- Parsley, thyme or other herbs for garnish (optional)\n\nPre-heat oven to 425F. Cut carrots on a diagonal, about 1\"-1.5\" in length. If carrots are large and thick, you can \nslice them in half as well. I used baby carrots and just left them as they are.\n\nIn mixing bowl, toss the the carrots with honey, garlic, butter, oil, and spices.\n\nPour the carrots and glaze onto a sheet pan and spread them out. Roast for 20-25 minutes tossing them halfway through.\nYou can broil for 2-3 mintues to get a caramelization on the edges.\n\n\n",
+      "code": "var Component=(()=>{var p=Object.create;var l=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var m=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var f=(i,a)=>()=>(a||i((a={exports:{}}).exports,a),a.exports),k=(i,a)=>{for(var t in a)l(i,t,{get:a[t],enumerable:!0})},o=(i,a,t,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let n of m(a))!w.call(i,n)&&n!==t&&l(i,n,{get:()=>a[n],enumerable:!(r=g(a,n))||r.enumerable});return i};var b=(i,a,t)=>(t=i!=null?p(u(i)):{},o(a||!i||!i.__esModule?l(t,\"default\",{value:i,enumerable:!0}):t,i)),y=i=>o(l({},\"__esModule\",{value:!0}),i);var s=f((N,h)=>{h.exports=_jsx_runtime});var M={};k(M,{default:()=>c,frontmatter:()=>v});var e=b(s()),v={title:\"Thanksgiving Meal\",date:\"2021-11-25\",lastmod:\"2021-11-25\",tags:[\"Holiday\",\"Thanksgiving\",\"Daily Blog\",\"Recipes\"],draft:!1,summary:\"What is on the menu at the Yow Thanksgiving dinner. Just sharing what we will be making with some of the recipes.\",images:[\"/static/images/blog2021/thanks21_meal.jpg\"],authors:[\"default\"]};function d(i){let a={a:\"a\",div:\"div\",h2:\"h2\",li:\"li\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",ul:\"ul\",...i.components},{Image:t}=a;return t||x(\"Image\",!0),(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(a.h2,{className:\"content-header\",id:\"the-setup\",children:[(0,e.jsx)(a.a,{href:\"#the-setup\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"The Setup\"]}),(0,e.jsx)(a.p,{children:\"I have a small family so this year the Thanksgiving feast is just for three people. The location will be my parents house in Texas with about 58F weather. I'm not much of a cook my self so most items will be done by my mother but I have a few recipes in mind that i'm going to attempt.\"}),(0,e.jsx)(a.p,{children:\"Mom is making something with a little bourbon in it so I brought my Tx Bourbon bottle. By the end of this theres a good chance I will be making a old fashioned and sitting outside with the firepit burning.\"}),(0,e.jsxs)(a.h2,{className:\"content-header\",id:\"the-turkey\",children:[(0,e.jsx)(a.a,{href:\"#the-turkey\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"The Turkey\"]}),(0,e.jsx)(a.p,{children:\"Cooking the turkey is a simple process for us, we don't go crazy. We just mostly cook it to the directions it comes with. Rub some olive oil on the outside of the turkey, cut up some oinion and celery to throw in the bag with the turkey. We don't stuff the turkey with anything. The stuffing comes later.\"}),(0,e.jsxs)(a.h2,{className:\"content-header\",id:\"pecan-pie\",children:[(0,e.jsx)(a.a,{href:\"#pecan-pie\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Pecan Pie\"]}),(0,e.jsxs)(a.div,{children:[(0,e.jsx)(t,{alt:\"Pecan Pie\",src:\"/static/images/blog2021/thanks21_pecanpie.jpg\",width:\"4032\",height:\"3024\"}),` We always have a pecan pie at some point during Thanksgiving or Christmas... Maybe both. It's just a southern \"thang\" and really its kind of one of my favotire deserts.`]}),(0,e.jsxs)(a.ul,{children:[(0,e.jsx)(a.li,{children:\"1 3/4 cup sugar\"}),(0,e.jsx)(a.li,{children:\"1/4 cup dark karo syrup\"}),(0,e.jsx)(a.li,{children:\"1/4 cup butter\"}),(0,e.jsx)(a.li,{children:\"2 teaspooons corn startch\"}),(0,e.jsx)(a.li,{children:\"1 tablespoon of cold water\"})]}),(0,e.jsx)(a.p,{children:\"Combine all those ingredients into a pot and melt together on stove.\"}),(0,e.jsx)(a.ul,{children:(0,e.jsx)(a.li,{children:\"3 eggs\"})}),(0,e.jsx)(a.p,{children:\"Beat the eggs into a bowel until they are frothy. Can use a mixer to do this. Then pour the sugar/syrup mixure into the egg mixture then add 1/4 teaspoon salt, 1 teaspoon of vannila extra.\"}),(0,e.jsx)(a.p,{children:\"Add 1 1/4 cup of pecans into the mixture. Mix it all up. Pour into a 9-inch pie pan (with your own crust). Bake for 350F for 45-50 mintues or until filling is set.\"}),(0,e.jsxs)(a.h2,{className:\"content-header\",id:\"pumpkin-pie\",children:[(0,e.jsx)(a.a,{href:\"#pumpkin-pie\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Pumpkin Pie\"]}),(0,e.jsxs)(a.div,{children:[(0,e.jsx)(t,{alt:\"Pumpkin Pie\",src:\"/static/images/blog2021/thanks21_pumpkinpie.jpg\",width:\"4032\",height:\"3024\"}),\" Pumpkin pie is also something my dad always wants. So every year that is also made for both Thanksgiving and Christmas.\"]}),(0,e.jsxs)(a.ul,{children:[(0,e.jsx)(a.li,{children:\"1 15oz can of pumpkin\"}),(0,e.jsx)(a.li,{children:\"1 120z can carnation milk\"}),(0,e.jsx)(a.li,{children:\"1/2 teaspoon salt\"}),(0,e.jsx)(a.li,{children:\"3/4 cup granulated sugar\"}),(0,e.jsx)(a.li,{children:\"1 teaspoon cinnamon\"}),(0,e.jsx)(a.li,{children:\"1 teaspoon ground ginger\"}),(0,e.jsx)(a.li,{children:\"1 teaspoon ground gloves\"}),(0,e.jsx)(a.li,{children:\"2 large eggs\"}),(0,e.jsx)(a.li,{children:\"1 large deep dish pie sell\"})]}),(0,e.jsx)(a.p,{children:\"Mix dry stuff together. Beat the eggs in a bowel. Stir in the pumpkin and dry ingredient mixture. Slowy pour in the milk. After all mixed pour into the pie shell and bake at 425F for 15 mintues. Reduce heat to 350F for 30-40 mintues or until a knife in the middle comes out clean.\"}),(0,e.jsxs)(a.h2,{className:\"content-header\",id:\"irish-soda-bread\",children:[(0,e.jsx)(a.a,{href:\"#irish-soda-bread\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Irish Soda Bread\"]}),(0,e.jsxs)(a.p,{children:['I just wanted to make some of this soda bread that I was reading from the \"',(0,e.jsx)(a.a,{href:\"https://www.amazon.com/Unofficial-Harry-Potter-Cookbook-Knickerbocker/dp/1440503257\",children:\"Unofficial Harry Potter Cookbook\"}),'\". Its pretty simple and might be pretty simple tasting as well. Id recommnd buying the book if you enjoy Harry Potter and trying to make all the foods they have in the books/movies.']}),(0,e.jsxs)(a.ul,{children:[(0,e.jsx)(a.li,{children:\"4 cups flour\"}),(0,e.jsx)(a.li,{children:\"1 1/2 teaspoon baking soda\"}),(0,e.jsx)(a.li,{children:\"1 1/2 teaspoon cream of tartar\"}),(0,e.jsx)(a.li,{children:\"1 teaspoon salt\"}),(0,e.jsx)(a.li,{children:\"3 tablespoons granulated sugar\"}),(0,e.jsx)(a.li,{children:\"1/2 stick of butter (4 tablespoons)\"}),(0,e.jsx)(a.li,{children:\"1 large egg\"}),(0,e.jsx)(a.li,{children:\"1 1/2 cups butter milk\"})]}),(0,e.jsx)(a.p,{children:\"Pretty much you mix it all together in a big bowl, knead the dough on a surface with some extra flour. Throw it in a 9-inch round baking dish as a ball shape. Make a 1/2 inch deep X with a knife on the top.\"}),(0,e.jsx)(a.p,{children:\"Bake for 15 minutes at 425F, then turn down oven to 350F for 40 more mintues. Make sure bottom is brown to be done.\"}),(0,e.jsxs)(a.h2,{className:\"content-header\",id:\"deviled-eggs\",children:[(0,e.jsx)(a.a,{href:\"#deviled-eggs\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Deviled eggs\"]}),(0,e.jsxs)(a.div,{children:[(0,e.jsx)(t,{alt:\"Deviled Eggs\",src:\"/static/images/blog2021/thanks21_deviledeggs.jpg\",width:\"4032\",height:\"3024\"}),\" I make deviled eggs every year. Easy on the side snack with the meal.\"]}),(0,e.jsxs)(a.ul,{children:[(0,e.jsx)(a.li,{children:\"6 eggs\"}),(0,e.jsx)(a.li,{children:\"1/4 cup mayonnaise\"}),(0,e.jsx)(a.li,{children:\"1 teaspoon white vinegar\"}),(0,e.jsx)(a.li,{children:\"1 teaspoon yellow mustard\"}),(0,e.jsx)(a.li,{children:\"1/8 teaspoon salt\"}),(0,e.jsx)(a.li,{children:\"Ground Black Pepper\"}),(0,e.jsx)(a.li,{children:\"Paprika for garnish\"})]}),(0,e.jsx)(a.p,{children:\"Boil the eggs to make hard boiled eggs how ever you please to do that. Shell the eggs once cooled, cut eggs in half lengthwise and place the yolks into a bowl. Mash the yolk into a fine crumble. Add mayonnaise, vinegar, mustard, salt, and pepper. Mix well.\"}),(0,e.jsx)(a.p,{children:\"Evenly disperse teaspoon size of the yolk mixture into the egg whites. Sprinkle with paprika and serve.\"}),(0,e.jsxs)(a.h2,{className:\"content-header\",id:\"massaged-kale-salad\",children:[(0,e.jsx)(a.a,{href:\"#massaged-kale-salad\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Massaged Kale Salad\"]}),(0,e.jsxs)(a.div,{children:[(0,e.jsx)(t,{alt:\"Kale Salad\",src:\"/static/images/blog2021/thanks21_kalesalad.jpg\",width:\"4032\",height:\"3024\"}),\" This is my way of adding some healthy greens to the Thanksgiving meal. It's better than nothing and I was trying to imitate Chick-fi-la's kale salad.\"]}),(0,e.jsxs)(a.ul,{children:[(0,e.jsx)(a.li,{children:\"1 bunch of curly kale\"}),(0,e.jsx)(a.li,{children:\"1 lemon, juiced\"}),(0,e.jsx)(a.li,{children:\"2 cloes garlic, minced\"}),(0,e.jsx)(a.li,{children:\"3 tablespoons olive oil\"}),(0,e.jsx)(a.li,{children:\"1/2 cup parmesan cheese, shaved\"}),(0,e.jsx)(a.li,{children:\"salt and pepper to taste\"})]}),(0,e.jsx)(a.p,{children:\"In small skillet, heat the olive oil and add minced garlic. Saute the garlic over medium heat for about 30 seconds. Set the infused oil aside.\"}),(0,e.jsx)(a.p,{children:\"Prepare the kale by removing the stems and cutting it into thin ribbons.\"}),(0,e.jsx)(a.p,{children:\"Place the kale ribbons in a large bowl and toss in the cooled olive oil, lemon juice, salt, and pepper.\"}),(0,e.jsx)(a.p,{children:\"Massage the kale for two minutes with your hands, or until the leaves start to wilt. Top it off with fresh shaved parmesan cheese. Serve.\"}),(0,e.jsxs)(a.h2,{className:\"content-header\",id:\"honey-galzed-carrots\",children:[(0,e.jsx)(a.a,{href:\"#honey-galzed-carrots\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Honey Galzed Carrots\"]}),(0,e.jsx)(a.p,{children:\"Some carrots on the side is never a bad idea. Of course they are unhealthy with honey but its just once a year right?\"}),(0,e.jsxs)(a.ul,{children:[(0,e.jsx)(a.li,{children:\"2 pounds carrots, peeled (or baby carrots)\"}),(0,e.jsx)(a.li,{children:\"1/4 cup Honey\"}),(0,e.jsx)(a.li,{children:\"3 garic cloves, minced\"}),(0,e.jsx)(a.li,{children:\"2 tablespoons melted butter\"}),(0,e.jsx)(a.li,{children:\"1 tablespoon olive oil\"}),(0,e.jsx)(a.li,{children:\"1 teaspoon cinnamon\"}),(0,e.jsx)(a.li,{children:\"1/2 teaspoon ground ginger\"}),(0,e.jsx)(a.li,{children:\"1/2 teaspoon salt\"}),(0,e.jsx)(a.li,{children:\"1/4 teaspoon pepper\"}),(0,e.jsx)(a.li,{children:\"Parsley, thyme or other herbs for garnish (optional)\"})]}),(0,e.jsx)(a.p,{children:'Pre-heat oven to 425F. Cut carrots on a diagonal, about 1\"-1.5\" in length. If carrots are large and thick, you can slice them in half as well. I used baby carrots and just left them as they are.'}),(0,e.jsx)(a.p,{children:\"In mixing bowl, toss the the carrots with honey, garlic, butter, oil, and spices.\"}),(0,e.jsx)(a.p,{children:\"Pour the carrots and glaze onto a sheet pan and spread them out. Roast for 20-25 minutes tossing them halfway through. You can broil for 2-3 mintues to get a caramelization on the edges.\"})]})}function c(i={}){let{wrapper:a}=i.components||{};return a?(0,e.jsx)(a,{...i,children:(0,e.jsx)(d,{...i})}):d(i)}function x(i,a){throw new Error(\"Expected \"+(a?\"component\":\"object\")+\" `\"+i+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return y(M);})();\n;return Component;"
+    },
+    "_id": "blog/2021/thanksgiving-2021.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/2021/thanksgiving-2021.mdx",
+      "sourceFileName": "thanksgiving-2021.mdx",
+      "sourceFileDir": "blog/2021",
+      "contentType": "mdx",
+      "flattenedPath": "blog/2021/thanksgiving-2021"
+    },
+    "type": "Blog",
+    "readingTime": {
+      "text": "6 min read",
+      "minutes": 5.17,
+      "time": 310200,
+      "words": 1034
+    },
+    "slug": "2021/thanksgiving-2021",
+    "path": "blog/2021/thanksgiving-2021",
+    "filePath": "blog/2021/thanksgiving-2021.mdx",
+    "toc": [
+      {
+        "value": "The Setup",
+        "url": "#the-setup",
+        "depth": 2
+      },
+      {
+        "value": "The Turkey",
+        "url": "#the-turkey",
+        "depth": 2
+      },
+      {
+        "value": "Pecan Pie",
+        "url": "#pecan-pie",
+        "depth": 2
+      },
+      {
+        "value": "Pumpkin Pie",
+        "url": "#pumpkin-pie",
+        "depth": 2
+      },
+      {
+        "value": "Irish Soda Bread",
+        "url": "#irish-soda-bread",
+        "depth": 2
+      },
+      {
+        "value": "Deviled eggs",
+        "url": "#deviled-eggs",
+        "depth": 2
+      },
+      {
+        "value": "Massaged Kale Salad",
+        "url": "#massaged-kale-salad",
+        "depth": 2
+      },
+      {
+        "value": "Honey Galzed Carrots",
+        "url": "#honey-galzed-carrots",
+        "depth": 2
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "Thanksgiving Meal",
+      "datePublished": "2021-11-25T00:00:00.000Z",
+      "dateModified": "2021-11-25T00:00:00.000Z",
+      "description": "What is on the menu at the Yow Thanksgiving dinner. Just sharing what we will be making with some of the recipes.",
+      "image": "/static/images/blog2021/thanks21_meal.jpg",
+      "url": "https://www.rustyyow.com/blog/2021/thanksgiving-2021"
+    }
+  },
+  {
+    "title": "What Ya Playing - New World",
+    "date": "2023-08-18T00:00:00.000Z",
+    "tags": [
+      "daily-blog",
+      "gaming"
+    ],
+    "lastmod": "2023-08-18T00:00:00.000Z",
+    "draft": false,
+    "summary": "What games have I been playing for 2023! What i'm looking forward to, what I think about current games, and just general ranting.",
+    "images": [
+      "/static/images/blog2023/newworld.jpg"
+    ],
+    "authors": [
+      "default"
+    ],
+    "body": {
+      "raw": "\n### What I Have Been Playing\nRecently my video game playing has been a bit all over the place. \nI struggle to find something I really enjoy and I miss playing a good shooting FPS. \nMy game ADD has really set in. I'm holding my breath for Starfield which comes out \nnext month, which im hoping will be the next Skyrim and keep me busy for a good while.\n\nSo below is a list of what I have been playing and or what I have been dablling in.\n\n### New World\nI really really enjoy New World, the combat system, aniamations, art, spells, skills, \neverything. However the major problem for me is end game New World doesnt seem to have \nanything to make you feel you are... progressing. They add new content once in a while\n but where is the progression? Most of the time progression of armor and weapons is just roll of a loot dice for a .005% chance to get something useful. \n\nI miss the days of WoW (but I cant go back to that game, too old) type gameplay where there \nis a BIS item a dugeon but you might need to do the dugeon 20 times to get that one peice. \nNone of that really exists in New World and if it does the item you want is not BIS at all.\n\n### Diablo 4\nI played the shit out of Diablo 1 and Diablo 2 in the 1990s and I played Diablo 3 when it came \nout but I don't think 3 has as much charm as the old ones. Diablo 4 is pretty fun, I just havnt \ngotten into the mood fully for it. I need to finish the story part so I can progress to the next \n\"level\" of difficulty to get the \"real\" drops. I suspect I will keep playing Diablo 4 on and off. \nAlso I want to add i'm ok with the slowness of Diablo 4 unlike Diablo 3 where shit was just \nflying all over the screen at lighting speed.\n\n\n### Palia Beta\nI got into the game beta of Palia which is what I would describe as a Stardew valley meets Farmville.\n Its a \"mmo\" but ehhhh not really just a few people you see in town here and there.\n\n### Starfield\nAll I can say about Starfield is that I'm excited for this game and can't wait for it. \nI just hope it does not disapoint!\n\n### Magic The Gathering\nMy childhood friends got me into playing Magic the Gathering back when we were in 7th grade. So naturally those same\nfriends are trying to get me into playing again. This time Magic the Gathering commander decks. I'm not a huge fan of \nthe commander game type as it's more complicated than I remember and liked the more randomness of making a 40 card deck\nthat you need to prefect. Either way we are giving it a go here and there.\n\n",
+      "code": "var Component=(()=>{var g=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var w=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var u=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),y=(t,e)=>{for(var n in e)i(t,n,{get:e[n],enumerable:!0})},h=(t,e,n,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let l of w(e))!f.call(t,l)&&l!==n&&i(t,l,{get:()=>e[l],enumerable:!(o=m(e,l))||o.enumerable});return t};var b=(t,e,n)=>(n=t!=null?g(p(t)):{},h(e||!t||!t.__esModule?i(n,\"default\",{value:t,enumerable:!0}):n,t)),v=t=>h(i({},\"__esModule\",{value:!0}),t);var s=u((N,r)=>{r.exports=_jsx_runtime});var x={};y(x,{default:()=>c,frontmatter:()=>I});var a=b(s()),I={title:\"What Ya Playing - New World\",date:\"2023-08-18\",lastmod:\"2023-08-18\",tags:[\"daily-blog\",\"gaming\"],draft:!1,summary:\"What games have I been playing for 2023! What i'm looking forward to, what I think about current games, and just general ranting.\",images:[\"/static/images/blog2023/newworld.jpg\"],authors:[\"default\"]};function d(t){let e={a:\"a\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...t.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"what-i-have-been-playing\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#what-i-have-been-playing\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"What I Have Been Playing\"]}),(0,a.jsx)(e.p,{children:\"Recently my video game playing has been a bit all over the place. I struggle to find something I really enjoy and I miss playing a good shooting FPS. My game ADD has really set in. I'm holding my breath for Starfield which comes out next month, which im hoping will be the next Skyrim and keep me busy for a good while.\"}),(0,a.jsx)(e.p,{children:\"So below is a list of what I have been playing and or what I have been dablling in.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"new-world\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#new-world\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"New World\"]}),(0,a.jsx)(e.p,{children:\"I really really enjoy New World, the combat system, aniamations, art, spells, skills, everything. However the major problem for me is end game New World doesnt seem to have anything to make you feel you are... progressing. They add new content once in a while but where is the progression? Most of the time progression of armor and weapons is just roll of a loot dice for a .005% chance to get something useful.\"}),(0,a.jsx)(e.p,{children:\"I miss the days of WoW (but I cant go back to that game, too old) type gameplay where there is a BIS item a dugeon but you might need to do the dugeon 20 times to get that one peice. None of that really exists in New World and if it does the item you want is not BIS at all.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"diablo-4\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#diablo-4\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Diablo 4\"]}),(0,a.jsx)(e.p,{children:`I played the shit out of Diablo 1 and Diablo 2 in the 1990s and I played Diablo 3 when it came out but I don't think 3 has as much charm as the old ones. Diablo 4 is pretty fun, I just havnt gotten into the mood fully for it. I need to finish the story part so I can progress to the next \"level\" of difficulty to get the \"real\" drops. I suspect I will keep playing Diablo 4 on and off. Also I want to add i'm ok with the slowness of Diablo 4 unlike Diablo 3 where shit was just flying all over the screen at lighting speed.`}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"palia-beta\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#palia-beta\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Palia Beta\"]}),(0,a.jsx)(e.p,{children:'I got into the game beta of Palia which is what I would describe as a Stardew valley meets Farmville. Its a \"mmo\" but ehhhh not really just a few people you see in town here and there.'}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"starfield\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#starfield\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Starfield\"]}),(0,a.jsx)(e.p,{children:\"All I can say about Starfield is that I'm excited for this game and can't wait for it. I just hope it does not disapoint!\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"magic-the-gathering\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#magic-the-gathering\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Magic The Gathering\"]}),(0,a.jsx)(e.p,{children:\"My childhood friends got me into playing Magic the Gathering back when we were in 7th grade. So naturally those same friends are trying to get me into playing again. This time Magic the Gathering commander decks. I'm not a huge fan of the commander game type as it's more complicated than I remember and liked the more randomness of making a 40 card deck that you need to prefect. Either way we are giving it a go here and there.\"})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(d,{...t})}):d(t)}return v(x);})();\n;return Component;"
+    },
+    "_id": "blog/2023/WhatYaPlaying_NewWorld.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/2023/WhatYaPlaying_NewWorld.mdx",
+      "sourceFileName": "WhatYaPlaying_NewWorld.mdx",
+      "sourceFileDir": "blog/2023",
+      "contentType": "mdx",
+      "flattenedPath": "blog/2023/WhatYaPlaying_NewWorld"
+    },
+    "type": "Blog",
+    "readingTime": {
+      "text": "3 min read",
+      "minutes": 2.475,
+      "time": 148500,
+      "words": 495
+    },
+    "slug": "2023/WhatYaPlaying_NewWorld",
+    "path": "blog/2023/WhatYaPlaying_NewWorld",
+    "filePath": "blog/2023/WhatYaPlaying_NewWorld.mdx",
+    "toc": [
+      {
+        "value": "What I Have Been Playing",
+        "url": "#what-i-have-been-playing",
+        "depth": 3
+      },
+      {
+        "value": "New World",
+        "url": "#new-world",
+        "depth": 3
+      },
+      {
+        "value": "Diablo 4",
+        "url": "#diablo-4",
+        "depth": 3
+      },
+      {
+        "value": "Palia Beta",
+        "url": "#palia-beta",
+        "depth": 3
+      },
+      {
+        "value": "Starfield",
+        "url": "#starfield",
+        "depth": 3
+      },
+      {
+        "value": "Magic The Gathering",
+        "url": "#magic-the-gathering",
+        "depth": 3
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "What Ya Playing - New World",
+      "datePublished": "2023-08-18T00:00:00.000Z",
+      "dateModified": "2023-08-18T00:00:00.000Z",
+      "description": "What games have I been playing for 2023! What i'm looking forward to, what I think about current games, and just general ranting.",
+      "image": "/static/images/blog2023/newworld.jpg",
+      "url": "https://www.rustyyow.com/blog/2023/WhatYaPlaying_NewWorld"
+    }
+  },
+  {
+    "title": "Neighborhood Green Belt",
+    "date": "2023-12-10T00:00:00.000Z",
+    "tags": [
+      "daily-blog"
+    ],
+    "lastmod": "2023-12-10T00:00:00.000Z",
+    "draft": false,
+    "summary": "Neighborhood \"green belt\" that I like to explore from time to time.",
+    "images": [
+      "/static/images/blog2023/greenbelt.png"
+    ],
+    "authors": [
+      "default"
+    ],
+    "body": {
+      "raw": "\nI'm pretty sure this \"green belt\" is really just a service area for a major sewer pipeline that runs behind the hospital and \nconnects to some other parts of neighborhoods in the area. There are no signs saying your not allowed to walk in this area and its \nnot even really fenced off. It gets mowed maybe once a year and I have never seen anyone else walk in it. It's most defiantly an\narea that is not meant for people to walk freely on. I can see major sewer and other pipelines underground along this green belt\nand also running along side it is a small stream.\n\n\n## Trash & Old Tables\nThe whole area and stream is full of trash. I'm assuming blown in from the streets, maybe teens do go back there and hang out?\nI'm considering one of these days making a trip down the green belt with gloves and bags to pick up trash, something I have done\nin my neighborhood before. It’s a good walk/work out and just keeps the place clean. I'll need to get ahold of some sort of cart\nto pull with me and pick up trash to take home. Once I figure out to do that one-day I’ll post an update.\n\nAcross the street from this green belt is a really nice park that is hidden and doesn’t see too much activity. The same stream winds \nthrough this park as well. I really like the ambiance of the park, makes it seem closed off with 3 walls and safe.\n\n\n## Images\nThis is some trash of broken pipes, footballs, etc. that maybe was thrown over from the school.\n\n![Green Belt](/static/images/blog2023/greenbelt_trash.png)\n\nThere are some old tables that obviously are not used anymore. I'm assuming the school used to go into this green belt along time ago.\n\n![Green Belt](/static/images/blog2023/greenbelt_tables.png)",
+      "code": "var Component=(()=>{var m=Object.create;var s=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var b=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),w=(a,e)=>{for(var n in e)s(a,n,{get:e[n],enumerable:!0})},l=(a,e,n,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of p(e))!u.call(a,o)&&o!==n&&s(a,o,{get:()=>e[o],enumerable:!(r=g(e,o))||r.enumerable});return a};var y=(a,e,n)=>(n=a!=null?m(f(a)):{},l(e||!a||!a.__esModule?s(n,\"default\",{value:a,enumerable:!0}):n,a)),k=a=>l(s({},\"__esModule\",{value:!0}),a);var h=b((_,i)=>{i.exports=_jsx_runtime});var x={};w(x,{default:()=>c,frontmatter:()=>v});var t=y(h()),v={title:\"Neighborhood Green Belt\",date:\"2023-12-10\",lastmod:\"2023-12-10\",tags:[\"daily-blog\"],draft:!1,summary:'Neighborhood \"green belt\" that I like to explore from time to time.',images:[\"/static/images/blog2023/greenbelt.png\"],authors:[\"default\"]};function d(a){let e={a:\"a\",div:\"div\",h2:\"h2\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...a.components},{Image:n}=e;return n||I(\"Image\",!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:`I'm pretty sure this \"green belt\" is really just a service area for a major sewer pipeline that runs behind the hospital and connects to some other parts of neighborhoods in the area. There are no signs saying your not allowed to walk in this area and its not even really fenced off. It gets mowed maybe once a year and I have never seen anyone else walk in it. It's most defiantly an area that is not meant for people to walk freely on. I can see major sewer and other pipelines underground along this green belt and also running along side it is a small stream.`}),(0,t.jsxs)(e.h2,{className:\"content-header\",id:\"trash--old-tables\",children:[(0,t.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#trash--old-tables\",tabIndex:\"-1\",children:(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(e.span,{className:\"content-header-link\",children:(0,t.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,t.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,t.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Trash & Old Tables\"]}),(0,t.jsx)(e.p,{children:\"The whole area and stream is full of trash. I'm assuming blown in from the streets, maybe teens do go back there and hang out? I'm considering one of these days making a trip down the green belt with gloves and bags to pick up trash, something I have done in my neighborhood before. It\\u2019s a good walk/work out and just keeps the place clean. I'll need to get ahold of some sort of cart to pull with me and pick up trash to take home. Once I figure out to do that one-day I\\u2019ll post an update.\"}),(0,t.jsx)(e.p,{children:\"Across the street from this green belt is a really nice park that is hidden and doesn\\u2019t see too much activity. The same stream winds through this park as well. I really like the ambiance of the park, makes it seem closed off with 3 walls and safe.\"}),(0,t.jsxs)(e.h2,{className:\"content-header\",id:\"images\",children:[(0,t.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#images\",tabIndex:\"-1\",children:(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(e.span,{className:\"content-header-link\",children:(0,t.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,t.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,t.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Images\"]}),(0,t.jsx)(e.p,{children:\"This is some trash of broken pipes, footballs, etc. that maybe was thrown over from the school.\"}),(0,t.jsx)(e.div,{children:(0,t.jsx)(n,{alt:\"Green Belt\",src:\"/static/images/blog2023/greenbelt_trash.png\",width:\"1280\",height:\"720\"})}),(0,t.jsx)(e.p,{children:\"There are some old tables that obviously are not used anymore. I'm assuming the school used to go into this green belt along time ago.\"}),(0,t.jsx)(e.div,{children:(0,t.jsx)(n,{alt:\"Green Belt\",src:\"/static/images/blog2023/greenbelt_tables.png\",width:\"1280\",height:\"720\"})})]})}function c(a={}){let{wrapper:e}=a.components||{};return e?(0,t.jsx)(e,{...a,children:(0,t.jsx)(d,{...a})}):d(a)}function I(a,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+a+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return k(x);})();\n;return Component;"
+    },
+    "_id": "blog/2023/neighborhood-green-belt.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/2023/neighborhood-green-belt.mdx",
+      "sourceFileName": "neighborhood-green-belt.mdx",
+      "sourceFileDir": "blog/2023",
+      "contentType": "mdx",
+      "flattenedPath": "blog/2023/neighborhood-green-belt"
+    },
+    "type": "Blog",
+    "readingTime": {
+      "text": "2 min read",
+      "minutes": 1.535,
+      "time": 92100,
+      "words": 307
+    },
+    "slug": "2023/neighborhood-green-belt",
+    "path": "blog/2023/neighborhood-green-belt",
+    "filePath": "blog/2023/neighborhood-green-belt.mdx",
+    "toc": [
+      {
+        "value": "Trash & Old Tables",
+        "url": "#trash--old-tables",
+        "depth": 2
+      },
+      {
+        "value": "Images",
+        "url": "#images",
+        "depth": 2
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "Neighborhood Green Belt",
+      "datePublished": "2023-12-10T00:00:00.000Z",
+      "dateModified": "2023-12-10T00:00:00.000Z",
+      "description": "Neighborhood \"green belt\" that I like to explore from time to time.",
+      "image": "/static/images/blog2023/greenbelt.png",
+      "url": "https://www.rustyyow.com/blog/2023/neighborhood-green-belt"
+    }
+  },
+  {
+    "title": "3D Printing",
+    "date": "2024-09-19T05:00:00.000Z",
+    "tags": [
+      "daily-blog"
+    ],
+    "lastmod": "2024-09-19T05:00:00.000Z",
+    "draft": false,
+    "summary": "I bought a Bambu Labs 3d Printer and been having an awesome time printing everything with it. It's a major upgrade from the Ender 3 Pro and works better than I expected.",
+    "images": [
+      "/static/images/blog2023/3Dprinter.png"
+    ],
+    "authors": [
+      "default"
+    ],
+    "body": {
+      "raw": "\n## The Start\n\nThe Bambu Labs P1S 3D Printer has made 3D printing a piece of cake and makes all my Ender 3 Pro days\nseem like a joke. The days of trying to make sure the Enders bed is level and checking a print job everything\nfive minutes to make sure something has not gone wrong are all gone! The Ender served its purpose and it \nwas still a great beginers 3D printer for the price it was (less than $200).\n\nOut of the box it worked and I was printing in about 15 minutes. I have a feeling I will be running out of\nfilament very often with this printer.\n\nMore complicated prints don't seem to have a problem with the P1S. There are alot of larger prints that have\nover hangs that would be printing in thin air (which does not work well on 3D printers) and they can be\ncomplicated with supports and wasteful if the print job fails. I'm still learning with this printer but I \nhave tested a more complicated print which was a full size skull mask for my face. I plan to use it for a\nHalloween costume.\n\n![Bambu Labs P1S](/static/images/blog2024/3dprints_coaster.png)\n\nI think I will start a \"snippets\" page for 3D printing and post projects I do there going forward.",
+      "code": "var Component=(()=>{var c=Object.create;var i=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var w=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),b=(t,e)=>{for(var n in e)i(t,n,{get:e[n],enumerable:!0})},o=(t,e,n,s)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let r of g(e))!f.call(t,r)&&r!==n&&i(t,r,{get:()=>e[r],enumerable:!(s=m(e,r))||s.enumerable});return t};var v=(t,e,n)=>(n=t!=null?c(u(t)):{},o(e||!t||!t.__esModule?i(n,\"default\",{value:t,enumerable:!0}):n,t)),k=t=>o(i({},\"__esModule\",{value:!0}),t);var h=w((D,l)=>{l.exports=_jsx_runtime});var y={};b(y,{default:()=>p,frontmatter:()=>x});var a=v(h()),x={title:\"3D Printing\",date:\"2024-9-19\",lastmod:\"2024-9-19\",tags:[\"daily-blog\"],draft:!1,summary:\"I bought a Bambu Labs 3d Printer and been having an awesome time printing everything with it. It's a major upgrade from the Ender 3 Pro and works better than I expected.\",images:[\"/static/images/blog2023/3Dprinter.png\"],authors:[\"default\"]};function d(t){let e={a:\"a\",div:\"div\",h2:\"h2\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...t.components},{Image:n}=e;return n||I(\"Image\",!0),(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h2,{className:\"content-header\",id:\"the-start\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#the-start\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"The Start\"]}),(0,a.jsx)(e.p,{children:\"The Bambu Labs P1S 3D Printer has made 3D printing a piece of cake and makes all my Ender 3 Pro days seem like a joke. The days of trying to make sure the Enders bed is level and checking a print job everything five minutes to make sure something has not gone wrong are all gone! The Ender served its purpose and it was still a great beginers 3D printer for the price it was (less than $200).\"}),(0,a.jsx)(e.p,{children:\"Out of the box it worked and I was printing in about 15 minutes. I have a feeling I will be running out of filament very often with this printer.\"}),(0,a.jsx)(e.p,{children:\"More complicated prints don't seem to have a problem with the P1S. There are alot of larger prints that have over hangs that would be printing in thin air (which does not work well on 3D printers) and they can be complicated with supports and wasteful if the print job fails. I'm still learning with this printer but I have tested a more complicated print which was a full size skull mask for my face. I plan to use it for a Halloween costume.\"}),(0,a.jsx)(e.div,{children:(0,a.jsx)(n,{alt:\"Bambu Labs P1S\",src:\"/static/images/blog2024/3dprints_coaster.png\",width:\"900\",height:\"391\"})}),(0,a.jsx)(e.p,{children:'I think I will start a \"snippets\" page for 3D printing and post projects I do there going forward.'})]})}function p(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(d,{...t})}):d(t)}function I(t,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+t+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return k(y);})();\n;return Component;"
+    },
+    "_id": "blog/2024/3D-Printer.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/2024/3D-Printer.mdx",
+      "sourceFileName": "3D-Printer.mdx",
+      "sourceFileDir": "blog/2024",
+      "contentType": "mdx",
+      "flattenedPath": "blog/2024/3D-Printer"
+    },
+    "type": "Blog",
+    "readingTime": {
+      "text": "2 min read",
+      "minutes": 1.09,
+      "time": 65400,
+      "words": 218
+    },
+    "slug": "2024/3D-Printer",
+    "path": "blog/2024/3D-Printer",
+    "filePath": "blog/2024/3D-Printer.mdx",
+    "toc": [
+      {
+        "value": "The Start",
+        "url": "#the-start",
+        "depth": 2
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "3D Printing",
+      "datePublished": "2024-09-19T05:00:00.000Z",
+      "dateModified": "2024-09-19T05:00:00.000Z",
+      "description": "I bought a Bambu Labs 3d Printer and been having an awesome time printing everything with it. It's a major upgrade from the Ender 3 Pro and works better than I expected.",
+      "image": "/static/images/blog2023/3Dprinter.png",
+      "url": "https://www.rustyyow.com/blog/2024/3D-Printer"
+    }
+  },
+  {
+    "title": "Dice Throne Game Review",
+    "date": "2024-09-24T00:00:00.000Z",
+    "tags": [
+      "Board Game",
+      "Review",
+      "Daily Blog"
+    ],
+    "lastmod": "2024-09-24T00:00:00.000Z",
+    "draft": false,
+    "summary": "We have played Dice Throne a few times and its a fun easy going game.",
+    "images": [
+      "/static/images/blog2023/dicethrone.png"
+    ],
+    "authors": [
+      "default"
+    ],
+    "body": {
+      "raw": "\nThis is a fast-paced battle card game that can be played with 2 players up to 6 players. \n Each game package comes with 2 different characters of defined class, and each character \n set varies in difficulty to play. The game developers suggest to start with the set that \n includes the Barbarian and Moon Elf, as they are the easiser classes to understand.\n\nEach class has their own unique abilities that can debuff other players or buff themselves.\n Damage is determined by rolling dice and matching the dice with an ability your character has. You \n can also upgrade abilities with cards you get each turn. Active card abilities with combat points\n gained each round.\n\nWe have only played the Barbarian and Moon Elf set so far, but there may be more battles to come.\n We saw more game packages on sale at our local Barnes and Noble store. There might be another set \n purchased soon.\n\nThe game retails for about $20 on Amazon.\n\n**Other notes:**\n- Packaging is top notch - the box contains mini-boxes for each character and their \n  game accesories (dice/cards/character board)\n- The rule book is colorful and instructive\n- The artwork for the game is fun and appealing\n\n![4 out of 5 stars](/static/images/4of5stars.png)\n",
+      "code": "var Component=(()=>{var m=Object.create;var n=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var b=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),y=(a,e)=>{for(var r in e)n(a,r,{get:e[r],enumerable:!0})},s=(a,e,r,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of u(e))!p.call(a,i)&&i!==r&&n(a,i,{get:()=>e[i],enumerable:!(o=g(e,i))||o.enumerable});return a};var w=(a,e,r)=>(r=a!=null?m(f(a)):{},s(e||!a||!a.__esModule?n(r,\"default\",{value:a,enumerable:!0}):r,a)),v=a=>s(n({},\"__esModule\",{value:!0}),a);var h=b((k,c)=>{c.exports=_jsx_runtime});var _={};y(_,{default:()=>d,frontmatter:()=>x});var t=w(h()),x={title:\"Dice Throne Game Review\",date:\"2024-09-24\",lastmod:\"2024-09-24\",tags:[\"Board Game\",\"Review\",\"Daily Blog\"],draft:!1,summary:\"We have played Dice Throne a few times and its a fun easy going game.\",images:[\"/static/images/blog2023/dicethrone.png\"],authors:[\"default\"]};function l(a){let e={div:\"div\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...a.components},{Image:r}=e;return r||T(\"Image\",!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"This is a fast-paced battle card game that can be played with 2 players up to 6 players. Each game package comes with 2 different characters of defined class, and each character set varies in difficulty to play. The game developers suggest to start with the set that includes the Barbarian and Moon Elf, as they are the easiser classes to understand.\"}),(0,t.jsx)(e.p,{children:\"Each class has their own unique abilities that can debuff other players or buff themselves. Damage is determined by rolling dice and matching the dice with an ability your character has. You can also upgrade abilities with cards you get each turn. Active card abilities with combat points gained each round.\"}),(0,t.jsx)(e.p,{children:\"We have only played the Barbarian and Moon Elf set so far, but there may be more battles to come. We saw more game packages on sale at our local Barnes and Noble store. There might be another set purchased soon.\"}),(0,t.jsx)(e.p,{children:\"The game retails for about $20 on Amazon.\"}),(0,t.jsx)(e.p,{children:(0,t.jsx)(e.strong,{children:\"Other notes:\"})}),(0,t.jsxs)(e.ul,{children:[(0,t.jsx)(e.li,{children:\"Packaging is top notch - the box contains mini-boxes for each character and their game accesories (dice/cards/character board)\"}),(0,t.jsx)(e.li,{children:\"The rule book is colorful and instructive\"}),(0,t.jsx)(e.li,{children:\"The artwork for the game is fun and appealing\"})]}),(0,t.jsx)(e.div,{children:(0,t.jsx)(r,{alt:\"4 out of 5 stars\",src:\"/static/images/4of5stars.png\",width:\"300\",height:\"200\"})})]})}function d(a={}){let{wrapper:e}=a.components||{};return e?(0,t.jsx)(e,{...a,children:(0,t.jsx)(l,{...a})}):l(a)}function T(a,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+a+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return v(_);})();\n;return Component;"
+    },
+    "_id": "blog/reviews/dicethrone.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/reviews/dicethrone.mdx",
+      "sourceFileName": "dicethrone.mdx",
+      "sourceFileDir": "blog/reviews",
+      "contentType": "mdx",
+      "flattenedPath": "blog/reviews/dicethrone"
+    },
+    "type": "Blog",
+    "readingTime": {
+      "text": "2 min read",
+      "minutes": 1.03,
+      "time": 61800,
+      "words": 206
+    },
+    "slug": "reviews/dicethrone",
+    "path": "blog/reviews/dicethrone",
+    "filePath": "blog/reviews/dicethrone.mdx",
+    "toc": [],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "Dice Throne Game Review",
+      "datePublished": "2024-09-24T00:00:00.000Z",
+      "dateModified": "2024-09-24T00:00:00.000Z",
+      "description": "We have played Dice Throne a few times and its a fun easy going game.",
+      "image": "/static/images/blog2023/dicethrone.png",
+      "url": "https://www.rustyyow.com/blog/reviews/dicethrone"
+    }
+  },
+  {
+    "title": "New Year 2025!",
+    "date": "2025-01-01T06:00:00.000Z",
+    "tags": [
+      "daily-blog",
+      "gaming"
+    ],
+    "lastmod": "2025-02-11T06:00:00.000Z",
+    "draft": false,
+    "summary": "It's a new year and hopfully I will keep this website up to date more this year. At least thats the plan! Lets talk about what happened in 2024 and whats going to happen in 2025!",
+    "images": [
+      "/static/images/blog2025/NewYear2025Drawing.jpeg"
+    ],
+    "authors": [
+      "default"
+    ],
+    "layout": "PostLayout",
+    "body": {
+      "raw": "### Year 2025\n\nThis coming year i'm looking forward to some great camping trips and hopfully new responsibilities at work. I have\ntaken over some of the duties of a database administrator that has retired, and have currently been doing their work\nfor a few months already. Hopfully this will come with an offical title or some sort of change. Either way DBA work is a \ngreat skill for me to have under my belt. I have some knowledge already of SQL and database work but now i'm actually \ndoing the work.\n\nCurrently I have been playing STALKER 2 and Pantheon: Rise of the Fallen. Pantheon is a \"new\" old school type MMO, \ntaking the shape of 90% Ever Quest and 10% of WoW. My friend and I are currently enjoying the game but it is in \nearly access so we will see where it goes this year.\n\n### Reflect on 2024\nI started a Hobonichi Techo journal early in 2024 and tried to keep up with journaling, keeping dates, and other every day things.\nHobonichi journals are my new favorite notebook since it includes daily pages for journaling, a full monthly calandar,\nlists, and few other pages. It's also almost pocket size (A6). \n\nNow i'm starting with a new 2025 Techo journal and look forward to making my doodles and working on some of my \"art\".\nYou might start seeing my doodles on my blog. I figure it's an easy way to have icons/images that are not copy right \nor stolen. Adds some personal character to my site as well right?\n\n![2025](/static/images/blog2025/hobotechno.jpg)\n\n\n",
+      "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var w=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var u=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),y=(t,e)=>{for(var n in e)r(t,n,{get:e[n],enumerable:!0})},l=(t,e,n,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of p(e))!f.call(t,o)&&o!==n&&r(t,o,{get:()=>e[o],enumerable:!(i=m(e,o))||i.enumerable});return t};var k=(t,e,n)=>(n=t!=null?g(w(t)):{},l(e||!t||!t.__esModule?r(n,\"default\",{value:t,enumerable:!0}):n,t)),b=t=>l(r({},\"__esModule\",{value:!0}),t);var h=u((M,s)=>{s.exports=_jsx_runtime});var j={};y(j,{default:()=>c,frontmatter:()=>v});var a=k(h()),v={title:\"New Year 2025!\",date:\"2025-1-1\",lastmod:\"2025-2-11\",tags:[\"daily-blog\",\"gaming\"],draft:!1,summary:\"It's a new year and hopfully I will keep this website up to date more this year. At least thats the plan! Lets talk about what happened in 2024 and whats going to happen in 2025!\",images:[\"/static/images/blog2025/NewYear2025Drawing.jpeg\"],authors:[\"default\"],layout:\"PostLayout\"};function d(t){let e={a:\"a\",div:\"div\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...t.components},{Image:n}=e;return n||x(\"Image\",!0),(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"year-2025\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#year-2025\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Year 2025\"]}),(0,a.jsx)(e.p,{children:\"This coming year i'm looking forward to some great camping trips and hopfully new responsibilities at work. I have taken over some of the duties of a database administrator that has retired, and have currently been doing their work for a few months already. Hopfully this will come with an offical title or some sort of change. Either way DBA work is a great skill for me to have under my belt. I have some knowledge already of SQL and database work but now i'm actually doing the work.\"}),(0,a.jsx)(e.p,{children:'Currently I have been playing STALKER 2 and Pantheon: Rise of the Fallen. Pantheon is a \"new\" old school type MMO, taking the shape of 90% Ever Quest and 10% of WoW. My friend and I are currently enjoying the game but it is in early access so we will see where it goes this year.'}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"reflect-on-2024\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#reflect-on-2024\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Reflect on 2024\"]}),(0,a.jsx)(e.p,{children:\"I started a Hobonichi Techo journal early in 2024 and tried to keep up with journaling, keeping dates, and other every day things. Hobonichi journals are my new favorite notebook since it includes daily pages for journaling, a full monthly calandar, lists, and few other pages. It's also almost pocket size (A6).\"}),(0,a.jsx)(e.p,{children:`Now i'm starting with a new 2025 Techo journal and look forward to making my doodles and working on some of my \"art\". You might start seeing my doodles on my blog. I figure it's an easy way to have icons/images that are not copy right or stolen. Adds some personal character to my site as well right?`}),(0,a.jsx)(e.div,{children:(0,a.jsx)(n,{alt:\"2025\",src:\"/static/images/blog2025/hobotechno.jpg\",width:\"1024\",height:\"768\"})})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(d,{...t})}):d(t)}function x(t,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+t+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return b(j);})();\n;return Component;"
+    },
+    "_id": "blog/2025/new_year_2025.mdx",
+    "_raw": {
+      "sourceFilePath": "blog/2025/new_year_2025.mdx",
+      "sourceFileName": "new_year_2025.mdx",
+      "sourceFileDir": "blog/2025",
+      "contentType": "mdx",
+      "flattenedPath": "blog/2025/new_year_2025"
+    },
+    "type": "Blog",
+    "readingTime": {
+      "text": "2 min read",
+      "minutes": 1.315,
+      "time": 78900,
+      "words": 263
+    },
+    "slug": "2025/new_year_2025",
+    "path": "blog/2025/new_year_2025",
+    "filePath": "blog/2025/new_year_2025.mdx",
+    "toc": [
+      {
+        "value": "Year 2025",
+        "url": "#year-2025",
+        "depth": 3
+      },
+      {
+        "value": "Reflect on 2024",
+        "url": "#reflect-on-2024",
+        "depth": 3
+      }
+    ],
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "New Year 2025!",
+      "datePublished": "2025-01-01T06:00:00.000Z",
+      "dateModified": "2025-02-11T06:00:00.000Z",
+      "description": "It's a new year and hopfully I will keep this website up to date more this year. At least thats the plan! Lets talk about what happened in 2024 and whats going to happen in 2025!",
+      "image": "/static/images/blog2025/NewYear2025Drawing.jpeg",
+      "url": "https://www.rustyyow.com/blog/2025/new_year_2025"
+    }
+  }
+]

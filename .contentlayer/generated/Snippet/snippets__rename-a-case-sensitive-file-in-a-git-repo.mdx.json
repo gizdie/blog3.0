@@ -1,0 +1,46 @@
+{
+  "heading": "Case sensitive renaming",
+  "title": "How to safely rename a case sensitive file/directory in a git repo?",
+  "icon": "Git",
+  "date": "2022-10-11T00:00:00.000Z",
+  "tags": [
+    "git",
+    "rename",
+    "case-sensitive"
+  ],
+  "draft": false,
+  "summary": "Safely rename case-sensitive files or directories in a Git repository to avoid conflicts or case inconsistencies.",
+  "body": {
+    "raw": "\nSimple file/directory renaming in git is not a problem.\nBut what if you want to rename a case sensitive file/directory in your git repo?\nFor example, you have a file named `README.md` and you want to rename it to `Readme.md`.\n\nKeep in mind that renaming by **IDE** or **file manager** will not work because git will not recognize the change. <Twemoji emoji=\"face-with-monocle\" />\n\nYou can do it with the following command:\n\n```bash\ngit mv README.md Readme.md\n```\n\nThen follow with the usual git workflow:\n\n```bash\ngit add .\ngit commit -m \"Rename README.md to Readme.md\"\n```\n\nThat's it! You have successfully renamed a case sensitive file/directory in a git repo.\n\nHappy commiting! <Twemoji emoji=\"clinking-beer-mugs\" />\n",
+    "code": "var Component=(()=>{var g=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var k=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var u=(t,i)=>()=>(i||t((i={exports:{}}).exports,i),i.exports),f=(t,i)=>{for(var a in i)r(t,a,{get:i[a],enumerable:!0})},d=(t,i,a,s)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let n of k(i))!y.call(t,n)&&n!==a&&r(t,n,{get:()=>i[n],enumerable:!(s=m(i,n))||s.enumerable});return t};var F=(t,i,a)=>(a=t!=null?g(p(t)):{},d(i||!t||!t.__esModule?r(a,\"default\",{value:t,enumerable:!0}):a,t)),b=t=>d(r({},\"__esModule\",{value:!0}),t);var h=u((v,l)=>{l.exports=_jsx_runtime});var A={};f(A,{default:()=>c,frontmatter:()=>D});var e=F(h()),D={heading:\"Case sensitive renaming\",title:\"How to safely rename a case sensitive file/directory in a git repo?\",date:\"2022-10-11\",icon:\"Git\",draft:!1,summary:\"Safely rename case-sensitive files or directories in a Git repository to avoid conflicts or case inconsistencies.\",tags:[\"git\",\"rename\",\"case-sensitive\"]};function o(t){let i={code:\"code\",figure:\"figure\",p:\"p\",pre:\"pre\",span:\"span\",strong:\"strong\",...t.components},{Twemoji:a}=i;return a||w(\"Twemoji\",!0),(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(i.p,{children:[\"Simple file/directory renaming in git is not a problem. But what if you want to rename a case sensitive file/directory in your git repo? For example, you have a file named \",(0,e.jsx)(i.code,{children:\"README.md\"}),\" and you want to rename it to \",(0,e.jsx)(i.code,{children:\"Readme.md\"}),\".\"]}),(0,e.jsxs)(i.p,{children:[\"Keep in mind that renaming by \",(0,e.jsx)(i.strong,{children:\"IDE\"}),\" or \",(0,e.jsx)(i.strong,{children:\"file manager\"}),\" will not work because git will not recognize the change. \",(0,e.jsx)(a,{emoji:\"face-with-monocle\"})]}),(0,e.jsx)(i.p,{children:\"You can do it with the following command:\"}),(0,e.jsx)(i.figure,{\"data-rehype-pretty-code-figure\":\"\",children:(0,e.jsx)(i.pre,{\"data-language\":\"bash\",\"data-theme\":\"github-dark-dimmed solarized-light\",style:{\"--shiki-dark\":\"#adbac7\",\"--shiki-light\":\"#657B83\",\"--shiki-dark-bg\":\"#22272e\",\"--shiki-light-bg\":\"#FDF6E3\"},tabIndex:\"0\",children:(0,e.jsx)(i.code,{\"data-language\":\"bash\",\"data-theme\":\"github-dark-dimmed solarized-light\",style:{display:\"grid\"},children:(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"git\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\" mv\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\" README.md\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\" Readme.md\"})]})})})}),(0,e.jsx)(i.p,{children:\"Then follow with the usual git workflow:\"}),(0,e.jsx)(i.figure,{\"data-rehype-pretty-code-figure\":\"\",children:(0,e.jsx)(i.pre,{\"data-language\":\"bash\",\"data-theme\":\"github-dark-dimmed solarized-light\",style:{\"--shiki-dark\":\"#adbac7\",\"--shiki-light\":\"#657B83\",\"--shiki-dark-bg\":\"#22272e\",\"--shiki-light-bg\":\"#FDF6E3\"},tabIndex:\"0\",children:(0,e.jsxs)(i.code,{\"data-language\":\"bash\",\"data-theme\":\"github-dark-dimmed solarized-light\",style:{display:\"grid\"},children:[(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"git\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\" add\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\" .\"})]}),`\n`,(0,e.jsxs)(i.span,{\"data-line\":\"\",children:[(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#F69D50\",\"--shiki-light\":\"#268BD2\"},children:\"git\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:\" commit\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#6CB6FF\",\"--shiki-light\":\"#CB4B16\"},children:\" -m\"}),(0,e.jsx)(i.span,{style:{\"--shiki-dark\":\"#96D0FF\",\"--shiki-light\":\"#2AA198\"},children:' \"Rename README.md to Readme.md\"'})]})]})})}),(0,e.jsx)(i.p,{children:\"That's it! You have successfully renamed a case sensitive file/directory in a git repo.\"}),(0,e.jsxs)(i.p,{children:[\"Happy commiting! \",(0,e.jsx)(a,{emoji:\"clinking-beer-mugs\"})]})]})}function c(t={}){let{wrapper:i}=t.components||{};return i?(0,e.jsx)(i,{...t,children:(0,e.jsx)(o,{...t})}):o(t)}function w(t,i){throw new Error(\"Expected \"+(i?\"component\":\"object\")+\" `\"+t+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return b(A);})();\n;return Component;"
+  },
+  "_id": "snippets/rename-a-case-sensitive-file-in-a-git-repo.mdx",
+  "_raw": {
+    "sourceFilePath": "snippets/rename-a-case-sensitive-file-in-a-git-repo.mdx",
+    "sourceFileName": "rename-a-case-sensitive-file-in-a-git-repo.mdx",
+    "sourceFileDir": "snippets",
+    "contentType": "mdx",
+    "flattenedPath": "snippets/rename-a-case-sensitive-file-in-a-git-repo"
+  },
+  "type": "Snippet",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.575,
+    "time": 34500,
+    "words": 115
+  },
+  "slug": "rename-a-case-sensitive-file-in-a-git-repo",
+  "path": "snippets/rename-a-case-sensitive-file-in-a-git-repo",
+  "filePath": "snippets/rename-a-case-sensitive-file-in-a-git-repo.mdx",
+  "toc": [],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "CodeSnippet",
+    "headline": "How to safely rename a case sensitive file/directory in a git repo?",
+    "datePublished": "2022-10-11T00:00:00.000Z",
+    "dateModified": "2022-10-11T00:00:00.000Z",
+    "description": "Safely rename case-sensitive files or directories in a Git repository to avoid conflicts or case inconsistencies.",
+    "image": "/static/images/twitter-card.jpeg",
+    "url": "https://www.rustyyow.com/snippets/rename-a-case-sensitive-file-in-a-git-repo"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Neighborhood Green Belt",
+  "date": "2023-12-10T00:00:00.000Z",
+  "tags": [
+    "daily-blog"
+  ],
+  "lastmod": "2023-12-10T00:00:00.000Z",
+  "draft": false,
+  "summary": "Neighborhood \"green belt\" that I like to explore from time to time.",
+  "images": [
+    "/static/images/blog2023/greenbelt.png"
+  ],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\nI'm pretty sure this \"green belt\" is really just a service area for a major sewer pipeline that runs behind the hospital and \nconnects to some other parts of neighborhoods in the area. There are no signs saying your not allowed to walk in this area and its \nnot even really fenced off. It gets mowed maybe once a year and I have never seen anyone else walk in it. It's most defiantly an\narea that is not meant for people to walk freely on. I can see major sewer and other pipelines underground along this green belt\nand also running along side it is a small stream.\n\n\n## Trash & Old Tables\nThe whole area and stream is full of trash. I'm assuming blown in from the streets, maybe teens do go back there and hang out?\nI'm considering one of these days making a trip down the green belt with gloves and bags to pick up trash, something I have done\nin my neighborhood before. It’s a good walk/work out and just keeps the place clean. I'll need to get ahold of some sort of cart\nto pull with me and pick up trash to take home. Once I figure out to do that one-day I’ll post an update.\n\nAcross the street from this green belt is a really nice park that is hidden and doesn’t see too much activity. The same stream winds \nthrough this park as well. I really like the ambiance of the park, makes it seem closed off with 3 walls and safe.\n\n\n## Images\nThis is some trash of broken pipes, footballs, etc. that maybe was thrown over from the school.\n\n![Green Belt](/static/images/blog2023/greenbelt_trash.png)\n\nThere are some old tables that obviously are not used anymore. I'm assuming the school used to go into this green belt along time ago.\n\n![Green Belt](/static/images/blog2023/greenbelt_tables.png)",
+    "code": "var Component=(()=>{var m=Object.create;var s=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var b=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),w=(a,e)=>{for(var n in e)s(a,n,{get:e[n],enumerable:!0})},l=(a,e,n,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of p(e))!u.call(a,o)&&o!==n&&s(a,o,{get:()=>e[o],enumerable:!(r=g(e,o))||r.enumerable});return a};var y=(a,e,n)=>(n=a!=null?m(f(a)):{},l(e||!a||!a.__esModule?s(n,\"default\",{value:a,enumerable:!0}):n,a)),k=a=>l(s({},\"__esModule\",{value:!0}),a);var h=b((_,i)=>{i.exports=_jsx_runtime});var x={};w(x,{default:()=>c,frontmatter:()=>v});var t=y(h()),v={title:\"Neighborhood Green Belt\",date:\"2023-12-10\",lastmod:\"2023-12-10\",tags:[\"daily-blog\"],draft:!1,summary:'Neighborhood \"green belt\" that I like to explore from time to time.',images:[\"/static/images/blog2023/greenbelt.png\"],authors:[\"default\"]};function d(a){let e={a:\"a\",div:\"div\",h2:\"h2\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...a.components},{Image:n}=e;return n||I(\"Image\",!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:`I'm pretty sure this \"green belt\" is really just a service area for a major sewer pipeline that runs behind the hospital and connects to some other parts of neighborhoods in the area. There are no signs saying your not allowed to walk in this area and its not even really fenced off. It gets mowed maybe once a year and I have never seen anyone else walk in it. It's most defiantly an area that is not meant for people to walk freely on. I can see major sewer and other pipelines underground along this green belt and also running along side it is a small stream.`}),(0,t.jsxs)(e.h2,{className:\"content-header\",id:\"trash--old-tables\",children:[(0,t.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#trash--old-tables\",tabIndex:\"-1\",children:(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(e.span,{className:\"content-header-link\",children:(0,t.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,t.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,t.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Trash & Old Tables\"]}),(0,t.jsx)(e.p,{children:\"The whole area and stream is full of trash. I'm assuming blown in from the streets, maybe teens do go back there and hang out? I'm considering one of these days making a trip down the green belt with gloves and bags to pick up trash, something I have done in my neighborhood before. It\\u2019s a good walk/work out and just keeps the place clean. I'll need to get ahold of some sort of cart to pull with me and pick up trash to take home. Once I figure out to do that one-day I\\u2019ll post an update.\"}),(0,t.jsx)(e.p,{children:\"Across the street from this green belt is a really nice park that is hidden and doesn\\u2019t see too much activity. The same stream winds through this park as well. I really like the ambiance of the park, makes it seem closed off with 3 walls and safe.\"}),(0,t.jsxs)(e.h2,{className:\"content-header\",id:\"images\",children:[(0,t.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#images\",tabIndex:\"-1\",children:(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(e.span,{className:\"content-header-link\",children:(0,t.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,t.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,t.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Images\"]}),(0,t.jsx)(e.p,{children:\"This is some trash of broken pipes, footballs, etc. that maybe was thrown over from the school.\"}),(0,t.jsx)(e.div,{children:(0,t.jsx)(n,{alt:\"Green Belt\",src:\"/static/images/blog2023/greenbelt_trash.png\",width:\"1280\",height:\"720\"})}),(0,t.jsx)(e.p,{children:\"There are some old tables that obviously are not used anymore. I'm assuming the school used to go into this green belt along time ago.\"}),(0,t.jsx)(e.div,{children:(0,t.jsx)(n,{alt:\"Green Belt\",src:\"/static/images/blog2023/greenbelt_tables.png\",width:\"1280\",height:\"720\"})})]})}function c(a={}){let{wrapper:e}=a.components||{};return e?(0,t.jsx)(e,{...a,children:(0,t.jsx)(d,{...a})}):d(a)}function I(a,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+a+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return k(x);})();\n;return Component;"
+  },
+  "_id": "blog/2023/neighborhood-green-belt.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2023/neighborhood-green-belt.mdx",
+    "sourceFileName": "neighborhood-green-belt.mdx",
+    "sourceFileDir": "blog/2023",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2023/neighborhood-green-belt"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "2 min read",
+    "minutes": 1.535,
+    "time": 92100,
+    "words": 307
+  },
+  "slug": "2023/neighborhood-green-belt",
+  "path": "blog/2023/neighborhood-green-belt",
+  "filePath": "blog/2023/neighborhood-green-belt.mdx",
+  "toc": [
+    {
+      "value": "Trash & Old Tables",
+      "url": "#trash--old-tables",
+      "depth": 2
+    },
+    {
+      "value": "Images",
+      "url": "#images",
+      "depth": 2
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Neighborhood Green Belt",
+    "datePublished": "2023-12-10T00:00:00.000Z",
+    "dateModified": "2023-12-10T00:00:00.000Z",
+    "description": "Neighborhood \"green belt\" that I like to explore from time to time.",
+    "image": "/static/images/blog2023/greenbelt.png",
+    "url": "https://www.rustyyow.com/blog/2023/neighborhood-green-belt"
+  }
+}

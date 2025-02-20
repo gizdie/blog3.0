@@ -1,0 +1,80 @@
+{
+  "title": "Every Day Carry",
+  "date": "2021-01-04T00:00:00.000Z",
+  "tags": [
+    "daily-blog"
+  ],
+  "lastmod": "2021-01-04T00:00:00.000Z",
+  "draft": false,
+  "summary": "Items that you carry with you no matter where you go are important, at least they are to me. These are a few of the itmes I carry every day with me.",
+  "images": [
+    "/static/images/blog2021/edc.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\nNo matter if I goto the grocery store (pretending there is no COVID 10 and that I actually\ndo go to the grocery store right now) or just going to work. I don't mention the mask \nthat in the cover picture, but as of right now I always have an extra one shoved in my pocket.\n\n\n### Bellroy Wallet\nI will start with the most important item, which is my wallet. I use a Bell Roy Hide and Seek \nWallet. The leather feels good and it is the right size for me to hold all my cards. Its even RFID \nprotected if you worry about that sort of thing. [Company Link](https://bellroy.com/products/hide-and-seek-wallet?color=caramel&gclid=Cj0KCQiAlsv_BRDtARIsAHMGVSa_ihCd6MQMhMekb3SHbMJwSrm_ypDWhgi2xmWSvm0pHFGAM0rVFUYaAlf5EALw_wcB&material=leather_rfid&size=hi#slide-0)\n\n![Bellroy Wallet](/static/images/blog2021/bellroywallet.jpeg)\n\n### Spyderco Knife\nNext up is my pocket knife. This little dude is a Spyderco Delica 4 2.8\" blade. \nJust my normal pocket knife that cuts boxes for me or what ever I need it for out \nin the woods. I can't find the exact model I have but the link should be very close \nto the same. [Company Link](https://www.spyderco.com/catalog/details/C11FK390/1885)\n\n![Spyderco Knife](/static/images/blog2021/spydercoknife.jpeg)\n\n### Apple Watch\nThis one is a given. Its my Apple Watch Series 5. Track my running, hiking, every \nday what ever. I use it for calls, timers, meeting notices. It also seems to hold \nup on a 3 day hiking trip in the woods so long as I bring a battery pack to charge \nit at night. [Company Link](http://www.apple.com)\n\n![Spyderco Knife](/static/images/blog2021/applewatch.jpeg)\n\n### Fisher Bullet Pen\nThe Fisher Bullet Space Pen is a decent small pen to keep in your pocket when you \nneed to write something down. Never know when you will be in space! Any of the bullet \npens are nice, take your pick of design. [Company Link](https://www.spacepen.com/bullet.aspx)\n\n![Spyderco Knife](/static/images/blog2021/spacepen.jpeg)\n\n### Blank Forces\nThis pen I don't always carry in my pocket but I normally have it in my backpack. \nIts very expensive which is why it doesn't always go all places with me. Super awesome \ncustom pen how ever. Sleek and I like the size and smoothness it feels in my hand. \n[Company Link](https://www.blankforces.com/)\n\n![Spyderco Knife](/static/images/blog2021/blankforces.jpeg)\n\n### iPhone\nLast but not least is my iPhone 11 Pro. It's my phone of choice, use it for pictures \nand 4k video. I have the 128gb size which is plenty for what I use it for. The case is a \nPitaka MagEz case. I use these cases for all my apple products. They have a good grip and \nstick to my magnetic car holder well. [Company Link](https://www.apple.com)\n\n![Spyderco Knife](/static/images/blog2021/iphone.jpeg)",
+    "code": "var Component=(()=>{var p=Object.create;var n=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var w=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,y=Object.prototype.hasOwnProperty;var f=(t,a)=>()=>(a||t((a={exports:{}}).exports,a),a.exports),u=(t,a)=>{for(var l in a)n(t,l,{get:a[l],enumerable:!0})},o=(t,a,l,r)=>{if(a&&typeof a==\"object\"||typeof a==\"function\")for(let i of w(a))!y.call(t,i)&&i!==l&&n(t,i,{get:()=>a[i],enumerable:!(r=m(a,i))||r.enumerable});return t};var k=(t,a,l)=>(l=t!=null?p(g(t)):{},o(a||!t||!t.__esModule?n(l,\"default\",{value:t,enumerable:!0}):l,t)),v=t=>o(n({},\"__esModule\",{value:!0}),t);var s=f((N,h)=>{h.exports=_jsx_runtime});var I={};u(I,{default:()=>d,frontmatter:()=>b});var e=k(s()),b={title:\"Every Day Carry\",date:\"2021-01-04\",lastmod:\"2021-01-04\",tags:[\"daily-blog\"],draft:!1,summary:\"Items that you carry with you no matter where you go are important, at least they are to me. These are a few of the itmes I carry every day with me.\",images:[\"/static/images/blog2021/edc.jpg\"],authors:[\"default\"]};function c(t){let a={a:\"a\",div:\"div\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...t.components},{Image:l}=a;return l||x(\"Image\",!0),(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(a.p,{children:\"No matter if I goto the grocery store (pretending there is no COVID 10 and that I actually do go to the grocery store right now) or just going to work. I don't mention the mask that in the cover picture, but as of right now I always have an extra one shoved in my pocket.\"}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"bellroy-wallet\",children:[(0,e.jsx)(a.a,{href:\"#bellroy-wallet\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Bellroy Wallet\"]}),(0,e.jsxs)(a.p,{children:[\"I will start with the most important item, which is my wallet. I use a Bell Roy Hide and Seek Wallet. The leather feels good and it is the right size for me to hold all my cards. Its even RFID protected if you worry about that sort of thing. \",(0,e.jsx)(a.a,{href:\"https://bellroy.com/products/hide-and-seek-wallet?color=caramel&gclid=Cj0KCQiAlsv_BRDtARIsAHMGVSa_ihCd6MQMhMekb3SHbMJwSrm_ypDWhgi2xmWSvm0pHFGAM0rVFUYaAlf5EALw_wcB&material=leather_rfid&size=hi#slide-0\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Bellroy Wallet\",src:\"/static/images/blog2021/bellroywallet.jpeg\",width:\"1024\",height:\"768\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"spyderco-knife\",children:[(0,e.jsx)(a.a,{href:\"#spyderco-knife\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Spyderco Knife\"]}),(0,e.jsxs)(a.p,{children:[`Next up is my pocket knife. This little dude is a Spyderco Delica 4 2.8\" blade. Just my normal pocket knife that cuts boxes for me or what ever I need it for out in the woods. I can't find the exact model I have but the link should be very close to the same. `,(0,e.jsx)(a.a,{href:\"https://www.spyderco.com/catalog/details/C11FK390/1885\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Spyderco Knife\",src:\"/static/images/blog2021/spydercoknife.jpeg\",width:\"1024\",height:\"768\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"apple-watch\",children:[(0,e.jsx)(a.a,{href:\"#apple-watch\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Apple Watch\"]}),(0,e.jsxs)(a.p,{children:[\"This one is a given. Its my Apple Watch Series 5. Track my running, hiking, every day what ever. I use it for calls, timers, meeting notices. It also seems to hold up on a 3 day hiking trip in the woods so long as I bring a battery pack to charge it at night. \",(0,e.jsx)(a.a,{href:\"http://www.apple.com\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Spyderco Knife\",src:\"/static/images/blog2021/applewatch.jpeg\",width:\"1024\",height:\"768\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"fisher-bullet-pen\",children:[(0,e.jsx)(a.a,{href:\"#fisher-bullet-pen\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Fisher Bullet Pen\"]}),(0,e.jsxs)(a.p,{children:[\"The Fisher Bullet Space Pen is a decent small pen to keep in your pocket when you need to write something down. Never know when you will be in space! Any of the bullet pens are nice, take your pick of design. \",(0,e.jsx)(a.a,{href:\"https://www.spacepen.com/bullet.aspx\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Spyderco Knife\",src:\"/static/images/blog2021/spacepen.jpeg\",width:\"1024\",height:\"768\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"blank-forces\",children:[(0,e.jsx)(a.a,{href:\"#blank-forces\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Blank Forces\"]}),(0,e.jsxs)(a.p,{children:[\"This pen I don't always carry in my pocket but I normally have it in my backpack. Its very expensive which is why it doesn't always go all places with me. Super awesome custom pen how ever. Sleek and I like the size and smoothness it feels in my hand. \",(0,e.jsx)(a.a,{href:\"https://www.blankforces.com/\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Spyderco Knife\",src:\"/static/images/blog2021/blankforces.jpeg\",width:\"1024\",height:\"768\"})}),(0,e.jsxs)(a.h3,{className:\"content-header\",id:\"iphone\",children:[(0,e.jsx)(a.a,{href:\"#iphone\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(e.Fragment,{children:(0,e.jsx)(a.span,{className:\"content-header-link\",children:(0,e.jsxs)(a.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,e.jsx)(a.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,e.jsx)(a.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"iPhone\"]}),(0,e.jsxs)(a.p,{children:[\"Last but not least is my iPhone 11 Pro. It's my phone of choice, use it for pictures and 4k video. I have the 128gb size which is plenty for what I use it for. The case is a Pitaka MagEz case. I use these cases for all my apple products. They have a good grip and stick to my magnetic car holder well. \",(0,e.jsx)(a.a,{href:\"https://www.apple.com\",children:\"Company Link\"})]}),(0,e.jsx)(a.div,{children:(0,e.jsx)(l,{alt:\"Spyderco Knife\",src:\"/static/images/blog2021/iphone.jpeg\",width:\"1024\",height:\"768\"})})]})}function d(t={}){let{wrapper:a}=t.components||{};return a?(0,e.jsx)(a,{...t,children:(0,e.jsx)(c,{...t})}):c(t)}function x(t,a){throw new Error(\"Expected \"+(a?\"component\":\"object\")+\" `\"+t+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return v(I);})();\n;return Component;"
+  },
+  "_id": "blog/2021/edc.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2021/edc.mdx",
+    "sourceFileName": "edc.mdx",
+    "sourceFileDir": "blog/2021",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2021/edc"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "3 min read",
+    "minutes": 2.07,
+    "time": 124200,
+    "words": 414
+  },
+  "slug": "2021/edc",
+  "path": "blog/2021/edc",
+  "filePath": "blog/2021/edc.mdx",
+  "toc": [
+    {
+      "value": "Bellroy Wallet",
+      "url": "#bellroy-wallet",
+      "depth": 3
+    },
+    {
+      "value": "Spyderco Knife",
+      "url": "#spyderco-knife",
+      "depth": 3
+    },
+    {
+      "value": "Apple Watch",
+      "url": "#apple-watch",
+      "depth": 3
+    },
+    {
+      "value": "Fisher Bullet Pen",
+      "url": "#fisher-bullet-pen",
+      "depth": 3
+    },
+    {
+      "value": "Blank Forces",
+      "url": "#blank-forces",
+      "depth": 3
+    },
+    {
+      "value": "iPhone",
+      "url": "#iphone",
+      "depth": 3
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Every Day Carry",
+    "datePublished": "2021-01-04T00:00:00.000Z",
+    "dateModified": "2021-01-04T00:00:00.000Z",
+    "description": "Items that you carry with you no matter where you go are important, at least they are to me. These are a few of the itmes I carry every day with me.",
+    "image": "/static/images/blog2021/edc.jpg",
+    "url": "https://www.rustyyow.com/blog/2021/edc"
+  }
+}

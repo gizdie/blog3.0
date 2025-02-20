@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/rustyyow/Projects/blog3.0/app/layout\":[\"static/media/84c454f7bbb4238a-s.p.woff2\",\"static/media/558ca1a6aa3cb55e-s.p.woff2\",\"static/media/57539e6b041cac9c-s.p.woff2\",\"static/media/21ed5661b47f7f6d-s.p.woff2\",\"static/media/9cb901a413a41e66-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
