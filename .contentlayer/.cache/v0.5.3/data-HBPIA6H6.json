@@ -1030,62 +1030,6 @@
       "hasWarnings": false,
       "documentTypeName": "Blog"
     },
-    "blog/reviews/dicethrone.mdx": {
-      "document": {
-        "title": "Dice Throne Game Review",
-        "date": "2024-09-24T00:00:00.000Z",
-        "tags": [
-          "Board Game",
-          "Review",
-          "Daily Blog"
-        ],
-        "lastmod": "2024-09-24T00:00:00.000Z",
-        "draft": false,
-        "summary": "We have played Dice Throne a few times and its a fun easy going game.",
-        "images": [
-          "/static/images/blog2023/dicethrone.png"
-        ],
-        "authors": [
-          "default"
-        ],
-        "body": {
-          "raw": "\nThis is a fast-paced battle card game that can be played with 2 players up to 6 players. \n Each game package comes with 2 different characters of defined class, and each character \n set varies in difficulty to play. The game developers suggest to start with the set that \n includes the Barbarian and Moon Elf, as they are the easiser classes to understand.\n\nEach class has their own unique abilities that can debuff other players or buff themselves.\n Damage is determined by rolling dice and matching the dice with an ability your character has. You \n can also upgrade abilities with cards you get each turn. Active card abilities with combat points\n gained each round.\n\nWe have only played the Barbarian and Moon Elf set so far, but there may be more battles to come.\n We saw more game packages on sale at our local Barnes and Noble store. There might be another set \n purchased soon.\n\nThe game retails for about $20 on Amazon.\n\n**Other notes:**\n- Packaging is top notch - the box contains mini-boxes for each character and their \n  game accesories (dice/cards/character board)\n- The rule book is colorful and instructive\n- The artwork for the game is fun and appealing\n\n![4 out of 5 stars](/static/images/4of5stars.png)\n",
-          "code": "var Component=(()=>{var m=Object.create;var n=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var b=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),y=(a,e)=>{for(var r in e)n(a,r,{get:e[r],enumerable:!0})},s=(a,e,r,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of u(e))!p.call(a,i)&&i!==r&&n(a,i,{get:()=>e[i],enumerable:!(o=g(e,i))||o.enumerable});return a};var w=(a,e,r)=>(r=a!=null?m(f(a)):{},s(e||!a||!a.__esModule?n(r,\"default\",{value:a,enumerable:!0}):r,a)),v=a=>s(n({},\"__esModule\",{value:!0}),a);var h=b((k,c)=>{c.exports=_jsx_runtime});var _={};y(_,{default:()=>d,frontmatter:()=>x});var t=w(h()),x={title:\"Dice Throne Game Review\",date:\"2024-09-24\",lastmod:\"2024-09-24\",tags:[\"Board Game\",\"Review\",\"Daily Blog\"],draft:!1,summary:\"We have played Dice Throne a few times and its a fun easy going game.\",images:[\"/static/images/blog2023/dicethrone.png\"],authors:[\"default\"]};function l(a){let e={div:\"div\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...a.components},{Image:r}=e;return r||T(\"Image\",!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"This is a fast-paced battle card game that can be played with 2 players up to 6 players. Each game package comes with 2 different characters of defined class, and each character set varies in difficulty to play. The game developers suggest to start with the set that includes the Barbarian and Moon Elf, as they are the easiser classes to understand.\"}),(0,t.jsx)(e.p,{children:\"Each class has their own unique abilities that can debuff other players or buff themselves. Damage is determined by rolling dice and matching the dice with an ability your character has. You can also upgrade abilities with cards you get each turn. Active card abilities with combat points gained each round.\"}),(0,t.jsx)(e.p,{children:\"We have only played the Barbarian and Moon Elf set so far, but there may be more battles to come. We saw more game packages on sale at our local Barnes and Noble store. There might be another set purchased soon.\"}),(0,t.jsx)(e.p,{children:\"The game retails for about $20 on Amazon.\"}),(0,t.jsx)(e.p,{children:(0,t.jsx)(e.strong,{children:\"Other notes:\"})}),(0,t.jsxs)(e.ul,{children:[(0,t.jsx)(e.li,{children:\"Packaging is top notch - the box contains mini-boxes for each character and their game accesories (dice/cards/character board)\"}),(0,t.jsx)(e.li,{children:\"The rule book is colorful and instructive\"}),(0,t.jsx)(e.li,{children:\"The artwork for the game is fun and appealing\"})]}),(0,t.jsx)(e.div,{children:(0,t.jsx)(r,{alt:\"4 out of 5 stars\",src:\"/static/images/4of5stars.png\",width:\"300\",height:\"200\"})})]})}function d(a={}){let{wrapper:e}=a.components||{};return e?(0,t.jsx)(e,{...a,children:(0,t.jsx)(l,{...a})}):l(a)}function T(a,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+a+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return v(_);})();\n;return Component;"
-        },
-        "_id": "blog/reviews/dicethrone.mdx",
-        "_raw": {
-          "sourceFilePath": "blog/reviews/dicethrone.mdx",
-          "sourceFileName": "dicethrone.mdx",
-          "sourceFileDir": "blog/reviews",
-          "contentType": "mdx",
-          "flattenedPath": "blog/reviews/dicethrone"
-        },
-        "type": "Blog",
-        "readingTime": {
-          "text": "2 min read",
-          "minutes": 1.03,
-          "time": 61800,
-          "words": 206
-        },
-        "slug": "reviews/dicethrone",
-        "path": "blog/reviews/dicethrone",
-        "filePath": "blog/reviews/dicethrone.mdx",
-        "toc": [],
-        "structuredData": {
-          "@context": "https://schema.org",
-          "@type": "BlogPosting",
-          "headline": "Dice Throne Game Review",
-          "datePublished": "2024-09-24T00:00:00.000Z",
-          "dateModified": "2024-09-24T00:00:00.000Z",
-          "description": "We have played Dice Throne a few times and its a fun easy going game.",
-          "image": "/static/images/blog2023/dicethrone.png",
-          "url": "https://www.rustyyow.com/blog/reviews/dicethrone"
-        }
-      },
-      "documentHash": "1739387593946",
-      "hasWarnings": false,
-      "documentTypeName": "Blog"
-    },
     "blog/2025/new_year_2025.mdx": {
       "document": {
         "title": "New Year 2025!",
@@ -1150,6 +1094,62 @@
         }
       },
       "documentHash": "1739336023339",
+      "hasWarnings": false,
+      "documentTypeName": "Blog"
+    },
+    "blog/reviews/dicethrone.mdx": {
+      "document": {
+        "title": "Dice Throne Game Review",
+        "date": "2024-09-24T00:00:00.000Z",
+        "tags": [
+          "Board Game",
+          "Review",
+          "Daily Blog"
+        ],
+        "lastmod": "2024-09-24T00:00:00.000Z",
+        "draft": false,
+        "summary": "We have played Dice Throne a few times and its a fun easy going game.",
+        "images": [
+          "/static/images/blog2023/dicethrone.png"
+        ],
+        "authors": [
+          "default"
+        ],
+        "body": {
+          "raw": "\nThis is a fast-paced battle card game that can be played with 2 players up to 6 players. \n Each game package comes with 2 different characters of defined class, and each character \n set varies in difficulty to play. The game developers suggest to start with the set that \n includes the Barbarian and Moon Elf, as they are the easiser classes to understand.\n\nEach class has their own unique abilities that can debuff other players or buff themselves.\n Damage is determined by rolling dice and matching the dice with an ability your character has. You \n can also upgrade abilities with cards you get each turn. Active card abilities with combat points\n gained each round.\n\nWe have only played the Barbarian and Moon Elf set so far, but there may be more battles to come.\n We saw more game packages on sale at our local Barnes and Noble store. There might be another set \n purchased soon.\n\nThe game retails for about $20 on Amazon.\n\n**Other notes:**\n- Packaging is top notch - the box contains mini-boxes for each character and their \n  game accesories (dice/cards/character board)\n- The rule book is colorful and instructive\n- The artwork for the game is fun and appealing\n\n![4 out of 5 stars](/static/images/4of5stars.png)\n",
+          "code": "var Component=(()=>{var m=Object.create;var n=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var u=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,p=Object.prototype.hasOwnProperty;var b=(a,e)=>()=>(e||a((e={exports:{}}).exports,e),e.exports),y=(a,e)=>{for(var r in e)n(a,r,{get:e[r],enumerable:!0})},s=(a,e,r,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of u(e))!p.call(a,i)&&i!==r&&n(a,i,{get:()=>e[i],enumerable:!(o=g(e,i))||o.enumerable});return a};var w=(a,e,r)=>(r=a!=null?m(f(a)):{},s(e||!a||!a.__esModule?n(r,\"default\",{value:a,enumerable:!0}):r,a)),v=a=>s(n({},\"__esModule\",{value:!0}),a);var h=b((k,c)=>{c.exports=_jsx_runtime});var _={};y(_,{default:()=>d,frontmatter:()=>x});var t=w(h()),x={title:\"Dice Throne Game Review\",date:\"2024-09-24\",lastmod:\"2024-09-24\",tags:[\"Board Game\",\"Review\",\"Daily Blog\"],draft:!1,summary:\"We have played Dice Throne a few times and its a fun easy going game.\",images:[\"/static/images/blog2023/dicethrone.png\"],authors:[\"default\"]};function l(a){let e={div:\"div\",li:\"li\",p:\"p\",strong:\"strong\",ul:\"ul\",...a.components},{Image:r}=e;return r||T(\"Image\",!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"This is a fast-paced battle card game that can be played with 2 players up to 6 players. Each game package comes with 2 different characters of defined class, and each character set varies in difficulty to play. The game developers suggest to start with the set that includes the Barbarian and Moon Elf, as they are the easiser classes to understand.\"}),(0,t.jsx)(e.p,{children:\"Each class has their own unique abilities that can debuff other players or buff themselves. Damage is determined by rolling dice and matching the dice with an ability your character has. You can also upgrade abilities with cards you get each turn. Active card abilities with combat points gained each round.\"}),(0,t.jsx)(e.p,{children:\"We have only played the Barbarian and Moon Elf set so far, but there may be more battles to come. We saw more game packages on sale at our local Barnes and Noble store. There might be another set purchased soon.\"}),(0,t.jsx)(e.p,{children:\"The game retails for about $20 on Amazon.\"}),(0,t.jsx)(e.p,{children:(0,t.jsx)(e.strong,{children:\"Other notes:\"})}),(0,t.jsxs)(e.ul,{children:[(0,t.jsx)(e.li,{children:\"Packaging is top notch - the box contains mini-boxes for each character and their game accesories (dice/cards/character board)\"}),(0,t.jsx)(e.li,{children:\"The rule book is colorful and instructive\"}),(0,t.jsx)(e.li,{children:\"The artwork for the game is fun and appealing\"})]}),(0,t.jsx)(e.div,{children:(0,t.jsx)(r,{alt:\"4 out of 5 stars\",src:\"/static/images/4of5stars.png\",width:\"300\",height:\"200\"})})]})}function d(a={}){let{wrapper:e}=a.components||{};return e?(0,t.jsx)(e,{...a,children:(0,t.jsx)(l,{...a})}):l(a)}function T(a,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+a+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return v(_);})();\n;return Component;"
+        },
+        "_id": "blog/reviews/dicethrone.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/reviews/dicethrone.mdx",
+          "sourceFileName": "dicethrone.mdx",
+          "sourceFileDir": "blog/reviews",
+          "contentType": "mdx",
+          "flattenedPath": "blog/reviews/dicethrone"
+        },
+        "type": "Blog",
+        "readingTime": {
+          "text": "2 min read",
+          "minutes": 1.03,
+          "time": 61800,
+          "words": 206
+        },
+        "slug": "reviews/dicethrone",
+        "path": "blog/reviews/dicethrone",
+        "filePath": "blog/reviews/dicethrone.mdx",
+        "toc": [],
+        "structuredData": {
+          "@context": "https://schema.org",
+          "@type": "BlogPosting",
+          "headline": "Dice Throne Game Review",
+          "datePublished": "2024-09-24T00:00:00.000Z",
+          "dateModified": "2024-09-24T00:00:00.000Z",
+          "description": "We have played Dice Throne a few times and its a fun easy going game.",
+          "image": "/static/images/blog2023/dicethrone.png",
+          "url": "https://www.rustyyow.com/blog/reviews/dicethrone"
+        }
+      },
+      "documentHash": "1739387593946",
       "hasWarnings": false,
       "documentTypeName": "Blog"
     }

@@ -9,7 +9,7 @@ import blog__2021__thanksgiving_2021Mdx from './blog__2021__thanksgiving-2021.md
 import blog__2023__whatYaPlaying_newWorldMdx from './blog__2023__WhatYaPlaying_NewWorld.mdx.json' assert { type: 'json' }
 import blog__2023__neighborhoodGreenBeltMdx from './blog__2023__neighborhood-green-belt.mdx.json' assert { type: 'json' }
 import blog__2024__3DPrinterMdx from './blog__2024__3D-Printer.mdx.json' assert { type: 'json' }
-import blog__reviews__dicethroneMdx from './blog__reviews__dicethrone.mdx.json' assert { type: 'json' }
 import blog__2025__new_year_2025Mdx from './blog__2025__new_year_2025.mdx.json' assert { type: 'json' }
+import blog__reviews__dicethroneMdx from './blog__reviews__dicethrone.mdx.json' assert { type: 'json' }
 
-export const allBlogs = [blog__2020__bob_ross_ipadMdx, blog__2020__whats_playingMdx, blog__2021__decemberBlogMdx, blog__2021__edcMdx, blog__2021__teslaPurchaseMdx, blog__2021__thanksgiving_2021Mdx, blog__2023__whatYaPlaying_newWorldMdx, blog__2023__neighborhoodGreenBeltMdx, blog__2024__3DPrinterMdx, blog__reviews__dicethroneMdx, blog__2025__new_year_2025Mdx]
+export const allBlogs = [blog__2020__bob_ross_ipadMdx, blog__2020__whats_playingMdx, blog__2021__decemberBlogMdx, blog__2021__edcMdx, blog__2021__teslaPurchaseMdx, blog__2021__thanksgiving_2021Mdx, blog__2023__whatYaPlaying_newWorldMdx, blog__2023__neighborhoodGreenBeltMdx, blog__2024__3DPrinterMdx, blog__2025__new_year_2025Mdx, blog__reviews__dicethroneMdx]
