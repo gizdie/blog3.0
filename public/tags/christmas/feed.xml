@@ -1,0 +1,25 @@
+
+		<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+			<channel>
+				<title>Rusty&#39;s Blog and Portfolio</title>
+				<link>https://www.rustyyow.com/blog</link>
+				<description>A compendium of my knowledge... or just my blog, however you want to look at it.</description>
+				<language>en-us</language>
+				<managingEditor>other@rustyyow.com (Rusty Yow)</managingEditor>
+				<webMaster>other@rustyyow.com (Rusty Yow)</webMaster>
+				<lastBuildDate>Sun, 19 Dec 2021 00:00:00 GMT</lastBuildDate>
+				<atom:link href="https://www.rustyyow.com/tags/christmas/feed.xml" rel="self" type="application/rss+xml"/>
+				
+		<item>
+			<guid>https://www.rustyyow.com/blog/2021/december-blog</guid>
+			<title>December Daily Blog</title>
+			<link>https://www.rustyyow.com/blog/2021/december-blog</link>
+			<description>My daily blog page for December 2021. I like to blog small thoughts that come access my mind each day, or maybe just talk about what I have been doing this month.</description>
+			<pubDate>Sun, 19 Dec 2021 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>Daily Blog</category><category>December</category><category>Christmas</category>
+		</item>
+	
+			</channel>
+		</rss>
+	

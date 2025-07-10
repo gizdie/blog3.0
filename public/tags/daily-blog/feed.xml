@@ -1,0 +1,115 @@
+
+		<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+			<channel>
+				<title>Rusty&#39;s Blog and Portfolio</title>
+				<link>https://www.rustyyow.com/blog</link>
+				<description>A compendium of my knowledge... or just my blog, however you want to look at it.</description>
+				<language>en-us</language>
+				<managingEditor>other@rustyyow.com (Rusty Yow)</managingEditor>
+				<webMaster>other@rustyyow.com (Rusty Yow)</webMaster>
+				<lastBuildDate>Wed, 07 Oct 2020 00:00:00 GMT</lastBuildDate>
+				<atom:link href="https://www.rustyyow.com/tags/daily-blog/feed.xml" rel="self" type="application/rss+xml"/>
+				
+		<item>
+			<guid>https://www.rustyyow.com/blog/2020/bob_ross_ipad</guid>
+			<title>Bob Ross on iPad</title>
+			<link>https://www.rustyyow.com/blog/2020/bob_ross_ipad</link>
+			<description>My attempt of &quot;painting&quot; a Bob Ross painting on a iPad.</description>
+			<pubDate>Wed, 07 Oct 2020 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2020/whats_playing</guid>
+			<title>Whats Playing 2020</title>
+			<link>https://www.rustyyow.com/blog/2020/whats_playing</link>
+			<description>Lets talk about what video games I have been playing recently and my quick little review of them.</description>
+			<pubDate>Fri, 05 Jun 2020 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category><category>gaming</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2023/WhatYaPlaying_NewWorld</guid>
+			<title>What Ya Playing - New World</title>
+			<link>https://www.rustyyow.com/blog/2023/WhatYaPlaying_NewWorld</link>
+			<description>What games have I been playing for 2023! What i&#39;m looking forward to, what I think about current games, and just general ranting.</description>
+			<pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category><category>gaming</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2023/neighborhood-green-belt</guid>
+			<title>Neighborhood Green Belt</title>
+			<link>https://www.rustyyow.com/blog/2023/neighborhood-green-belt</link>
+			<description>Neighborhood &quot;green belt&quot; that I like to explore from time to time.</description>
+			<pubDate>Sun, 10 Dec 2023 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2021/december-blog</guid>
+			<title>December Daily Blog</title>
+			<link>https://www.rustyyow.com/blog/2021/december-blog</link>
+			<description>My daily blog page for December 2021. I like to blog small thoughts that come access my mind each day, or maybe just talk about what I have been doing this month.</description>
+			<pubDate>Sun, 19 Dec 2021 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>Daily Blog</category><category>December</category><category>Christmas</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2021/edc</guid>
+			<title>Every Day Carry</title>
+			<link>https://www.rustyyow.com/blog/2021/edc</link>
+			<description>Items that you carry with you no matter where you go are important, at least they are to me. These are a few of the itmes I carry every day with me.</description>
+			<pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2021/thanksgiving-2021</guid>
+			<title>Thanksgiving Meal</title>
+			<link>https://www.rustyyow.com/blog/2021/thanksgiving-2021</link>
+			<description>What is on the menu at the Yow Thanksgiving dinner. Just sharing what we will be making with some of the recipes.</description>
+			<pubDate>Thu, 25 Nov 2021 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>Holiday</category><category>Thanksgiving</category><category>Daily Blog</category><category>Recipes</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2024/3D-Printer</guid>
+			<title>3D Printing</title>
+			<link>https://www.rustyyow.com/blog/2024/3D-Printer</link>
+			<description>I bought a Bambu Labs 3d Printer and been having an awesome time printing everything with it. It&#39;s a major upgrade from the Ender 3 Pro and works better than I expected.</description>
+			<pubDate>Thu, 19 Sep 2024 05:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2025/new_year_2025</guid>
+			<title>New Year 2025!</title>
+			<link>https://www.rustyyow.com/blog/2025/new_year_2025</link>
+			<description>It&#39;s a new year and hopfully I will keep this website up to date more this year. At least thats the plan! Lets talk about what happened in 2024 and whats going to happen in 2025!</description>
+			<pubDate>Wed, 01 Jan 2025 06:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category><category>gaming</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/reviews/dicethrone</guid>
+			<title>Dice Throne Game Review</title>
+			<link>https://www.rustyyow.com/blog/reviews/dicethrone</link>
+			<description>We have played Dice Throne a few times and its a fun easy going game.</description>
+			<pubDate>Tue, 24 Sep 2024 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>Board Game</category><category>Review</category><category>Daily Blog</category>
+		</item>
+	
+			</channel>
+		</rss>
+	
