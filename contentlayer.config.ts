@@ -189,6 +189,7 @@ export default makeSource({
       remarkImgToJsx,
       remarkAlert,
     ],
+    
     rehypePlugins: [
       rehypeSlug,
       [
@@ -215,6 +216,8 @@ export default makeSource({
       ],
       rehypePresetMinify,
     ],
+    //useMDXComponents: './components/mdx/use-mdx-components.tsx',
+    
   },
   onSuccess: async (importData) => {
     let { allBlogs, allSnippets } = await importData()

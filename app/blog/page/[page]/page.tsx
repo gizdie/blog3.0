@@ -1,19 +1,15 @@
+import { genPageMetadata } from 'app/seo'
 import { allBlogs } from 'contentlayer/generated'
 import { ListLayout } from '~/layouts/list-layout'
 import { POSTS_PER_PAGE } from '~/utils/const'
 import { allCoreContent } from '~/utils/contentlayer'
 import { sortPosts } from '~/utils/misc'
 
-export let generateStaticParams = async () => {
-  let totalPages = Math.ceil(allBlogs.length / POSTS_PER_PAGE)
-  let paths = Array.from({ length: totalPages }, (_, i) => ({ page: (i + 1).toString() }))
-  return paths
-}
+export let metadata = genPageMetadata({ title: 'Blog' })
 
-export default async function Page(props: { params: Promise<{ page: string }> }) {
-  let params = await props.params
+export default function BlogPage() {
   let posts = allCoreContent(sortPosts(allBlogs))
-  let pageNumber = parseInt(params.page as string)
+  let pageNumber = 1
   let initialDisplayPosts = posts.slice(
     POSTS_PER_PAGE * (pageNumber - 1),
     POSTS_PER_PAGE * pageNumber

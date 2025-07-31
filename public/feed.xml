@@ -7,9 +7,39 @@
 				<language>en-us</language>
 				<managingEditor>other@rustyyow.com (Rusty Yow)</managingEditor>
 				<webMaster>other@rustyyow.com (Rusty Yow)</webMaster>
-				<lastBuildDate>Wed, 01 Jan 2025 06:00:00 GMT</lastBuildDate>
+				<lastBuildDate>Wed, 30 Jul 2025 00:00:00 GMT</lastBuildDate>
 				<atom:link href="https://www.rustyyow.com/feed.xml" rel="self" type="application/rss+xml"/>
 				
+		<item>
+			<guid>https://www.rustyyow.com/blog/reviews/mariopaint</guid>
+			<title>Mario Paint (Switch)</title>
+			<link>https://www.rustyyow.com/blog/reviews/mariopaint</link>
+			<description>The year was 1993 and I was 8 years old. There are fuzzy memories of playing the game Mario Paint for SNES but the audio from Mario Paint is for ever implanted in my head!</description>
+			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>Switch Game</category><category>Review</category><category>Daily Blog</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/quakecon</guid>
+			<title>Quakecon Convention</title>
+			<link>https://www.rustyyow.com/blog/quakecon</link>
+			<description>A various ready-to-use string casing utilities in Typescript.</description>
+			<pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>Quakecon</category><category>Gaming</category><category>string</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/reviews/dkbananza</guid>
+			<title>Donkey Kong Bananza Review</title>
+			<link>https://www.rustyyow.com/blog/reviews/dkbananza</link>
+			<description>I never had the nostalgia of Donkey Kong as it was not really my type of game in the 90s. I still bought this game to give a try so here we go!</description>
+			<pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>Switch Game</category><category>Review</category><category>Daily Blog</category>
+		</item>
+	
 		<item>
 			<guid>https://www.rustyyow.com/blog/2025/new_year_2025</guid>
 			<title>New Year 2025!</title>
@@ -18,6 +48,16 @@
 			<pubDate>Wed, 01 Jan 2025 06:00:00 GMT</pubDate>
 			<author>other@rustyyow.com (Rusty Yow)</author>
 			<category>daily-blog</category><category>gaming</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/3D-printing</guid>
+			<title>3D Printing Adventures</title>
+			<link>https://www.rustyyow.com/blog/3D-printing</link>
+			<description>This is a journey with my new 3D printer (Bambu P1S)</description>
+			<pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>3D Printing</category>
 		</item>
 	
 		<item>
@@ -58,6 +98,26 @@
 			<pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
 			<author>other@rustyyow.com (Rusty Yow)</author>
 			<category>daily-blog</category><category>gaming</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/rightfax-troubleshoot</guid>
+			<title>Rightfax Troubleshooting</title>
+			<link>https://www.rustyyow.com/blog/rightfax-troubleshoot</link>
+			<description>This article is about troubleshooting some Rightfax problems I have dealt with in the past.</description>
+			<pubDate>Sat, 29 Jul 2023 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>Rightfax</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/naming-conventions</guid>
+			<title>Recommended Naming Conventions</title>
+			<link>https://www.rustyyow.com/blog/naming-conventions</link>
+			<description>This is a recommended naming convention for files and folders I created for my company. Id recommend everyone to follow some of these rules when computing.</description>
+			<pubDate>Sun, 02 Oct 2022 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>Sysops</category><category>How-to</category>
 		</item>
 	
 		<item>

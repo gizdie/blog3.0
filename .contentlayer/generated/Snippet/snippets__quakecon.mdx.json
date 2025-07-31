@@ -1,0 +1,52 @@
+{
+  "heading": "Quakecon",
+  "title": "Quakecon Convention",
+  "icon": "React",
+  "date": "2025-07-28T00:00:00.000Z",
+  "tags": [
+    "Quakecon",
+    "Gaming",
+    "string"
+  ],
+  "draft": false,
+  "summary": "A various ready-to-use string casing utilities in Typescript.",
+  "body": {
+    "raw": "![Quakecon](/static/images/blog2025/QuakeconLogo.png)\n### Quakecon 2025!\n\nI have been going to Quakecon since 2005 and have not missed a year yet (except during COVID when it was canceled).\nIt is always my one time a year to spend time with old gaming friends and just chill. Honestly in the past we do more\nhanging out than we do gaming. Either way I will try to share pictures/videos for Quakecon 2025 this year on this snippets\npage.\n\nMore to come.",
+    "code": "var Component=(()=>{var g=Object.create;var o=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var f=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),x=(n,e)=>{for(var a in e)o(n,a,{get:e[a],enumerable:!0})},s=(n,e,a,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of p(e))!w.call(n,i)&&i!==a&&o(n,i,{get:()=>e[i],enumerable:!(r=m(e,i))||r.enumerable});return n};var y=(n,e,a)=>(a=n!=null?g(u(n)):{},s(e||!n||!n.__esModule?o(a,\"default\",{value:n,enumerable:!0}):a,n)),v=n=>s(o({},\"__esModule\",{value:!0}),n);var d=f((I,c)=>{c.exports=_jsx_runtime});var _={};x(_,{default:()=>h,frontmatter:()=>k});var t=y(d()),k={heading:\"Quakecon\",title:\"Quakecon Convention\",date:\"2025-07-28\",icon:\"React\",draft:!1,summary:\"A various ready-to-use string casing utilities in Typescript.\",tags:[\"Quakecon\",\"Gaming\",\"string\"]};function l(n){let e={a:\"a\",div:\"div\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",svg:\"svg\",...n.components},{Image:a}=e;return a||Q(\"Image\",!0),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.div,{children:(0,t.jsx)(a,{alt:\"Quakecon\",src:\"/static/images/blog2025/QuakeconLogo.png\",width:\"1536\",height:\"1024\"})}),(0,t.jsxs)(e.h3,{className:\"content-header\",id:\"quakecon-2025\",children:[(0,t.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#quakecon-2025\",tabIndex:\"-1\",children:(0,t.jsx)(t.Fragment,{children:(0,t.jsx)(e.span,{className:\"content-header-link\",children:(0,t.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,t.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,t.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Quakecon 2025!\"]}),(0,t.jsx)(e.p,{children:\"I have been going to Quakecon since 2005 and have not missed a year yet (except during COVID when it was canceled). It is always my one time a year to spend time with old gaming friends and just chill. Honestly in the past we do more hanging out than we do gaming. Either way I will try to share pictures/videos for Quakecon 2025 this year on this snippets page.\"}),(0,t.jsx)(e.p,{children:\"More to come.\"})]})}function h(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(l,{...n})}):l(n)}function Q(n,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+n+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return v(_);})();\n;return Component;"
+  },
+  "_id": "snippets/quakecon.mdx",
+  "_raw": {
+    "sourceFilePath": "snippets/quakecon.mdx",
+    "sourceFileName": "quakecon.mdx",
+    "sourceFileDir": "snippets",
+    "contentType": "mdx",
+    "flattenedPath": "snippets/quakecon"
+  },
+  "type": "Snippet",
+  "readingTime": {
+    "text": "1 min read",
+    "minutes": 0.385,
+    "time": 23100,
+    "words": 77
+  },
+  "slug": "quakecon",
+  "path": "snippets/quakecon",
+  "filePath": "snippets/quakecon.mdx",
+  "toc": [
+    {
+      "value": "Quakecon 2025!",
+      "url": "#quakecon-2025",
+      "depth": 3
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "CodeSnippet",
+    "headline": "Quakecon Convention",
+    "datePublished": "2025-07-28T00:00:00.000Z",
+    "dateModified": "2025-07-28T00:00:00.000Z",
+    "description": "A various ready-to-use string casing utilities in Typescript.",
+    "image": "/static/images/twitter-card.jpeg",
+    "url": "https://www.rustyyow.com/snippets/quakecon"
+  }
+}

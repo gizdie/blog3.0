@@ -1,0 +1,25 @@
+
+		<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+			<channel>
+				<title>Rusty&#39;s Blog and Portfolio</title>
+				<link>https://www.rustyyow.com/blog</link>
+				<description>A compendium of my knowledge... or just my blog, however you want to look at it.</description>
+				<language>en-us</language>
+				<managingEditor>other@rustyyow.com (Rusty Yow)</managingEditor>
+				<webMaster>other@rustyyow.com (Rusty Yow)</webMaster>
+				<lastBuildDate>Sun, 02 Oct 2022 00:00:00 GMT</lastBuildDate>
+				<atom:link href="https://www.rustyyow.com/tags/how-to/feed.xml" rel="self" type="application/rss+xml"/>
+				
+		<item>
+			<guid>https://www.rustyyow.com/blog/naming-conventions</guid>
+			<title>Recommended Naming Conventions</title>
+			<link>https://www.rustyyow.com/blog/naming-conventions</link>
+			<description>This is a recommended naming convention for files and folders I created for my company. Id recommend everyone to follow some of these rules when computing.</description>
+			<pubDate>Sun, 02 Oct 2022 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>Sysops</category><category>How-to</category>
+		</item>
+	
+			</channel>
+		</rss>
+	

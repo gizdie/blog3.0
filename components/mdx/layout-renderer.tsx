@@ -2,6 +2,12 @@ import type { MDXComponents } from 'mdx/types'
 import React from 'react'
 import ReactDOM from 'react-dom'
 import * as _jsx_runtime from 'react/jsx-runtime'
+import YouTube from './YouTube'; // adjust path if needed
+
+const mdxComponents = {
+  YouTube,
+  // Add any other custom MDX components here
+};
 
 export interface MDXLayoutRenderer {
   code: string
@@ -28,7 +34,7 @@ export function useMDXComponent(
   return React.useMemo(() => getMDXComponent(code, globals), [code, globals])
 }
 
-export function MDXLayoutRenderer({ code, components, ...rest }: MDXLayoutRenderer) {
-  let Mdx = useMDXComponent(code)
-  return <Mdx components={components} {...rest} />
+export function MDXLayoutRenderer({ code, components = {}, ...rest }: MDXLayoutRenderer) {
+  const Mdx = useMDXComponent(code)
+  return <Mdx components={{ ...mdxComponents, ...components }} {...rest} />
 }

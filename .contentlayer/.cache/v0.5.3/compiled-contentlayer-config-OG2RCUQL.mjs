@@ -24,11 +24,11 @@ var SITE_METADATA = {
   theme: "system",
   // system, dark or light
   siteUrl: "https://www.rustyyow.com",
-  siteRepo: "",
+  siteRepo: "https://github.com/gizdie/blog3.0",
   siteLogo: `${process.env.BASE_PATH || ""}/static/images/profilepic.jpeg`,
   socialBanner: `${process.env.BASE_PATH || ""}/static/images/twitter-card.jpeg`,
   email: "other@rustyyow.com",
-  github: "",
+  github: "https://github.com/gizdie/blog3.0",
   x: "",
   facebook: "",
   youtube: "",
@@ -384,7 +384,8 @@ var contentlayer_config_default = makeSource({
         }
       ],
       rehypePresetMinify
-    ]
+    ],
+    useMDXComponents: "./components/mdx/use-mdx-components.tsx"
   },
   onSuccess: async (importData) => {
     let { allBlogs, allSnippets } = await importData();
@@ -400,4 +401,4 @@ export {
   Snippet,
   contentlayer_config_default as default
 };
-//# sourceMappingURL=compiled-contentlayer-config-HBPIA6H6.mjs.map
+//# sourceMappingURL=compiled-contentlayer-config-OG2RCUQL.mjs.map

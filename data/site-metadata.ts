@@ -7,11 +7,11 @@ export const SITE_METADATA = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.rustyyow.com',
-  siteRepo: '',
+  siteRepo: 'https://github.com/gizdie/blog3.0',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/profilepic.jpeg`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.jpeg`,
   email: 'other@rustyyow.com',
-  github: '',
+  github: 'https://github.com/gizdie/blog3.0',
   x: '',
   facebook: '',
   youtube: '',

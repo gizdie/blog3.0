@@ -40,6 +40,16 @@
 			<category>daily-blog</category><category>gaming</category>
 		</item>
 	
+		<item>
+			<guid>https://www.rustyyow.com/blog/quakecon</guid>
+			<title>Quakecon Convention</title>
+			<link>https://www.rustyyow.com/blog/quakecon</link>
+			<description>A various ready-to-use string casing utilities in Typescript.</description>
+			<pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>Quakecon</category><category>Gaming</category><category>string</category>
+		</item>
+	
 			</channel>
 		</rss>
 	

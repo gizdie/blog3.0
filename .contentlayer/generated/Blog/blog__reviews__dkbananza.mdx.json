@@ -1,0 +1,77 @@
+{
+  "title": "Donkey Kong Bananza Review",
+  "date": "2025-07-22T00:00:00.000Z",
+  "tags": [
+    "Switch Game",
+    "Review",
+    "Daily Blog"
+  ],
+  "lastmod": "2025-07-22T00:00:00.000Z",
+  "draft": false,
+  "summary": "I never had the nostalgia of Donkey Kong as it was not really my type of game in the 90s. I still bought this game to give a try so here we go!",
+  "images": [
+    "/static/images/blog2025/DonkeyKongBananzaReview.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "body": {
+    "raw": "\nI never played the old *Donkey Kong* games in the past (other than the original arcade *Donkey Kong*), so this is a new monkey experience for me. I tend to get bored with platform-type games like *Mario* and so on. They’re fun for a while, but I rarely finish them.\n\n*Donkey Kong Bananza* feels more open-world and less platform-heavy to me, so I’m enjoying it so far. That’s not to say I won’t eventually get bored, but I’m still early on—this will be an ongoing game review post.\n\n### Graphics & Presentation\n\nSince the Switch 2 is still pretty new, there aren’t many games that fully take advantage of its power. *Donkey Kong Bananza* feels like Nintendo’s first true Switch 2 feature title. I don’t count *Mario Kart* because, in my opinion, it’s not too different from previous entries.\n\nThe graphics are… well, Nintendo graphics. But what I really enjoy is the destructible world. A lot of the environment can be smashed or broken, and that’s just fun to do.\n\nI also enjoy collecting coins, bananas, and other items. There’s something satisfying about smashing things and finding hidden goodies. I keep getting sidetracked looking for hidden items instead of just finishing the level—but that’s okay since you can always come back later.\n\n### The Game\n\nI’m not typically a fan of Nintendo’s cartoon characters. They make for fun games, sure, but I have a hard time getting emotionally invested in them. Maybe Link from *Zelda* is the closest exception for me.\n\nAs for difficulty, I haven’t found the game very hard so far—I haven’t even died once. Maybe I’m just an epic gamer!\n\nSome of the mini-games feel like a blast from the past, with a 2D camera angle despite the full 3D engine. The game keeps mixing things up—I haven’t felt like I’m repeating the same setting with each map.\n\n### Sound & Audio\n\nThe sound is good, but also… it’s a Nintendo-sounding game. Sound effects match the action well—it’s pretty satisfying to hear things smash, crack, and break.\n\nHere’s one complaint: **no option to turn off the music**. Why does Nintendo think they know what’s best for us? I hate being forced to listen to music, especially in a game that’s trying to be immersive. Nintendo, give us the option to turn off the game music!\n\n### Story\n\nI don’t really know… DK is there, something crashes, and there’s a talking rock. I’ll report back later on this.\n\nAfter playing for a while, I’m still not entirely sure what’s going on, other than some “void corruption” in the world that you’re trying to fix. That’s enough for now.\n\n### Final Thoughts\n\n**Cons**: High Nintendo price tag, no option to disable music  \n**Pros**: Runs smoothly, great for collectors, fun destruction mechanics\n\n\n![4 out of 5 Score](/static/images/GameReview4of5.png)\n",
+    "code": "var Component=(()=>{var m=Object.create;var o=Object.defineProperty;var g=Object.getOwnPropertyDescriptor;var p=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,u=Object.prototype.hasOwnProperty;var w=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),y=(t,e)=>{for(var a in e)o(t,a,{get:e[a],enumerable:!0})},l=(t,e,a,r)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of p(e))!u.call(t,i)&&i!==a&&o(t,i,{get:()=>e[i],enumerable:!(r=g(e,i))||r.enumerable});return t};var v=(t,e,a)=>(a=t!=null?m(f(t)):{},l(e||!t||!t.__esModule?o(a,\"default\",{value:t,enumerable:!0}):a,t)),k=t=>l(o({},\"__esModule\",{value:!0}),t);var h=w((M,s)=>{s.exports=_jsx_runtime});var I={};y(I,{default:()=>c,frontmatter:()=>b});var n=v(h()),b={title:\"Donkey Kong Bananza Review\",date:\"2025-07-22\",lastmod:\"2025-07-22\",tags:[\"Switch Game\",\"Review\",\"Daily Blog\"],draft:!1,summary:\"I never had the nostalgia of Donkey Kong as it was not really my type of game in the 90s. I still bought this game to give a try so here we go!\",images:[\"/static/images/blog2025/DonkeyKongBananzaReview.jpg\"],authors:[\"default\"]};function d(t){let e={a:\"a\",br:\"br\",div:\"div\",em:\"em\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",strong:\"strong\",svg:\"svg\",...t.components},{Image:a}=e;return a||x(\"Image\",!0),(0,n.jsxs)(n.Fragment,{children:[(0,n.jsxs)(e.p,{children:[\"I never played the old \",(0,n.jsx)(e.em,{children:\"Donkey Kong\"}),\" games in the past (other than the original arcade \",(0,n.jsx)(e.em,{children:\"Donkey Kong\"}),\"), so this is a new monkey experience for me. I tend to get bored with platform-type games like \",(0,n.jsx)(e.em,{children:\"Mario\"}),\" and so on. They\\u2019re fun for a while, but I rarely finish them.\"]}),(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.em,{children:\"Donkey Kong Bananza\"}),\" feels more open-world and less platform-heavy to me, so I\\u2019m enjoying it so far. That\\u2019s not to say I won\\u2019t eventually get bored, but I\\u2019m still early on\\u2014this will be an ongoing game review post.\"]}),(0,n.jsxs)(e.h3,{className:\"content-header\",id:\"graphics--presentation\",children:[(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#graphics--presentation\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Graphics & Presentation\"]}),(0,n.jsxs)(e.p,{children:[\"Since the Switch 2 is still pretty new, there aren\\u2019t many games that fully take advantage of its power. \",(0,n.jsx)(e.em,{children:\"Donkey Kong Bananza\"}),\" feels like Nintendo\\u2019s first true Switch 2 feature title. I don\\u2019t count \",(0,n.jsx)(e.em,{children:\"Mario Kart\"}),\" because, in my opinion, it\\u2019s not too different from previous entries.\"]}),(0,n.jsx)(e.p,{children:\"The graphics are\\u2026 well, Nintendo graphics. But what I really enjoy is the destructible world. A lot of the environment can be smashed or broken, and that\\u2019s just fun to do.\"}),(0,n.jsx)(e.p,{children:\"I also enjoy collecting coins, bananas, and other items. There\\u2019s something satisfying about smashing things and finding hidden goodies. I keep getting sidetracked looking for hidden items instead of just finishing the level\\u2014but that\\u2019s okay since you can always come back later.\"}),(0,n.jsxs)(e.h3,{className:\"content-header\",id:\"the-game\",children:[(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#the-game\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"The Game\"]}),(0,n.jsxs)(e.p,{children:[\"I\\u2019m not typically a fan of Nintendo\\u2019s cartoon characters. They make for fun games, sure, but I have a hard time getting emotionally invested in them. Maybe Link from \",(0,n.jsx)(e.em,{children:\"Zelda\"}),\" is the closest exception for me.\"]}),(0,n.jsx)(e.p,{children:\"As for difficulty, I haven\\u2019t found the game very hard so far\\u2014I haven\\u2019t even died once. Maybe I\\u2019m just an epic gamer!\"}),(0,n.jsx)(e.p,{children:\"Some of the mini-games feel like a blast from the past, with a 2D camera angle despite the full 3D engine. The game keeps mixing things up\\u2014I haven\\u2019t felt like I\\u2019m repeating the same setting with each map.\"}),(0,n.jsxs)(e.h3,{className:\"content-header\",id:\"sound--audio\",children:[(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#sound--audio\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Sound & Audio\"]}),(0,n.jsx)(e.p,{children:\"The sound is good, but also\\u2026 it\\u2019s a Nintendo-sounding game. Sound effects match the action well\\u2014it\\u2019s pretty satisfying to hear things smash, crack, and break.\"}),(0,n.jsxs)(e.p,{children:[\"Here\\u2019s one complaint: \",(0,n.jsx)(e.strong,{children:\"no option to turn off the music\"}),\". Why does Nintendo think they know what\\u2019s best for us? I hate being forced to listen to music, especially in a game that\\u2019s trying to be immersive. Nintendo, give us the option to turn off the game music!\"]}),(0,n.jsxs)(e.h3,{className:\"content-header\",id:\"story\",children:[(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#story\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Story\"]}),(0,n.jsx)(e.p,{children:\"I don\\u2019t really know\\u2026 DK is there, something crashes, and there\\u2019s a talking rock. I\\u2019ll report back later on this.\"}),(0,n.jsx)(e.p,{children:\"After playing for a while, I\\u2019m still not entirely sure what\\u2019s going on, other than some \\u201Cvoid corruption\\u201D in the world that you\\u2019re trying to fix. That\\u2019s enough for now.\"}),(0,n.jsxs)(e.h3,{className:\"content-header\",id:\"final-thoughts\",children:[(0,n.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#final-thoughts\",tabIndex:\"-1\",children:(0,n.jsx)(n.Fragment,{children:(0,n.jsx)(e.span,{className:\"content-header-link\",children:(0,n.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,n.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,n.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Final Thoughts\"]}),(0,n.jsxs)(e.p,{children:[(0,n.jsx)(e.strong,{children:\"Cons\"}),\": High Nintendo price tag, no option to disable music\",(0,n.jsx)(e.br,{}),(0,n.jsx)(e.strong,{children:\"Pros\"}),\": Runs smoothly, great for collectors, fun destruction mechanics\"]}),(0,n.jsx)(e.div,{children:(0,n.jsx)(a,{alt:\"4 out of 5 Score\",src:\"/static/images/GameReview4of5.png\",width:\"1024\",height:\"1024\"})})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(d,{...t})}):d(t)}function x(t,e){throw new Error(\"Expected \"+(e?\"component\":\"object\")+\" `\"+t+\"` to be defined: you likely forgot to import, pass, or provide it.\")}return k(I);})();\n;return Component;"
+  },
+  "_id": "blog/reviews/dkbananza.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/reviews/dkbananza.mdx",
+    "sourceFileName": "dkbananza.mdx",
+    "sourceFileDir": "blog/reviews",
+    "contentType": "mdx",
+    "flattenedPath": "blog/reviews/dkbananza"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "3 min read",
+    "minutes": 2.335,
+    "time": 140100,
+    "words": 467
+  },
+  "slug": "reviews/dkbananza",
+  "path": "blog/reviews/dkbananza",
+  "filePath": "blog/reviews/dkbananza.mdx",
+  "toc": [
+    {
+      "value": "Graphics & Presentation",
+      "url": "#graphics--presentation",
+      "depth": 3
+    },
+    {
+      "value": "The Game",
+      "url": "#the-game",
+      "depth": 3
+    },
+    {
+      "value": "Sound & Audio",
+      "url": "#sound--audio",
+      "depth": 3
+    },
+    {
+      "value": "Story",
+      "url": "#story",
+      "depth": 3
+    },
+    {
+      "value": "Final Thoughts",
+      "url": "#final-thoughts",
+      "depth": 3
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Donkey Kong Bananza Review",
+    "datePublished": "2025-07-22T00:00:00.000Z",
+    "dateModified": "2025-07-22T00:00:00.000Z",
+    "description": "I never had the nostalgia of Donkey Kong as it was not really my type of game in the 90s. I still bought this game to give a try so here we go!",
+    "image": "/static/images/blog2025/DonkeyKongBananzaReview.jpg",
+    "url": "https://www.rustyyow.com/blog/reviews/dkbananza"
+  }
+}
