@@ -44,6 +44,10 @@ import Env from '~/icons/env.svg'
 import Html from '~/icons/html5.svg'
 import Postcss from '~/icons/postcss.svg'
 import Commitlint from '~/icons/commitlint.svg'
+import Puzzleicon from '~/icons/puzzleicon.svg'
+import Cpu from '~/icons/cpu.svg'
+import Photoicon from '~/icons/photoicon.svg'
+import Textfile from '~/icons/textfile.svg'
 
 export let BrandsMap: Record<
   string,
@@ -246,6 +250,18 @@ export let BrandsMap: Record<
   Pnpm: {
     Icon: Pnpm,
     url: 'https://pnpm.io/',
+  },
+  Puzzleicon: {
+  Icon: Puzzleicon,
+  },
+  Cpu: {
+  Icon: Cpu,
+  },
+  Photoicon: {
+  Icon: Photoicon,
+  },
+  Textfile: {
+  Icon: Textfile,
   },
   
 }

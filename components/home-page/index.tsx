@@ -34,7 +34,7 @@ export function Home({
             </div>
 
             <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2 dark:text-gray-400">
-            <p>Hey I'm Rusty, a System Administrator for the University of Texas. I have 10 years of experience managing server
+            <p>Hey I'm Rusty, a System Administrator for the University of Texas. I have 12 years of experience managing server
               infrastructures and data-center operations across multiple platforms and organizations. Effectively plan, install,
               configure and optimize the IT infrastructure to consistently achieve high availability and performance.</p>
               <p>You have stumbled upon my blog and personal website. Here I post projects I work on or just anything that 
