@@ -1,0 +1,72 @@
+{
+  "title": "What Ya Playing 2025",
+  "date": "2025-10-29T00:00:00.000Z",
+  "tags": [
+    "daily-blog",
+    "gaming"
+  ],
+  "lastmod": "2025-10-29T00:00:00.000Z",
+  "draft": false,
+  "summary": "Something",
+  "images": [
+    "/static/images/blog2025/newworld_arcraiders.jpg"
+  ],
+  "authors": [
+    "default"
+  ],
+  "layout": "PostLayout",
+  "body": {
+    "raw": "### The End of New World!\n\nAmazon's layoffs impacted Amazon Game Studios apparently and with that the support/updates for New World are gone. The servers will stay up\nfor a while but with no new content or updates. Very sad week for me as I still play this game and have played it since beta. All of this because\nAmazon wants to focus on casual and AI built game slop.\n\nIt's kind of devastating since only a week ago New World launched maybe one of their best updates/expansions. Not to mention I have been playing \nthis game since beta in 2020 or 2021. I have 1600 hours into the game. This definitely makes me want to never support an Amazon product again. I'm \ntempted to cancel my Amazon Prime membership but i'm not the only one that uses it to purchase things. That and I still have value in it...\n\nThere is a [Petition](https://www.change.org/p/reinstate-ags-new-world-aeternum-team?recruited_by_id=6b53b700-2eca-0130-e63d-3c764e04ae02&recruiter=37161990)\nto sign to keep New World alive. I highly doubt Amazon will care but I signed it none the less.\n\n### Arc Raiders\nI got to play this game during the beta/play test a month ago. I don't normally like \"extraction games\" but this one seems really good because\nmore often than not the bigger threat is the robot NPCs and not the actual real people. I love the idea of extraction games in a post apocalyptic \nworld, finding and collecting, building a better image for your self, etc.\n\nOn top of Arc Raiders being a good idea, the sounds effects really hit the spot for me, the graphics are good, and some of the game mechanics are\nreally a cherry on top.\n\n### Battlefield 6\nI went on a whelm and bought Battlefield 6. I used to play BF all the time with a buddy, but over the years I think we both feel BF has gone\ndown hill a little. Maybe its the hate for EA games as with their good games but expensive and micro-transactions junk. Already I seen \nsome battle pass that costs \\$24 which is not an expansion pack. In a years time if they added a battle pass and it costs \\$24 for more things \nthen sure, sounds great. This game has not even been out for a month.\n\nSo anyways i'm playing BF6 on and off just trying out FPS shooting. It feels a bit too much like Call of Duty which I don't like any more. \nMaybe I just suck but too often I spawn and get shot in the back when the enemies should be in front of the battle field not back behind me in \nmy own base area.... I probably just suck at FPS these days.\n\n### Borderlands 4\nI was excited about Borderlands so bought it when it came out but then New World expansion came out and I was more exited about that. Also \ni'm waiting for my friend to build a new computer because hes not able to run Borderlands 4 very well yet. This game is on the back burner for now.\n\n\n\n**Side Note:** Do the AI generated header images look dumb? I figure it's an easy way to make a image and not do it my self because I suck at\nphotoshop.\n\n\n\n",
+    "code": "var Component=(()=>{var m=Object.create;var l=Object.defineProperty;var u=Object.getOwnPropertyDescriptor;var g=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,w=Object.prototype.hasOwnProperty;var b=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),f=(t,e)=>{for(var n in e)l(t,n,{get:e[n],enumerable:!0})},s=(t,e,n,i)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let o of g(e))!w.call(t,o)&&o!==n&&l(t,o,{get:()=>e[o],enumerable:!(i=u(e,o))||i.enumerable});return t};var y=(t,e,n)=>(n=t!=null?m(p(t)):{},s(e||!t||!t.__esModule?l(n,\"default\",{value:t,enumerable:!0}):n,t)),I=t=>s(l({},\"__esModule\",{value:!0}),t);var h=b((N,r)=>{r.exports=_jsx_runtime});var v={};f(v,{default:()=>c,frontmatter:()=>x});var a=y(h()),x={title:\"What Ya Playing 2025\",date:\"2025-10-29\",lastmod:\"2025-10-29\",tags:[\"daily-blog\",\"gaming\"],draft:!1,summary:\"Something\",images:[\"/static/images/blog2025/newworld_arcraiders.jpg\"],authors:[\"default\"],layout:\"PostLayout\"};function d(t){let e={a:\"a\",h3:\"h3\",p:\"p\",path:\"path\",span:\"span\",strong:\"strong\",svg:\"svg\",...t.components};return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"the-end-of-new-world\",children:[(0,a.jsx)(e.a,{href:\"#the-end-of-new-world\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"The End of New World!\"]}),(0,a.jsx)(e.p,{children:\"Amazon's layoffs impacted Amazon Game Studios apparently and with that the support/updates for New World are gone. The servers will stay up for a while but with no new content or updates. Very sad week for me as I still play this game and have played it since beta. All of this because Amazon wants to focus on casual and AI built game slop.\"}),(0,a.jsx)(e.p,{children:\"It's kind of devastating since only a week ago New World launched maybe one of their best updates/expansions. Not to mention I have been playing this game since beta in 2020 or 2021. I have 1600 hours into the game. This definitely makes me want to never support an Amazon product again. I'm tempted to cancel my Amazon Prime membership but i'm not the only one that uses it to purchase things. That and I still have value in it...\"}),(0,a.jsxs)(e.p,{children:[\"There is a \",(0,a.jsx)(e.a,{href:\"https://www.change.org/p/reinstate-ags-new-world-aeternum-team?recruited_by_id=6b53b700-2eca-0130-e63d-3c764e04ae02&recruiter=37161990\",children:\"Petition\"}),\" to sign to keep New World alive. I highly doubt Amazon will care but I signed it none the less.\"]}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"arc-raiders\",children:[(0,a.jsx)(e.a,{href:\"#arc-raiders\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Arc Raiders\"]}),(0,a.jsx)(e.p,{children:`I got to play this game during the beta/play test a month ago. I don't normally like \"extraction games\" but this one seems really good because more often than not the bigger threat is the robot NPCs and not the actual real people. I love the idea of extraction games in a post apocalyptic world, finding and collecting, building a better image for your self, etc.`}),(0,a.jsx)(e.p,{children:\"On top of Arc Raiders being a good idea, the sounds effects really hit the spot for me, the graphics are good, and some of the game mechanics are really a cherry on top.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"battlefield-6\",children:[(0,a.jsx)(e.a,{href:\"#battlefield-6\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Battlefield 6\"]}),(0,a.jsx)(e.p,{children:\"I went on a whelm and bought Battlefield 6. I used to play BF all the time with a buddy, but over the years I think we both feel BF has gone down hill a little. Maybe its the hate for EA games as with their good games but expensive and micro-transactions junk. Already I seen some battle pass that costs $24 which is not an expansion pack. In a years time if they added a battle pass and it costs $24 for more things then sure, sounds great. This game has not even been out for a month.\"}),(0,a.jsx)(e.p,{children:\"So anyways i'm playing BF6 on and off just trying out FPS shooting. It feels a bit too much like Call of Duty which I don't like any more. Maybe I just suck but too often I spawn and get shot in the back when the enemies should be in front of the battle field not back behind me in my own base area.... I probably just suck at FPS these days.\"}),(0,a.jsxs)(e.h3,{className:\"content-header\",id:\"borderlands-4\",children:[(0,a.jsx)(e.a,{href:\"#borderlands-4\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,a.jsx)(a.Fragment,{children:(0,a.jsx)(e.span,{className:\"content-header-link\",children:(0,a.jsxs)(e.svg,{className:\"h-5 linkicon w-5\",fill:\"currentColor\",viewBox:\"0 0 20 20\",xmlns:\"http://www.w3.org/2000/svg\",children:[(0,a.jsx)(e.path,{d:\"M12.232 4.232a2.5 2.5 0 0 1 3.536 3.536l-1.225 1.224a.75.75 0 0 0 1.061 1.06l1.224-1.224a4 4 0 0 0-5.656-5.656l-3 3a4 4 0 0 0 .225 5.865.75.75 0 0 0 .977-1.138 2.5 2.5 0 0 1-.142-3.667l3-3Z\"}),(0,a.jsx)(e.path,{d:\"M11.603 7.963a.75.75 0 0 0-.977 1.138 2.5 2.5 0 0 1 .142 3.667l-3 3a2.5 2.5 0 0 1-3.536-3.536l1.225-1.224a.75.75 0 0 0-1.061-1.06l-1.224 1.224a4 4 0 1 0 5.656 5.656l3-3a4 4 0 0 0-.225-5.865Z\"})]})})})}),\"Borderlands 4\"]}),(0,a.jsx)(e.p,{children:\"I was excited about Borderlands so bought it when it came out but then New World expansion came out and I was more exited about that. Also i'm waiting for my friend to build a new computer because hes not able to run Borderlands 4 very well yet. This game is on the back burner for now.\"}),(0,a.jsxs)(e.p,{children:[(0,a.jsx)(e.strong,{children:\"Side Note:\"}),\" Do the AI generated header images look dumb? I figure it's an easy way to make a image and not do it my self because I suck at photoshop.\"]})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,a.jsx)(e,{...t,children:(0,a.jsx)(d,{...t})}):d(t)}return I(v);})();\n;return Component;"
+  },
+  "_id": "blog/2025/what-ya-playing-2025.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/2025/what-ya-playing-2025.mdx",
+    "sourceFileName": "what-ya-playing-2025.mdx",
+    "sourceFileDir": "blog/2025",
+    "contentType": "mdx",
+    "flattenedPath": "blog/2025/what-ya-playing-2025"
+  },
+  "type": "Blog",
+  "readingTime": {
+    "text": "3 min read",
+    "minutes": 2.71,
+    "time": 162600,
+    "words": 542
+  },
+  "slug": "2025/what-ya-playing-2025",
+  "path": "blog/2025/what-ya-playing-2025",
+  "filePath": "blog/2025/what-ya-playing-2025.mdx",
+  "toc": [
+    {
+      "value": "The End of New World!",
+      "url": "#the-end-of-new-world",
+      "depth": 3
+    },
+    {
+      "value": "Arc Raiders",
+      "url": "#arc-raiders",
+      "depth": 3
+    },
+    {
+      "value": "Battlefield 6",
+      "url": "#battlefield-6",
+      "depth": 3
+    },
+    {
+      "value": "Borderlands 4",
+      "url": "#borderlands-4",
+      "depth": 3
+    }
+  ],
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "What Ya Playing 2025",
+    "datePublished": "2025-10-29T00:00:00.000Z",
+    "dateModified": "2025-10-29T00:00:00.000Z",
+    "description": "Something",
+    "image": "/static/images/blog2025/newworld_arcraiders.jpg",
+    "url": "https://www.rustyyow.com/blog/2025/what-ya-playing-2025"
+  }
+}
