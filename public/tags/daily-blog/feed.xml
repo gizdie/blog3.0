@@ -91,26 +91,6 @@
 		</item>
 	
 		<item>
-			<guid>https://www.rustyyow.com/blog/2025/new_year_2025</guid>
-			<title>New Year 2025!</title>
-			<link>https://www.rustyyow.com/blog/2025/new_year_2025</link>
-			<description>It&#39;s a new year and hopfully I will keep this website up to date more this year. At least thats the plan! Lets talk about what happened in 2024 and whats going to happen in 2025!</description>
-			<pubDate>Wed, 01 Jan 2025 06:00:00 GMT</pubDate>
-			<author>other@rustyyow.com (Rusty Yow)</author>
-			<category>daily-blog</category><category>gaming</category>
-		</item>
-	
-		<item>
-			<guid>https://www.rustyyow.com/blog/2025/what-ya-playing-2025</guid>
-			<title>What Ya Playing 2025</title>
-			<link>https://www.rustyyow.com/blog/2025/what-ya-playing-2025</link>
-			<description>It is near the end of 2025 and lets talk about what I have been playing recently, sad news on the game front, and what will be played into 2026.</description>
-			<pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
-			<author>other@rustyyow.com (Rusty Yow)</author>
-			<category>daily-blog</category><category>gaming</category>
-		</item>
-	
-		<item>
 			<guid>https://www.rustyyow.com/blog/reviews/dicethrone</guid>
 			<title>Dice Throne Game Review</title>
 			<link>https://www.rustyyow.com/blog/reviews/dicethrone</link>
@@ -138,6 +118,26 @@
 			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
 			<author>other@rustyyow.com (Rusty Yow)</author>
 			<category>Switch Game</category><category>Review</category><category>Daily Blog</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2025/new_year_2025</guid>
+			<title>New Year 2025!</title>
+			<link>https://www.rustyyow.com/blog/2025/new_year_2025</link>
+			<description>It&#39;s a new year and hopfully I will keep this website up to date more this year. At least thats the plan! Lets talk about what happened in 2024 and whats going to happen in 2025!</description>
+			<pubDate>Wed, 01 Jan 2025 06:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category><category>gaming</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2025/what-ya-playing-2025</guid>
+			<title>What Ya Playing 2025</title>
+			<link>https://www.rustyyow.com/blog/2025/what-ya-playing-2025</link>
+			<description>It is near the end of 2025 and lets talk about what I have been playing recently, sad news on the game front, and what will be played into 2026.</description>
+			<pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category><category>gaming</category>
 		</item>
 	
 			</channel>
