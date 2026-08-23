@@ -9,7 +9,7 @@ import { sortPosts } from '~/utils/misc'
 export let metadata = genPageMetadata({ title: 'Snippets' })
 
 export default function Snippets() {
-  let snippets = allCoreContent(sortPosts(allSnippets))
+  let snippets = allCoreContent(sortPosts(allSnippets)).filter((snippet) => !snippet.draft)
 
   return (
     <Container className="pt-4 lg:pt-12">

@@ -31,26 +31,6 @@
 		</item>
 	
 		<item>
-			<guid>https://www.rustyyow.com/blog/2023/WhatYaPlaying_NewWorld</guid>
-			<title>What Ya Playing - New World</title>
-			<link>https://www.rustyyow.com/blog/2023/WhatYaPlaying_NewWorld</link>
-			<description>What games have I been playing for 2023! What i&#39;m looking forward to, what I think about current games, and just general ranting.</description>
-			<pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
-			<author>other@rustyyow.com (Rusty Yow)</author>
-			<category>daily-blog</category><category>gaming</category>
-		</item>
-	
-		<item>
-			<guid>https://www.rustyyow.com/blog/2023/neighborhood-green-belt</guid>
-			<title>Neighborhood Green Belt</title>
-			<link>https://www.rustyyow.com/blog/2023/neighborhood-green-belt</link>
-			<description>Neighborhood &quot;green belt&quot; that I like to explore from time to time.</description>
-			<pubDate>Sun, 10 Dec 2023 00:00:00 GMT</pubDate>
-			<author>other@rustyyow.com (Rusty Yow)</author>
-			<category>daily-blog</category>
-		</item>
-	
-		<item>
 			<guid>https://www.rustyyow.com/blog/2021/december-blog</guid>
 			<title>December Daily Blog</title>
 			<link>https://www.rustyyow.com/blog/2021/december-blog</link>
@@ -91,11 +71,41 @@
 		</item>
 	
 		<item>
+			<guid>https://www.rustyyow.com/blog/2023/WhatYaPlaying_NewWorld</guid>
+			<title>What Ya Playing - New World</title>
+			<link>https://www.rustyyow.com/blog/2023/WhatYaPlaying_NewWorld</link>
+			<description>What games have I been playing for 2023! What i&#39;m looking forward to, what I think about current games, and just general ranting.</description>
+			<pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category><category>gaming</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2023/neighborhood-green-belt</guid>
+			<title>Neighborhood Green Belt</title>
+			<link>https://www.rustyyow.com/blog/2023/neighborhood-green-belt</link>
+			<description>Neighborhood &quot;green belt&quot; that I like to explore from time to time.</description>
+			<pubDate>Sun, 10 Dec 2023 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category>
+		</item>
+	
+		<item>
 			<guid>https://www.rustyyow.com/blog/2025/new_year_2025</guid>
 			<title>New Year 2025!</title>
 			<link>https://www.rustyyow.com/blog/2025/new_year_2025</link>
 			<description>It&#39;s a new year and hopfully I will keep this website up to date more this year. At least thats the plan! Lets talk about what happened in 2024 and whats going to happen in 2025!</description>
 			<pubDate>Wed, 01 Jan 2025 06:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category><category>gaming</category>
+		</item>
+	
+		<item>
+			<guid>https://www.rustyyow.com/blog/2025/what-ya-playing-2025</guid>
+			<title>What Ya Playing 2025</title>
+			<link>https://www.rustyyow.com/blog/2025/what-ya-playing-2025</link>
+			<description>It is near the end of 2025 and lets talk about what I have been playing recently, sad news on the game front, and what will be played into 2026.</description>
+			<pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
 			<author>other@rustyyow.com (Rusty Yow)</author>
 			<category>daily-blog</category><category>gaming</category>
 		</item>

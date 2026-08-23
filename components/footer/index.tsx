@@ -1,6 +1,6 @@
 import { clsx } from 'clsx'
 import { Container } from '~/components/ui/container'
-import { SITE_METADATA } from '~/data/site-metadata'
+// import { SITE_METADATA } from '~/data/site-metadata' // re-enable if footer description is restored
 import { FooterMeta } from './footer-meta'
 import { FooterBottom } from './footer-bottom'
 import { FooterNav } from './footer-nav'
@@ -17,10 +17,9 @@ export function Footer() {
         ])}
       >
         <div className="col-span-1 space-y-4 xl:col-span-2">
-          
-          <div className="italic text-gray-500 dark:text-gray-400">{SITE_METADATA.description}</div>
+          {/* <div className="italic text-gray-500 dark:text-gray-400">{SITE_METADATA.description}</div> */}
           <div className="pt-4">
-           
+
           </div>
         </div>
         <FooterNav />

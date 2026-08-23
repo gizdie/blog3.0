@@ -7,9 +7,19 @@
 				<language>en-us</language>
 				<managingEditor>other@rustyyow.com (Rusty Yow)</managingEditor>
 				<webMaster>other@rustyyow.com (Rusty Yow)</webMaster>
-				<lastBuildDate>Wed, 30 Jul 2025 00:00:00 GMT</lastBuildDate>
+				<lastBuildDate>Wed, 29 Oct 2025 00:00:00 GMT</lastBuildDate>
 				<atom:link href="https://www.rustyyow.com/feed.xml" rel="self" type="application/rss+xml"/>
 				
+		<item>
+			<guid>https://www.rustyyow.com/blog/2025/what-ya-playing-2025</guid>
+			<title>What Ya Playing 2025</title>
+			<link>https://www.rustyyow.com/blog/2025/what-ya-playing-2025</link>
+			<description>It is near the end of 2025 and lets talk about what I have been playing recently, sad news on the game front, and what will be played into 2026.</description>
+			<pubDate>Wed, 29 Oct 2025 00:00:00 GMT</pubDate>
+			<author>other@rustyyow.com (Rusty Yow)</author>
+			<category>daily-blog</category><category>gaming</category>
+		</item>
+	
 		<item>
 			<guid>https://www.rustyyow.com/blog/reviews/mariopaint</guid>
 			<title>Mario Paint (Switch)</title>
@@ -18,16 +28,6 @@
 			<pubDate>Wed, 30 Jul 2025 00:00:00 GMT</pubDate>
 			<author>other@rustyyow.com (Rusty Yow)</author>
 			<category>Switch Game</category><category>Review</category><category>Daily Blog</category>
-		</item>
-	
-		<item>
-			<guid>https://www.rustyyow.com/blog/quakecon</guid>
-			<title>Quakecon Convention</title>
-			<link>https://www.rustyyow.com/blog/quakecon</link>
-			<description>A various ready-to-use string casing utilities in Typescript.</description>
-			<pubDate>Mon, 28 Jul 2025 00:00:00 GMT</pubDate>
-			<author>other@rustyyow.com (Rusty Yow)</author>
-			<category>Quakecon</category><category>Gaming</category><category>string</category>
 		</item>
 	
 		<item>
@@ -48,16 +48,6 @@
 			<pubDate>Wed, 01 Jan 2025 06:00:00 GMT</pubDate>
 			<author>other@rustyyow.com (Rusty Yow)</author>
 			<category>daily-blog</category><category>gaming</category>
-		</item>
-	
-		<item>
-			<guid>https://www.rustyyow.com/blog/3D-printing</guid>
-			<title>3D Printing Adventures</title>
-			<link>https://www.rustyyow.com/blog/3D-printing</link>
-			<description>This is a journey with my new 3D printer (Bambu P1S)</description>
-			<pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-			<author>other@rustyyow.com (Rusty Yow)</author>
-			<category>3D Printing</category>
 		</item>
 	
 		<item>
@@ -98,16 +88,6 @@
 			<pubDate>Fri, 18 Aug 2023 00:00:00 GMT</pubDate>
 			<author>other@rustyyow.com (Rusty Yow)</author>
 			<category>daily-blog</category><category>gaming</category>
-		</item>
-	
-		<item>
-			<guid>https://www.rustyyow.com/blog/rightfax-troubleshoot</guid>
-			<title>Rightfax Troubleshooting</title>
-			<link>https://www.rustyyow.com/blog/rightfax-troubleshoot</link>
-			<description>This article is about troubleshooting some Rightfax problems I have dealt with in the past.</description>
-			<pubDate>Sat, 29 Jul 2023 00:00:00 GMT</pubDate>
-			<author>other@rustyyow.com (Rusty Yow)</author>
-			<category>Rightfax</category>
 		</item>
 	
 		<item>

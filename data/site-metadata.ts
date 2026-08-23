@@ -8,7 +8,7 @@ export const SITE_METADATA = {
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.rustyyow.com',
   siteRepo: 'https://github.com/gizdie/blog3.0',
-  siteLogo: `${process.env.BASE_PATH || ''}/static/images/profilepic.jpeg`,
+  siteLogo: `${process.env.BASE_PATH || ''}/static/images/profilepic2.jpg`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.jpeg`,
   email: 'other@rustyyow.com',
   github: 'https://github.com/gizdie/blog3.0',

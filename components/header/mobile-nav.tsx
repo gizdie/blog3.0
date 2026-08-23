@@ -7,7 +7,8 @@ import { Menu, X } from 'lucide-react'
 import { Fragment, useEffect, useRef, useState } from 'react'
 import { Link } from '~/components/ui/link'
 import { Twemoji } from '~/components/ui/twemoji'
-import { HEADER_NAV_LINKS, MORE_NAV_LINKS } from '~/data/navigation'
+import { HEADER_NAV_LINKS } from '~/data/navigation'
+// import { MORE_NAV_LINKS } from '~/data/navigation' // re-enable to bring back "More" links in mobile nav
 import { SITE_METADATA } from '~/data/site-metadata'
 import { Logo } from './logo'
 
@@ -77,7 +78,7 @@ export function MobileNav() {
                 ref={navRef}
                 className="mt-4 flex h-full basis-0 flex-col items-start gap-4 overflow-y-auto pl-10 pt-2"
               >
-                {[...HEADER_NAV_LINKS, ...MORE_NAV_LINKS].map((link) => (
+                {[...HEADER_NAV_LINKS /*, ...MORE_NAV_LINKS */].map((link) => (
                   <Link
                     key={link.title}
                     href={link.href}

@@ -11,7 +11,7 @@ import { HEADER_NAV_LINKS } from '~/data/navigation'
 import { SITE_METADATA } from '~/data/site-metadata'
 import { Logo } from './logo'
 import { MobileNav } from './mobile-nav'
-import { MoreLinks } from './more-links'
+// import { MoreLinks } from './more-links' // "More" nav dropdown disabled for resume-site mode
 import { ThemeSwitcher } from './theme-switcher'
 
 let logged = false
@@ -55,7 +55,7 @@ export function Header() {
                 </Link>
               )
             })}
-            <MoreLinks />
+            {/* <MoreLinks /> */}
           </div>
           <div
             data-orientation="vertical"

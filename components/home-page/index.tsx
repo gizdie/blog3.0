@@ -1,22 +1,23 @@
-import type { Blog, Snippet } from '~/.contentlayer/generated'
+// import type { Blog, Snippet } from '~/.contentlayer/generated' // re-enable when snippets/blog feed is turned back on
 import { ProfileCard } from '~/components/cards/profile'
 import { Container } from '~/components/ui/container'
 import { Twemoji } from '~/components/ui/twemoji'
-import type { CoreContent } from '~/types/data'
+// import type { CoreContent } from '~/types/data'
 import { Greeting } from './greeting'
 import { Intro } from './intro'
-import { LatestPosts } from './latest-posts'
+// import { LatestPosts } from './latest-posts'
 import { BlogLinks } from './links'
+import { TechitPromo } from './techit-promo'
 import { TypedBios } from './typed-bios'
 import NextImage from 'next/image'
 
-export function Home({
+export function Home(/* {
   posts,
   snippets,
 }: {
   posts: CoreContent<Blog>[]
   snippets: CoreContent<Snippet>[]
-}) {
+} */) {
   return (
     <Container as="div" className="pt-4 lg:pt-12">
      
@@ -49,7 +50,8 @@ export function Home({
 
 
 
-      <LatestPosts posts={posts} snippets={snippets} />
+      {/* <LatestPosts posts={posts} snippets={snippets} /> */}
+      <TechitPromo />
       {/* {SITE_METADATA.newsletter?.provider && (
         <div className="flex items-center justify-center py-4 lg:py-10">
           <NewsletterForm />
